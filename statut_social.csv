@@ -1,0 +1,1614 @@
+ID;tombe;site;province;zone_geo;amphore;monnaie;lampe;armement;parure;strigile;instrument de toilette;miroir;vaisselle métallique;vaisselle en verre;matériaux précieux;char;lit funéraire;instrument écriture;quantité objet;tombe_multiple;sexe defunt;classe age defunt;date_debut;date_fin
+1;AIXZAC_sépulture  38;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;150;200
+2;AIXZAC_sépulture 10;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;3;0;0;0;0;1;3;0;0;0;9;non;indéterminé;indéterminé;40;60
+3;AIXZAC_sépulture 21;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;60;90
+4;AIXZAC_sépulture 22;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;3;0;0;0;5;non;indéterminé;indéterminé;100;130
+5;AIXZAC_sépulture 30;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;60;150
+6;AIXZAC_sépulture 32;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;150;200
+7;AIXZAC_sépulture 41;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;60;120
+8;AIXZAC_sépulture 43;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;150;200
+9;AIXZAC_sépulture 46;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;70;130
+10;AIXZAC_sépulture 47;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;50;150
+11;AIXZAC_sépulture 48;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;60;90
+12;AIXZAC_sépulture double 27/28;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;150;200
+13;AIXZAC_tombe-bûcher 12;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;60;90
+14;AIXZAC_tombe-bûcher 13;AIXZAC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;60;90
+15;AVAM_St 101;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte sénile;50;100
+16;AVAM_St 102;AVAM;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte mature;31;70
+17;AVAM_St 104;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;jeune adulte ou adulte mature;50;100
+18;AVAM_St 107;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature ou sénile;31;70
+19;AVAM_St 118;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;jeune adulte ou adulte mature;31;70
+20;AVAM_St 119;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;non;indéterminé;adulte;50;75
+21;AVAM_St 123;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte mature;50;75
+22;AVAM_St 124;AVAM;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;oui;indéterminé;adulte mature + infans I;50;75
+23;AVAM_St 128;AVAM;Germanie;Gaule du centre-est;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;jeune adulte;31;70
+24;AVAM_St 134;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;50;75
+25;AVAM_St 137;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte mature ou sénile;0;0
+26;AVAM_St 139;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;100
+27;AVAM_St 140;AVAM;Germanie;Gaule du centre-est;1;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature ou sénile;30;70
+28;AVAM_St 145/113;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;non;indéterminé;adulte;31;70
+29;AVAM_St 148;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;féminin;adulte mature;50;75
+30;AVAM_St 159;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte mature ou sénile;40;80
+31;AVAM_St 163;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;40;70
+32;AVAM_St 172;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;50;75
+33;AVAM_St 179;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;non;masculin;adulte sénile;1;50
+34;AVAM_St 184;AVAM;Germanie;Gaule du centre-est;0;0;0;0;2;0;0;0;0;0;0;0;0;0;78;oui;masculin +  féminin;adulte sénile + adulte;40;70
+35;AVAM_St 34;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45;non;masculin;adulte mature;30;80
+36;AVAM_St 35;AVAM;Germanie;Gaule du centre-est;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2;oui;masculin;adulte mature;30;80
+37;AVAM_St 36;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte mature;40;70
+38;AVAM_St 38;AVAM;Germanie;Gaule du centre-est;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte;50;75
+39;AVAM_St 41;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;non;indéterminé;adulte mature;40;80
+40;AVAM_St 42;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47;non;indéterminé;adulte mature;50;75
+41;AVAM_St 43;AVAM;Germanie;Gaule du centre-est;0;1;0;0;1;0;0;0;0;1;0;0;0;0;140;non;indéterminé;adulte mature;50;75
+42;AVAM_St 45;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;non;indéterminé;adulte mature;50;75
+43;AVAM_St 47;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte mature;0;0
+44;AVAM_St 49;AVAM;Germanie;Gaule du centre-est;1;0;0;0;0;0;0;0;0;0;0;0;0;1;13;non;masculin;adulte mature;50;75
+45;AVAM_St 50;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;75
+46;AVAM_St 55;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38;non;masculin;adulte mature;30;80
+47;AVAM_St 56;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;1;100
+48;AVAM_St 59;AVAM;Germanie;Gaule du centre-est;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42;non;masculin;adulte mature;70;80
+49;AVAM_St 61;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74;non;indéterminé;juvenis;50;75
+50;AVAM_St 62;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte mature;0;0
+51;AVAM_St 63/69;AVAM;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;infans I + adulte mature;40;80
+52;AVAM_St 65;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;40;70
+53;AVAM_St 72;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68;non;masculin;adulte mature;40;80
+54;AVAM_St 74;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;90;oui;indéterminé + masculin;infans I ou II + adulte mature;50;75
+55;AVAM_St 78;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I;40;70
+56;AVAM_St 80;AVAM;Germanie;Gaule du centre-est;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;75
+57;AVAM_St 81;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;42;non;masculin;adulte mature;50;75
+58;AVAM_St 83/90;AVAM;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;4;0;0;0;0;136;oui;indéterminé + masculin;infans I ou II + adulte mature;60;80
+59;AVAM_St 84;AVAM;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;non;masculin;adulte mature;50;75
+60;AVAM_St 91;AVAM;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;33;non;indéterminé;adulte mature;31;70
+61;AVEC_Structure 1/48;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;150;230
+62;AVEC_Structure 106;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;3;0;0;0;0;8;non;indéterminé;infantile ?;130;160
+63;AVEC_Structure 107;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;3;0;0;0;0;16;non;masculin;adulte;50;130
+64;AVEC_Structure 109;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;jeune adulte;150;230
+65;AVEC_Structure 110 (a ?);AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte mature;130;160
+66;AVEC_Structure 110a;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte mature;130;160
+67;AVEC_Structure 110a ou b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;2;4;oui;indéterminé + masculin;infans I + adulte mature;130;160
+68;AVEC_Structure 111;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;150;230
+69;AVEC_Structure 112;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte mature;130;160
+70;AVEC_Structure 116;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;2;1;0;0;0;13;non;indéterminé;infans I;50;130
+71;AVEC_Structure 119;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;infans I;130;160
+72;AVEC_Structure 121;AVEC;Germanie;Gaule du centre-est;0;0;0;0;1;0;0;0;0;4;0;0;0;0;14;oui;féminin;jeune adulte;150;230
+73;AVEC_Structure 122;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;4;non;indéterminé;infans II;130;160
+74;AVEC_Structure 125;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;juvenis;100;150
+75;AVEC_Structure 126;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;non;masculin;jeune adulte;50;130
+76;AVEC_Structure 127;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;130;160
+77;AVEC_Structure 128;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;100;150
+78;AVEC_Structure 13;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;130
+79;AVEC_Structure 131;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;130;160
+80;AVEC_Structure 132;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;masculin;adulte;130;160
+81;AVEC_Structure 133;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;130;160
+82;AVEC_Structure 135;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;6;non;féminin;adulte;130;160
+83;AVEC_Structure 136;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte;130;160
+84;AVEC_Structure 137b;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;130;160
+85;AVEC_Structure 138;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;jeune adulte;130;160
+86;AVEC_Structure 140/141;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;non;masculin;adulte;50;130
+87;AVEC_Structure 142;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;11;non;masculin;adulte;150;230
+88;AVEC_Structure 144;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;adulte;150;230
+89;AVEC_Structure 147;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;150;230
+90;AVEC_Structure 155/331;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;0;0
+91;AVEC_Structure 156b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;100;150
+92;AVEC_Structure 158;AVEC;Germanie;Gaule du centre-est;0;1;1;0;0;0;0;0;0;2;0;0;0;0;9;non;masculin;adulte;130;160
+93;AVEC_Structure 159;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte mature;150;230
+94;AVEC_Structure 16/60/114;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;adulte;130;160
+95;AVEC_Structure 160;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;150;230
+96;AVEC_Structure 161;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;100;150
+97;AVEC_Structure 162;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;1;0;0;0;0;0;0;0;1;10;non;féminin;adulte mature;130;160
+98;AVEC_Structure 164;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;150;230
+99;AVEC_Structure 165a ou b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;130;160
+100;AVEC_Structure 165b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;130;160
+101;AVEC_Structure 167;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;3;non;indéterminé;infans I;150;230
+102;AVEC_Structure 17;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;non;féminin;adulte;100;150
+103;AVEC_Structure 17 ?;AVEC;Germanie;Gaule du centre-est;0;0;2;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;100;150
+104;AVEC_Structure 174;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;non;indéterminé;adulte;150;230
+105;AVEC_Structure 175a;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;non;féminin;adulte;130;160
+106;AVEC_Structure 175a ou b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;oui;indéterminé + féminin;infans I + adulte;130;160
+107;AVEC_Structure 175b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;130;160
+108;AVEC_Structure 177/178;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;130;160
+109;AVEC_Structure 179;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;4;non;masculin;adulte mature;50;130
+110;AVEC_Structure 181;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;150;230
+111;AVEC_Structure 183;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte mature;130;160
+112;AVEC_Structure 185;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;100;150
+113;AVEC_Structure 187;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7;non;féminin ?;adulte;150;230
+114;AVEC_Structure 19/148;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;150;230
+115;AVEC_Structure 191;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;120;250
+116;AVEC_Structure 192;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;10;non;indéterminé;infans I;120;250
+117;AVEC_Structure 194;AVEC;Germanie;Gaule du centre-est;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;150;230
+118;AVEC_Structure 195;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;150;230
+119;AVEC_Structure 196;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;non;féminin;adulte;100;150
+120;AVEC_Structure 202;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;100;150
+121;AVEC_Structure 203;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;130;160
+122;AVEC_Structure 206;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;oui;indéterminé;infans I + adulte;50;130
+123;AVEC_Structure 216/217;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin ?;adulte;130;160
+124;AVEC_Structure 220;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;5;non;indéterminé;adulte;130;160
+125;AVEC_Structure 223;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte mature;100;150
+126;AVEC_Structure 224;AVEC;Germanie;Gaule du centre-est;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;130;160
+127;AVEC_Structure 227;AVEC;Germanie;Gaule du centre-est;0;1;0;0;1;0;0;0;0;1;0;0;0;0;4;non;féminin;adulte;150;230
+128;AVEC_Structure 229;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;masculin;adulte;130;160
+129;AVEC_Structure 23;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;9;non;masculin ?;adulte;100;150
+130;AVEC_Structure 230;AVEC;Germanie;Gaule du centre-est;0;1;1;0;1;0;0;0;0;2;0;0;0;0;13;non;féminin;adulte;150;230
+131;AVEC_Structure 236;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;5;0;0;0;0;18;non;féminin;adulte;150;230
+132;AVEC_Structure 25;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;120;250
+133;AVEC_Structure 264;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;oui;masculin + féminin;adulte;100;200
+134;AVEC_Structure 277;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin ?;adulte sénile;150;230
+135;AVEC_Structure 285;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;jeune adulte;150;230
+136;AVEC_Structure 292;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;150;230
+137;AVEC_Structure 294;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;150;230
+138;AVEC_Structure 295;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;150;230
+139;AVEC_Structure 296;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;1;0;0;0;6;non;indéterminé;infans I;150;230
+140;AVEC_Structure 299;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;160;250
+141;AVEC_Structure 301;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;130;160
+142;AVEC_Structure 302;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;oui;masculin ?;adulte;140;250
+143;AVEC_Structure 310;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;1;3;non;féminin;adulte;150;230
+144;AVEC_Structure 313;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin;adulte;100;200
+145;AVEC_Structure 314;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;jeune adulte;130;160
+146;AVEC_Structure 315;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;150;230
+147;AVEC_Structure 316;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin ?;adulte;150;230
+148;AVEC_Structure 317;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;150;230
+149;AVEC_Structure 318;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;juvenis;130;160
+150;AVEC_Structure 319;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis;150;230
+151;AVEC_Structure 323;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;3;0;0;0;0;4;non;masculin ?;adulte;100;200
+152;AVEC_Structure 327;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;150;230
+153;AVEC_Structure 328;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;100;150
+154;AVEC_Structure 334;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;150;230
+155;AVEC_Structure 335;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte;150;230
+156;AVEC_Structure 336;AVEC;Germanie;Gaule du centre-est;0;1;1;0;2;0;0;0;0;0;0;0;0;0;9;non;féminin ?;adulte;150;230
+157;AVEC_Structure 339;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;150;230
+158;AVEC_Structure 340;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;130;160
+159;AVEC_Structure 342;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;1;0;3;0;0;0;0;7;non;féminin;adulte;130;160
+160;AVEC_Structure 343;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;150;230
+161;AVEC_Structure 346;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin ?;juvenis;0;0
+162;AVEC_Structure 347;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;140;250
+163;AVEC_Structure 348;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;150;230
+164;AVEC_Structure 35/100;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin ?;juvenis;140;250
+165;AVEC_Structure 353;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;2;0;0;0;4;non;féminin;adulte;120;250
+166;AVEC_Structure 355;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;130;200
+167;AVEC_Structure 358;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;féminin ?;adulte;50;130
+168;AVEC_Structure 364;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;50;130
+169;AVEC_Structure 365;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;non;masculin;adulte;50;130
+170;AVEC_Structure 36c;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;50;130
+171;AVEC_Structure 370;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;50;130
+172;AVEC_Structure 375;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte mature;50;130
+173;AVEC_Structure 379;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;50;130
+174;AVEC_Structure 41/137a;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;5;0;0;0;0;10;non;masculin;adulte;130;160
+175;AVEC_Structure 42/62;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;50;130
+176;AVEC_Structure 45;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;150;230
+177;AVEC_Structure 47;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;1;0;0;0;0;18;non;masculin;adulte;100;150
+178;AVEC_Structure 50;AVEC;Germanie;Gaule du centre-est;0;1;1;0;1;0;0;0;0;7;0;0;0;0;44;non;indéterminé;infantile;150;230
+179;AVEC_Structure 51/52;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;200;250
+180;AVEC_Structure 53;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;100;150
+181;AVEC_Structure 54;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;14;oui;indéterminé;adulte + infans II;100;150
+182;AVEC_Structure 55;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;150;230
+183;AVEC_Structure 59;AVEC;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;150;230
+184;AVEC_Structure 61;AVEC;Germanie;Gaule du centre-est;0;0;0;0;2;0;0;0;0;0;1;0;0;0;4;non;féminin;juvenis;100;150
+185;AVEC_Structure 63;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;périnatal;100;150
+186;AVEC_Structure 64a;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;oui;masculin ? Et féminin ?;adulte;100;150
+187;AVEC_Structure 64a ou b;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;18;oui;indéterminé + féminin;infans I + adulte;140;250
+188;AVEC_Structure 69;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;100;200
+189;AVEC_Structure 70;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;150;230
+190;AVEC_Structure 72;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte sénile;150;230
+191;AVEC_Structure 78/152/308;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;130;160
+192;AVEC_Structure 79;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I;150;230
+193;AVEC_Structure 83;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;150;230
+194;AVEC_Structure 85/86;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;adulte mature;150;230
+195;AVEC_Structure 92;AVEC;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;2;0;0;0;0;4;non;indéterminé;adulte;130;160
+196;AVEC_Structure 98;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin ?;adulte;140;250
+197;AVEC_Structure 99;AVEC;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;juvenis;150;230
+198;AVP_tombe 0;AVP;Germanie;Gaule du centre-est;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;100;120
+199;AVP_tombe 1;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;3;non;masculin ?;adulte;80;120
+200;AVP_tombe 10;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte;100;150
+201;AVP_tombe 12;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;non;indéterminé;adulte;70;192
+202;AVP_tombe 18;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;0;0
+203;AVP_tombe 2;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;masculin ?;adulte;80;120
+204;AVP_tombe 20;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;98;138
+205;AVP_tombe 26;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;1;0;0;0;0;29;non;masculin;adulte mature;96;192
+206;AVP_tombe 3;AVP;Germanie;Gaule du centre-est;0;1;0;0;0;0;0;0;0;3;0;0;0;0;15;non;masculin;adulte;100;120
+207;AVP_tombe 35;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;non;masculin;adulte;81;117
+208;AVP_tombe 5;AVP;Germanie;Gaule du centre-est;0;0;0;0;0;0;0;0;0;2;0;0;0;0;4;non;indéterminé;juvenis;100;150
+209;CAB_tombe 1;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;non renseigné;50;100
+210;CAB_tombe 10;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;non renseigné;90;100
+211;CAB_tombe 11;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;non renseigné;50;70
+212;CAB_tombe 13;CAB;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;109;non;indéterminé;non renseigné;101;200
+213;CAB_tombe 14;CAB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;non renseigné;170;170
+214;CAB_tombe 15;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;68;non;indéterminé;non renseigné;50;100
+215;CAB_tombe 17;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41;non;indéterminé;non renseigné;0;0
+216;CAB_tombe 2;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;non renseigné;50;70
+217;CAB_tombe 20;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;non renseigné;170;170
+218;CAB_tombe 21;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;non renseigné;70;130
+219;CAB_tombe 22;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;non renseigné;150;200
+220;CAB_tombe 26;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;370;400
+221;CAB_tombe 27;CAB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;3;0;0;0;0;3;non;féminin;adulte mature;370;400
+222;CAB_tombe 31;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;non renseigné;50;70
+223;CAB_tombe 4;CAB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;non renseigné;170;170
+224;CAB_tombe 5;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;1;22;non;indéterminé;non renseigné;70;130
+225;CAB_tombe 7;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;22;non;indéterminé;non renseigné;90;100
+226;CAB_tombe 8;CAB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;98;non;indéterminé;non renseigné;50;70
+227;FEU_tombe 1;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-30;-15
+228;FEU_tombe 100;FEU;Germanie;Gaule du nord;0;0;0;1;0;0;0;1;0;0;0;0;0;0;16;non;indéterminé;infans I ou II;-15;20
+229;FEU_tombe 101;FEU;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;-30;20
+230;FEU_tombe 107;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;20;45
+231;FEU_tombe 108;FEU;Germanie;Gaule du nord;0;0;0;0;4;0;0;1;0;0;0;0;0;0;5;non;féminin;adulte sénile;20;45
+232;FEU_tombe 110;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;20;45
+233;FEU_tombe 113;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte sénile;45;90
+234;FEU_tombe 115;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;pas d'ossements;20;45
+235;FEU_tombe 117;FEU;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;19;non;indéterminé;pas d'ossements;-15;20
+236;FEU_tombe 118;FEU;Germanie;Gaule du nord;0;2;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;20;45
+237;FEU_tombe 120;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-30;20
+238;FEU_tombe 122;FEU;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-30;-15
+239;FEU_tombe 128;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;45;90
+240;FEU_tombe 130;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;20;45
+241;FEU_tombe 134;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;féminin ? Et indéterminé;adulte;-30;-15
+242;FEU_tombe 145;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;20;90
+243;FEU_tombe 147;FEU;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte mature;20;45
+244;FEU_tombe 150;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;20;45
+245;FEU_tombe 151;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;45;90
+246;FEU_tombe 159;FEU;Germanie;Gaule du nord;0;1;0;0;1;0;0;2;0;0;0;0;0;0;4;non;indéterminé;adulte;20;45
+247;FEU_tombe 163;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;20
+248;FEU_tombe 171;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-50;-15
+249;FEU_tombe 179;FEU;Germanie;Gaule du nord;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-30;20
+250;FEU_tombe 18;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-30;-15
+251;FEU_tombe 180;FEU;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15
+252;FEU_tombe 182;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-50;-15
+253;FEU_tombe 183;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;féminin;adulte;-15;20
+254;FEU_tombe 193;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;20;90
+255;FEU_tombe 194;FEU;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte;20;45
+256;FEU_tombe 197;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;non;indéterminé;indéterminé;20;45
+257;FEU_tombe 198;FEU;Germanie;Gaule du nord;0;0;0;0;4;0;0;1;0;0;0;0;0;0;8;non;masculin ?;adulte mature;20;45
+258;FEU_tombe 32;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;-50;-30
+259;FEU_tombe 33;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;oui;indéterminé;infans I ou II + adulte;-50;-30
+260;FEU_tombe 4;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15
+261;FEU_tombe 40;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-50;-30
+262;FEU_tombe 41;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-15;20
+263;FEU_tombe 51;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-30;-15
+264;FEU_tombe 55;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20
+265;FEU_tombe 64;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80;non;indéterminé;adulte;-30;20
+266;FEU_tombe 65;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;1;0;0;0;0;0;0;5;non;féminin ?;adulte;-15;20
+267;FEU_tombe 68;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte sénile;-15;20
+268;FEU_tombe 73;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-30;-15
+269;FEU_tombe 76;FEU;Germanie;Gaule du nord;0;0;0;2;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans II;-15;20
+270;FEU_tombe 78;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;45;90
+271;FEU_tombe 8;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-15;20
+272;FEU_tombe 80;FEU;Germanie;Gaule du nord;0;0;0;6;7;0;0;2;2;0;3;0;0;0;42;oui;masculin + féminin;adulte;-15;20
+273;FEU_tombe 82;FEU;Germanie;Gaule du nord;0;0;0;0;4;0;0;1;0;0;0;0;0;0;14;oui;indéterminé + masculin ?;infans I ou II + adulte;-15;20
+274;FEU_tombe 85;FEU;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;45;90
+275;FEU_tombe 87;FEU;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;1;0;0;0;0;0;14;non;féminin ?;adulte;45;90
+276;FEU_tombe 96;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20
+277;FEU_tombe 98;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;45;90
+278;FEU_tombr 178;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;45;90
+279;GON_tombe 14;GON;Gaule Belgique;Gaule du nord;4;55;0;0;6;0;0;1;5;0;1;0;0;0;22;non;féminin;adulte mature;-30;-15
+280;GON_tombe 17;GON;Gaule Belgique;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;indéterminé;jeune adulte;-55;-30
+281;GON_tombe A;GON;Gaule Belgique;Gaule du nord;0;0;0;7;3;0;0;0;4;0;0;0;0;0;21;non;indéterminé;adulte;-30;-15
+282;GON_tombe B;GON;Gaule Belgique;Gaule du nord;2;0;1;7;1;0;0;0;6;0;0;0;0;0;27;non;indéterminé;adulte;-30;-15
+283;LAM_tombe 15;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-15;20
+284;LAM_tombe 33;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-15;20
+285;LAM_tombe 38;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20
+286;LAM_tombe 4;LAM;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-15;20
+287;LAM_tombe 42;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-15;20
+288;LAM_tombe 43;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15
+289;LAM_tombe 45;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;-30;20
+290;LAM_tombe 47;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15
+291;LAM_tombe 48;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15
+292;LAM_tombe 52;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-30;-15
+293;LAM_tombe 53;LAM;Germanie;Gaule du nord;0;1;0;0;4;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-30;-15
+294;LAM_tombe 56;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15
+295;LAM_tombe 72;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-30;-15
+296;LAM_tombe 73;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-30;-15
+297;LAM_tombe 75;LAM;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-30;-15
+298;LAM_tombe 80;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-30;-15
+299;LAM_tombe 83;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20
+300;MSB_tombe 107;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;50;150
+301;MSB_tombe 113;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;100;150
+302;MSB_tombe 125;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;150
+303;MSB_tombe 126;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;jeune adulte;100;150
+304;MSB_tombe 148;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;150;200
+305;MSB_tombe 149;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-30;200
+306;MSB_tombe 15;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;50;150
+307;MSB_tombe 151;MSB;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;2;0;0;0;0;1;non;indéterminé;adulte sénile;50;200
+308;MSB_tombe 158;MSB;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;200
+309;MSB_tombe 160;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;50
+310;MSB_tombe 163;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;jeune adulte;150;200
+311;MSB_tombe 166;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;50;150
+312;MSB_tombe 169;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;1;0;0;0;11;non;indéterminé;infans I;100;150
+313;MSB_tombe 170;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;1;0;0;0;5;non;indéterminé;adulte sénile;100;150
+314;MSB_tombe 175;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;100;150
+315;MSB_tombe 179;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;100;150
+316;MSB_tombe 180;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;100;150
+317;MSB_tombe 184;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;oui;indéterminé;prématuré + adulte;100;150
+318;MSB_tombe 186;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;100;150
+319;MSB_tombe 187;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;100;150
+320;MSB_tombe 195;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;50;150
+321;MSB_tombe 196;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;100
+322;MSB_tombe 199;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;100;150
+323;MSB_tombe 200;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;50;100
+324;MSB_tombe 202;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-30;100
+325;MSB_tombe 206;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;100
+326;MSB_tombe 207;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;50
+327;MSB_tombe 208;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;50;150
+328;MSB_tombe 209;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-30;50
+329;MSB_tombe 219;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;150
+330;MSB_tombe 223;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;100;200
+331;MSB_tombe 234;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;50
+332;MSB_tombe 236;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;100;150
+333;MSB_tombe 248;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-30;50
+334;MSB_tombe 263;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;50
+335;MSB_tombe 27;MSB;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;100;200
+336;MSB_tombe 298;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;100;150
+337;MSB_tombe 3;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;150
+338;MSB_tombe 300;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3;non;indéterminé;adulte sénile;100;150
+339;MSB_tombe 308;MSB;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;1;0;0;0;2;non;indéterminé;infans I;-30;200
+340;MSB_tombe 311;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-30;50
+341;MSB_tombe 312;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-30;50
+342;MSB_tombe 317;MSB;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-30;200
+343;MSB_tombe 322;MSB;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;50;100
+344;MSB_tombe 328;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;jeune adulte;150;200
+345;MSB_tombe 330;MSB;Gaule Narbonnaise;Gaule du sud;0;3;2;0;0;0;0;0;0;1;0;0;0;0;4;non;indéterminé;adulte;50;150
+346;MSB_tombe 331;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;150
+347;MSB_tombe 332;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;100;200
+348;MSB_tombe 348;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;150
+349;MSB_tombe 349;MSB;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;100;150
+350;MSB_tombe 356;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte sénile;50;150
+351;MSB_tombe 362;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;150
+352;MSB_tombe 381;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;-30;200
+353;MSB_tombe 385;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;infans I + adulte sénile;50;150
+354;MSB_tombe 386;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-30;50
+355;MSB_tombe 46;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;non;féminin;adulte sénile;100;200
+356;MSB_tombe 69;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;200
+357;MSB_tombe 7;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;100;200
+358;MSB_tombe 80;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;100;150
+359;MSB_tombe 82;MSB;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte sénile;150;200
+360;MSB_tombe 86;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;-30;50
+361;MSB_tombe 89;MSB;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;100
+362;MSB_tombe 92;MSB;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-30;200
+363;NIMJJ_FS1069;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;5;0;0;0;0;0;0;1;0;0;0;0;14;non;indéterminé;adulte;75;200
+364;NIMJJ_FS1133;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;1;50
+365;NIMJJ_FS1194;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;1;0;0;1;1;0;0;0;2;0;0;0;0;7;non;indéterminé;adulte;70;170
+366;NIMJJ_SP1001;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;indéterminé;juvenis ou adulte;70;170
+367;NIMJJ_SP1004;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;3;0;1;0;0;0;0;2;0;0;0;0;162;non;indéterminé;juvenis ou adulte;75;170
+368;NIMJJ_SP1055;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;1;3;0;0;0;0;0;0;22;0;0;0;0;54;non;indéterminé;adulte;90;125
+369;NIMJJ_SP1056;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;0;0
+370;NIMJJ_SP1057;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;0;0
+371;NIMJJ_SP1062;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;1;200
+372;NIMJJ_SP1067;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;juvenis;1;200
+373;NIMJJ_SP1081;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;prématuré;130;170
+374;NIMJJ_SP1113;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;1;1;0;0;0;25;non;masculin;adulte;25;75
+375;NIMJJ_SP1154;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;2;0;0;0;0;4;non;indéterminé;adulte;100;150
+376;NIMJJ_SP1157;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;1;200
+377;NIMJJ_SP1180;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;25;non;indéterminé;infans I;50;100
+378;NIMJJ_SP1185;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;2;0;1;0;0;0;0;1;0;0;0;0;6;non;masculin;adulte;50;170
+379;NIMJJ_SP1197;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I;70;170
+380;NIMJJ_SP1205;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;2;1;0;0;0;0;0;0;2;0;0;0;0;24;non;indéterminé;adulte;125;170
+381;NIMJJ_SP1223;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;2;0;0;0;0;0;0;0;1;0;0;0;0;7;non;indéterminé;juvenis ou adulte;125;175
+382;NIMJJ_SP1226;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;5;0;0;0;0;11;non;indéterminé;indéterminé;75;150
+383;NIMJJ_SP1270;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infan II;130;170
+384;NIMJJ_SP1292;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;50;170
+385;NIMJJ_SP1294;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;16;non;féminin;adulte mature;70;170
+386;NIMJJ_SP1295;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;140;170
+387;NIMJJ_SP1296;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;130;170
+388;NIMJJ_SP1320;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;3;0;0;0;0;5;non;indéterminé;infans I;70;170
+389;NIMJJ_SP1324;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;2;0;0;0;0;10;non;indéterminé;juvenis ou adulte;70;170
+390;NIMJJ_SP1332;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte mature;50;130
+391;NIMJJ_SP1345;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;4;0;1;0;0;1;0;2;0;0;0;0;18;non;indéterminé;adulte;50;100
+392;NIMJJ_SP1348;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;1;200
+393;NIMJJ_SP1349;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;15;200
+394;NIMJJ_SP1351;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou adulte;1;200
+395;NIMJJ_SP1357;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;15;200
+396;NIMJJ_SP1362;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;4;0;0;0;0;0;0;0;1;0;0;0;0;18;non;indéterminé;infans I;100;170
+397;NIMJJ_SP1363;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;100;170
+398;NIMJJ_SP1380;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;25;75
+399;NIMJJ_SP1381;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;infans I ou II;25;75
+400;NIMJJ_SP1393;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;prématuré;50;300
+401;NIMJJ_SP1394;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;0;0;0;2;8;non;indéterminé;juvenis;125;170
+402;NIMJJ_SP1395;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;1;200
+403;NIMJJ_SP2002;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;infans I;75;150
+404;NIMJJ_SP2010;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;féminin;jeune adulte;100;175
+405;NIMJJ_SP2014;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;4;0;0;0;0;0;0;1;0;0;0;0;97;non;indéterminé;jeune adulte;100;175
+406;NIMJJ_SP2024;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;125;175
+407;NIMJJ_SP2031;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;2;2;0;0;0;0;0;0;13;0;0;0;0;45;non;indéterminé;jeune adulte;100;175
+408;NIMJJ_SP2034;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;2;0;0;0;0;11;non;indéterminé;infans II;100;175
+409;NIMJJ_SP2037;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;2;0;0;1;0;0;0;0;0;0;0;0;0;62;non;indéterminé;adulte;75;150
+410;NIMJJ_SP2039;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;juvenis ou adulte;50;100
+411;NIMJJ_SP2046;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;périnatal ou infans I;100;175
+412;NIMJJ_SP2057;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;10;non;indéterminé;périnatal;50;100
+413;NIMJJ_SP2069;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;5;0;0;0;0;0;0;7;0;0;0;0;39;non;masculin;adulte mature;50;100
+414;NIMJJ_Structure 38;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin ?;jeune adulte;70;170
+415;NIMJJ_VP1258;NIMJJ;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou adulte;-27;284
+416;PAU_T1;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte ou adulte mature;41;68
+417;PAU_T101;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+418;PAU_T102;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;non;indéterminé;adulte;96;400
+419;PAU_T103;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;-27;300
+420;PAU_T105;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;193;235
+421;PAU_T11;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+422;PAU_T110;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;96;200
+423;PAU_T111;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;50;400
+424;PAU_T113;PAU;Gaule Narbonnaise;Gaule du sud;0;0;4;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;96;200
+425;PAU_T116;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;41;68
+426;PAU_T117;PAU;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+427;PAU_T119A;PAU;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;adulte mature + adulte;50;400
+428;PAU_T12;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;infans II;41;68
+429;PAU_T121;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;oui;indéterminé;indéterminé + adulte;-27;96
+430;PAU_T122;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;400
+431;PAU_T123;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+432;PAU_T124;PAU;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;-27;96
+433;PAU_T125;PAU;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;96;200
+434;PAU_T127;PAU;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;96;200
+435;PAU_T128;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;193;235
+436;PAU_T13;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;pas d'ossements;-27;96
+437;PAU_T133;PAU;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;96;200
+438;PAU_T134;PAU;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;193;235
+439;PAU_T135;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;69;235
+440;PAU_T136;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;50;400
+441;PAU_T138;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;50;400
+442;PAU_T141;PAU;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;96;200
+443;PAU_T144;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;200;300
+444;PAU_T145;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;193;235
+445;PAU_T146;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;193;300
+446;PAU_T149;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;50;400
+447;PAU_T15;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;juvenis ou jeune adulte + jeune adulte;14;68
+448;PAU_T151;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-27;96
+449;PAU_T152;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte sénile;96;200
+450;PAU_T153;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;69;235
+451;PAU_T156;PAU;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;adulte mature + infans I;69;192
+452;PAU_T159;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;non;indéterminé;pas d'ossements;96;200
+453;PAU_T161;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+454;PAU_T162;PAU;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;69;96
+455;PAU_T163;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;oui;indéterminé + féminin;infans I + adulte mature;96;200
+456;PAU_T164;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;96;200
+457;PAU_T165;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;200
+458;PAU_T167;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;-27;200
+459;PAU_T168;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;193;300
+460;PAU_T171;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;14;68
+461;PAU_T19B;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;69;96
+462;PAU_T2;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;400
+463;PAU_T24;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;périnatal;69;96
+464;PAU_T26B;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;37
+465;PAU_T26E;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-27;37
+466;PAU_T29;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;69;192
+467;PAU_T30;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;14;68
+468;PAU_T31;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;69;192
+469;PAU_T32;PAU;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;adulte mature + périnatal;69;96
+470;PAU_T36;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;14;68
+471;PAU_T37;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;14;68
+472;PAU_T38;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;-27;200
+473;PAU_T39;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;41;68
+474;PAU_T4;PAU;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;10;oui;indéterminé;infans II + adulte sénile;69;192
+475;PAU_T41;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;200;400
+476;PAU_T43;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-27;200
+477;PAU_T44;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;193;300
+478;PAU_T47;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-27;96
+479;PAU_T48;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte mature;-27;200
+480;PAU_T49;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;jeune adulte;14;68
+481;PAU_T5;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;50;400
+482;PAU_T50;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte sénile;69;96
+483;PAU_T54;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;jeune adulte;41;68
+484;PAU_T55;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;41;68
+485;PAU_T56;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte mature ou sénile;69;96
+486;PAU_T58;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;69;300
+487;PAU_T62;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;pas d'ossements;-27;200
+488;PAU_T63;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;non;indéterminé;infans I ou II;-27;200
+489;PAU_T64;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;79;non;indéterminé;adulte;41;68
+490;PAU_T66;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;pas d'ossements;69;235
+491;PAU_T67;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-27;300
+492;PAU_T68;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+493;PAU_T70A;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;200
+494;PAU_T70B;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+495;PAU_T71A;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+496;PAU_T71B;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;96
+497;PAU_T71C;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte;-27;96
+498;PAU_T71D;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;jeune adulte;-27;200
+499;PAU_T72;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+500;PAU_T75;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;96;200
+501;PAU_T77;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;96;200
+502;PAU_T78;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;-27;235
+503;PAU_T8;PAU;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;7;oui;indéterminé;jeune adulte ou adulte mature + jeune adulte;96;200
+504;PAU_T80;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;96;200
+505;PAU_T81;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;69;192
+506;PAU_T84;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+507;PAU_T85;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+508;PAU_T87;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;96;200
+509;PAU_T89;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;69;96
+510;PAU_T91A;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;96;200
+511;PAU_T92;PAU;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;193;235
+512;PAU_T93;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;69;192
+513;PAU_T95;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+514;PAU_T96;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;96;200
+515;PAU_T98;PAU;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-27;200
+516;RICH_INC 1;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;130;199
+517;RICH_INC 10;RICH;Gaule Narbonnaise;Gaule du sud;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;150;250
+518;RICH_INC 13;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;130;199
+519;RICH_INC 16;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;oui;indéterminé;adulte mature + adulte mature;50;130
+520;RICH_INC 17;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;1;0;0;0;0;0;3;0;4;4;197;oui;féminin + féminin;jeune adulte + jeune adulte;50;130
+521;RICH_SP 2;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;270;800
+522;RICH_SP 20;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;270;800
+523;RICH_INC 14;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte;50;130
+524;RICH_INC 7;RICH;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;21;non;indéterminé;adulte mature;150;250
+525;RICH_FS 5107;RICH;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;féminin;jeune adulte;50;130
+526;SEPTD_grab 1;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;non;masculin;adulte;135;175
+527;SEPTD_grab 10;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;135;175
+528;SEPTD_grab 101;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135
+529;SEPTD_grab 106;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;135;175
+530;SEPTD_grab 111;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;70;100
+531;SEPTD_grab 118;SEPTD;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;100;135
+532;SEPTD_grab 119;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte sénile;70;100
+533;SEPTD_grab 121;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte mature;70;100
+534;SEPTD_grab 122;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;70;100
+535;SEPTD_grab 124;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;70;100
+536;SEPTD_grab 129;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;70;100
+537;SEPTD_grab 132;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;70;100
+538;SEPTD_grab 136;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;135;175
+539;SEPTD_grab 140;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;1;0;0;0;0;0;0;3;non;féminin ?;adulte;15;70
+540;SEPTD_grab 149;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;3;4;non;indéterminé;indéterminé;100;135
+541;SEPTD_grab 153;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;70;135
+542;SEPTD_grab 154B;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;non;indéterminé;indéterminé;0;0
+543;SEPTD_grab 162;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte mature;0;0
+544;SEPTD_grab 165;SEPTD;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;70;100
+545;SEPTD_grab 167;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;135;175
+546;SEPTD_grab 174;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;135;175
+547;SEPTD_grab 179;SEPTD;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;135;175
+548;SEPTD_grab 182;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135
+549;SEPTD_grab 19;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;70;100
+550;SEPTD_grab 191;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135
+551;SEPTD_grab 192;SEPTD;Germanie;Gaule du nord;0;0;0;0;5;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;135;175
+552;SEPTD_grab 194;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;175
+553;SEPTD_grab 199;SEPTD;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;100;135
+554;SEPTD_grab 2;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135
+555;SEPTD_grab 20;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte mature;100;135
+556;SEPTD_grab 211;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135
+557;SEPTD_grab 22;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;indéterminé;70;100
+558;SEPTD_grab 33;SEPTD;Germanie;Gaule du nord;0;1;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;100;135
+559;SEPTD_grab 39;SEPTD;Germanie;Gaule du nord;0;0;0;0;8;0;0;0;0;0;0;0;0;0;10;oui;masculin + féminin;adulte + adulte mature;100;135
+560;SEPTD_grab 43;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;0;0
+561;SEPTD_grab 45;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin;jeune adulte;100;135
+562;SEPTD_grab 46;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;135;175
+563;SEPTD_grab 48;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135
+564;SEPTD_grab 5;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;135;175
+565;SEPTD_grab 54;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;100;135
+566;SEPTD_grab 60;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;100;135
+567;SEPTD_grab 62;SEPTD;Germanie;Gaule du nord;0;0;1;1;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;100;135
+568;SEPTD_grab 69;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;70;100
+569;SEPTD_grab 7;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;135;175
+570;SEPTD_grab 70;SEPTD;Germanie;Gaule du nord;0;0;1;0;4;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;100;135
+571;SEPTD_grab 77;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135
+572;SEPTD_grab 8;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte mature;135;175
+573;SEPTD_grab 83;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135
+574;SEPTD_grab 84;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;13;non;masculin;jeune adulte;70;100
+575;SEPTD_grab 88;SEPTD;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;100;135
+576;SEPTD_grab 90;SEPTD;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;135;175
+577;SPTC_fosse B;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;6;non;non étudié;non étudié;60;100
+578;SPTC_tombe 1;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;1;0;0;0;0;7;non;féminin;adulte mature;70;150
+579;SPTC_tombe 100;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;non étudié;non étudié;15;100
+580;SPTC_tombe 102;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;adulte;60;100
+581;SPTC_tombe 104;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;1;0;2;0;0;0;0;8;non;masculin;adulte;70;150
+582;SPTC_tombe 105;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;0;0;0;0;0;21;non;non étudié;non étudié;140;200
+583;SPTC_tombe 107;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;5;0;0;0;0;0;0;1;0;0;0;0;9;non;indéterminé;adulte;100;150
+584;SPTC_tombe 108;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2;oui;indéterminé;infans I ou II + adulte;70;150
+585;SPTC_tombe 11;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;jeune adulte ou adulte mature;15;100
+586;SPTC_tombe 114;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;17;non;masculin;adulte;70;150
+587;SPTC_tombe 116;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;70;200
+588;SPTC_tombe 117;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;6;non;masculin;adulte;70;200
+589;SPTC_tombe 121;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;1;199
+590;SPTC_tombe 123;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;8;17;non;indéterminé;adulte;60;100
+591;SPTC_tombe 125;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;3;0;0;0;1;25;non;féminin;jeune adulte;70;150
+592;SPTC_tombe 127;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;1;0;0;0;12;oui;non étudié + indéterminé;non étudié + adulte;60;100
+593;SPTC_tombe 13;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;60;100
+594;SPTC_tombe 132;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;70;200
+595;SPTC_tombe 133;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;2;0;0;0;0;17;non;féminin;adulte;60;100
+596;SPTC_tombe 135 I, II, III;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;70;200
+597;SPTC_tombe 136;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;4;1;0;0;0;16;non;non étudié;non étudié;70;150
+598;SPTC_tombe 136bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;6;0;0;0;0;36;non;non étudié;non étudié;70;150
+599;SPTC_tombe 137;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;2;0;0;0;0;24;non;non étudié;non étudié;100;150
+600;SPTC_tombe 138;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;140;200
+601;SPTC_tombe 139;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;non étudié;non étudié;70;200
+602;SPTC_tombe 14;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;non;indéterminé;indéterminé;15;70
+603;SPTC_tombe 140;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;100;150
+604;SPTC_tombe 141;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;0;0;0;0;0;5;non;non étudié;non étudié;70;150
+605;SPTC_tombe 145;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;26;non;indéterminé;infans I ou II;60;100
+606;SPTC_tombe 146;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;1;0;0;0;1;19;non;indéterminé;adulte;60;100
+607;SPTC_tombe 15;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;2;0;0;0;0;16;non;indéterminé;adulte mature;60;100
+608;SPTC_tombe 150;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;55;non;non étudié;non étudié;140;200
+609;SPTC_tombe 151;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;10;non;non étudié;non étudié;70;150
+610;SPTC_tombe 155;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;150
+611;SPTC_tombe 159;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte mature;140;200
+612;SPTC_tombe 16;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;6;non;indéterminé;adulte;60;100
+613;SPTC_tombe 163;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte mature;100;200
+614;SPTC_tombe 164;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;1;0;5;0;0;0;0;32;non;indéterminé;adulte;15;70
+615;SPTC_tombe 165;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;0;0;0;0;0;10;non;non étudié;non étudié;100;200
+616;SPTC_tombe 166;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;12;non;non étudié;non étudié;15;70
+617;SPTC_tombe 17;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;2;0;0;0;0;0;0;2;0;0;0;0;8;oui;indéterminé;infans I + adulte;60;100
+618;SPTC_tombe 170;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;140;200
+619;SPTC_tombe 173;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;7;non;non étudié;non étudié;60;100
+620;SPTC_tombe 174;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;non étudié;non étudié;1;199
+621;SPTC_tombe 175;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;70;200
+622;SPTC_tombe 176;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;2;0;0;0;0;21;oui;non étudié;non étudié;15;70
+623;SPTC_tombe 177;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;150
+624;SPTC_tombe 180;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin;jeune adulte ou adulte mature;70;150
+625;SPTC_tombe 182;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;140;200
+626;SPTC_tombe 184;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52;non;non étudié;non étudié;15;70
+627;SPTC_tombe 186;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;non étudié;non étudié;15;70
+628;SPTC_tombe 19;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;1;0;14;non;indéterminé;jeune adulte;15;70
+629;SPTC_tombe 193;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;19;non;non étudié;non étudié;70;150
+630;SPTC_tombe 194;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;3;non;non étudié;non étudié;60;100
+631;SPTC_tombe 195;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;non;non étudié;non étudié;60;100
+632;SPTC_tombe 197;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;1;0;0;0;0;12;non;non étudié;non étudié;15;70
+633;SPTC_tombe 20;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;15;70
+634;SPTC_tombe 207;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;33;non;non étudié;non étudié;100;150
+635;SPTC_tombe 209;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;2;0;0;0;0;0;0;1;0;0;0;0;85;non;non étudié;non étudié;60;100
+636;SPTC_tombe 21;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;2;0;5;non;indéterminé;adulte ?;60;100
+637;SPTC_tombe 210;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;200
+638;SPTC_tombe 211;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte;100;150
+639;SPTC_tombe 213;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;féminin;jeune adulte ou adulte mature;100;150
+640;SPTC_tombe 215;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;1;0;0;0;0;0;0;1;0;0;0;0;17;non;indéterminé;adulte;100;150
+641;SPTC_tombe 216;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;60;100
+642;SPTC_tombe 218;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;9;non;non étudié;non étudié;15;70
+643;SPTC_tombe 22;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;11;non;indéterminé;adulte;60;100
+644;SPTC_tombe 228;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;non;non étudié;non étudié;60;100
+645;SPTC_tombe 231;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;60;100
+646;SPTC_tombe 240;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;150
+647;SPTC_tombe 243;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;1;0;0;0;18;non;non étudié;non étudié;100;200
+648;SPTC_tombe 244;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;4;0;0;0;0;20;non;non étudié;non étudié;60;100
+649;SPTC_tombe 245;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;140;200
+650;SPTC_tombe 246;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;2;0;0;0;0;8;non;non étudié;non étudié;70;150
+651;SPTC_tombe 247;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;1;0;0;0;0;12;non;non étudié;non étudié;70;150
+652;SPTC_tombe 25;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;jeune adulte;15;70
+653;SPTC_tombe 252;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;non;non étudié;non étudié;15;100
+654;SPTC_tombe 257;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;140;200
+655;SPTC_tombe 258;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;1;0;0;0;1;0;0;0;5;26;non;non étudié;non étudié;100;150
+656;SPTC_tombe 259;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;non;non étudié;non étudié;100;150
+657;SPTC_tombe 260;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;2;0;0;0;0;21;non;non étudié;non étudié;70;150
+658;SPTC_tombe 262;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;non;non étudié;non étudié;70;150
+659;SPTC_tombe 268;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;30;non;non étudié;non étudié;60;100
+660;SPTC_tombe 269;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;1;0;0;0;0;0;0;5;non;non étudié;non étudié;70;150
+661;SPTC_tombe 27;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;25;non;indéterminé;jeune adulte;15;70
+662;SPTC_tombe 270;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;17;non;indéterminé;adulte mature;70;150
+663;SPTC_tombe 272;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;5;non;non étudié;non étudié;100;150
+664;SPTC_tombe 275;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;146;non;masculin;adulte;70;150
+665;SPTC_tombe 276;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;32;non;non étudié;non étudié;70;200
+666;SPTC_tombe 277;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;29;non;non étudié;non étudié;60;100
+667;SPTC_tombe 277bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;20;non;non étudié;non étudié;60;100
+668;SPTC_tombe 278;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;11;non;non étudié;non étudié;15;70
+669;SPTC_tombe 280;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;3;0;0;0;2;39;non;non étudié;non étudié;70;150
+670;SPTC_tombe 281;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;non étudié;non étudié;70;150
+671;SPTC_tombe 283;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;non étudié;non étudié;70;200
+672;SPTC_tombe 285;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;9;non;indéterminé;adulte ?;15;70
+673;SPTC_tombe 286;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;non;non étudié;non étudié;60;100
+674;SPTC_tombe 29;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;15;100
+675;SPTC_tombe 3;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;adulte;70;150
+676;SPTC_tombe 31;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;2;0;0;0;0;10;non;indéterminé;adulte;60;100
+677;SPTC_tombe 32;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;4;0;0;0;0;30;oui;indéterminé;jeune adulte + adulte;60;100
+678;SPTC_tombe 35;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;infans I ou II;15;100
+679;SPTC_tombe 39;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;indéterminé;adulte;15;70
+680;SPTC_tombe 39bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;70;150
+681;SPTC_tombe 4;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;4;non;non étudié;non étudié;15;100
+682;SPTC_tombe 40;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;23;non;indéterminé;adulte;60;100
+683;SPTC_tombe 42;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;1;0;2;0;0;0;0;17;non;indéterminé;adulte mature;15;100
+684;SPTC_tombe 43;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;1;0;0;0;0;0;0;7;non;indéterminé;adulte mature;60;100
+685;SPTC_tombe 44;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;4;non;indéterminé;adulte;15;70
+686;SPTC_tombe 45;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;3;0;0;0;1;23;non;non étudié;non étudié;15;70
+687;SPTC_tombe 46bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;70;200
+688;SPTC_tombe 47;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;2;0;0;0;0;3;non;indéterminé;adulte;15;100
+689;SPTC_tombe 51;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;non;indéterminé;adulte mature;15;70
+690;SPTC_tombe 53;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;infans II;70;200
+691;SPTC_tombe 53bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;150
+692;SPTC_tombe 55;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;70;150
+693;SPTC_tombe 56;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;70;150
+694;SPTC_tombe 56bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;12;non;non étudié;non étudié;70;200
+695;SPTC_tombe 58 I;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112;non;masculin;adulte;140;200
+696;SPTC_tombe 59;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;non étudié;non étudié;60;100
+697;SPTC_tombe 61;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;0;0;0;0;10;non;non étudié;non étudié;60;100
+698;SPTC_tombe 62;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;60;100
+699;SPTC_tombe 63bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;100;150
+700;SPTC_tombe 64;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;70;150
+701;SPTC_tombe 65;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;masculin;jeune adulte;70;200
+702;SPTC_tombe 66;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;70;150
+703;SPTC_tombe 68;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;21;non;indéterminé;adulte;60;100
+704;SPTC_tombe 69;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte mature;70;200
+705;SPTC_tombe 7;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;5;1;0;0;0;39;non;indéterminé;jeune adulte;15;70
+706;SPTC_tombe 70;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;non;indéterminé;adulte mature;15;70
+707;SPTC_tombe 75;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte ?;70;200
+708;SPTC_tombe 76;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;8;non;indéterminé;adulte mature;60;100
+709;SPTC_tombe 77;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;15;100
+710;SPTC_tombe 78;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;70;200
+711;SPTC_tombe 79;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;3;non;non étudié;non étudié;60;100
+712;SPTC_tombe 81;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;4;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin;jeune adulte;60;100
+713;SPTC_tombe 82;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;infans II;60;100
+714;SPTC_tombe 84 bis;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;60;100
+715;SPTC_tombe 85;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;jeune adulte;15;100
+716;SPTC_tombe 88;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;masculin;adulte mature;15;70
+717;SPTC_tombe 9;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte mature;15;70
+718;SPTC_tombe 90 I;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;masculin;adulte;140;200
+719;SPTC_tombe 90 II;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;féminin;adulte;140;200
+720;SPTC_tombe 93;SPTC;Gaule Narbonnaise;Gaule du sud;0;1;2;0;0;0;0;0;0;1;0;0;0;0;5;non;indéterminé;jeune adulte;140;200
+721;SPTC_tombe 97;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;7;non;féminin;adulte;100;200
+722;SPTC_tombe 98;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;4;0;0;0;0;7;non;indéterminé;indéterminé;70;150
+723;SPTC_tombe 99;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;non étudié;non étudié;15;70
+724;SPTC_tombe C3;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;non étudié;non étudié;15;100
+725;SPTC_tombe C5;SPTC;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;non étudié;non étudié;60;100
+726;STGRRFUN_F. 21288;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;indéterminé;1;130
+727;STGRRFUN_F. 21307;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31;oui;masculin + masculin;adulte + adulte;1;130
+728;STGRRFUN_F. 21308;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45;non;masculin;adulte;1;130
+729;STGRRFUN_F. 21309;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;oui;indéterminé;indéterminé;1;130
+730;STGRRFUN_F. 21361;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;1;130
+731;STGRRFUN_F. 20295;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99;non;masculin;adulte mature;1;130
+732;STGRRFUN_F. 20341;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;non;masculin;adulte mature;1;130
+733;STGRRFUN_F. 20342;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;1;130
+734;STGRRFUN_F. 20345;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93;non;masculin;adulte mature;1;130
+735;STGRRFUN_F. 20515;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;1;130
+736;STGRRFUN_F. 20473;STGRRFUN;Germanie;Gaule du nord;0;2;1;0;1;0;0;0;0;0;0;0;0;0;32;oui;masculin + masculin;adulte + adulte;1;130
+737;STGRRFUN_F. 20682;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;1;130
+738;STGRRFUN_F. 20780;STGRRFUN;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;1;0;0;0;0;11;non;indéterminé;infans I ou II;1;130
+739;STGRRFUN_F. 20771;STGRRFUN;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;2;0;0;0;0;46;non;indéterminé;indéterminé;1;130
+740;STGRRFUN_F. 20802;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;117;non;masculin;adulte mature;1;130
+741;STGRRFUN_F. 20750;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte mature;1;130
+742;STGRRFUN_F. 21079;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;1;130
+743;STGRRFUN_F. 21289;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;1;130
+744;STGRRFUN_F. 21301;STGRRFUN;Germanie;Gaule du nord;1;0;1;0;0;0;0;0;0;0;0;0;0;0;193;non;masculin;adulte mature;1;130
+745;STGRRFUN_F. 21363;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;1;130
+746;STL_sans US;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+747;STL_T102;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;96;400
+748;STL_T103;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;non étudié;non étudié;-27;300
+749;STL_T104;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;infans I;14;68
+750;STL_T105;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;193;235
+751;STL_T107;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;37
+752;STL_T108;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;200
+753;STL_T109;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;14
+754;STL_T109/110;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;non;indéterminé;adulte;-27;14
+755;STL_T111A;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-27;70
+756;STL_T111B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;96
+757;STL_T112;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I ou II;96;235
+758;STL_T113;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+759;STL_T114;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I;-27;70
+760;STL_T115;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-27;70
+761;STL_T116;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;70
+762;STL_T11A;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+763;STL_T11B;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;96
+764;STL_T13;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;69;96
+765;STL_T130;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;69;96
+766;STL_T131;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;juvenis;69;96
+767;STL_T136;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;96
+768;STL_T137;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;pas d'ossements;-27;70
+769;STL_T138;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte mature;-27;14
+770;STL_T140A;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-50;400
+771;STL_T140B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-50;400
+772;STL_T141;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;juvenis ou adulte + juvenis;-50;400
+773;STL_T143;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;infans I ou II;-27;70
+774;STL_T144;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;200;300
+775;STL_T145;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+776;STL_T148;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte mature;-27;70
+777;STL_T149;STL;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;14;68
+778;STL_T15;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;70
+779;STL_T152;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;juvenis ou jeune adulte;41;68
+780;STL_T153;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43;non;indéterminé;adulte;-50;400
+781;STL_T153B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+782;STL_T154A;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+783;STL_T154B;STL;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;18;oui;indéterminé;adulte mature + adulte;14;68
+784;STL_T155;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;1;45;non;féminin;adulte mature;14;68
+785;STL_T157;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-50;400
+786;STL_T158B;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;1;0;0;0;0;0;0;0;0;0;11;non;indéterminé;adulte mature;-50;400
+787;STL_T16;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+788;STL_T160;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;non;indéterminé;indéterminé;-27;14
+789;STL_T161B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I ou II;-27;200
+790;STL_T162;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+791;STL_T165;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-50;-25
+792;STL_T166;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;non;indéterminé;adulte;-27;14
+793;STL_T167;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;96
+794;STL_T17;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+795;STL_T173;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;pas d'ossements;14;68
+796;STL_T174;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;37;non;indéterminé;infans II;-27;96
+797;STL_T175;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;41;68
+798;STL_T176/177;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;pas d'ossements;-27;70
+799;STL_T178;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;14;68
+800;STL_T179A;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;non;indéterminé;adulte mature;-27;14
+801;STL_T179B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-27;96
+802;STL_T181;STL;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;11;non;indéterminé;infans I;-50;400
+803;STL_T182;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte;-27;96
+804;STL_T183;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+805;STL_T185;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;oui;indéterminé;indéterminé + adulte;41;68
+806;STL_T186;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;1;0;2;non;indéterminé;infans I ou II;-27;14
+807;STL_T188;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;69;96
+808;STL_T19;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte;-50;400
+809;STL_T190;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+810;STL_T192;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;96
+811;STL_T195;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+812;STL_T198;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;14;68
+813;STL_T199;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-27;37
+814;STL_T20;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-27;70
+815;STL_T202;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;14;68
+816;STL_T203;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;300
+817;STL_T204;STL;Gaule Narbonnaise;Gaule du sud;0;0;3;0;0;0;0;0;0;0;1;0;0;0;16;non;indéterminé;infans I;-27;37
+818;STL_T205;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;1;9;non;indéterminé;adulte mature;14;37
+819;STL_T206;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;14;non;indéterminé;adulte mature;-27;70
+820;STL_T207;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I ou II;-50;400
+821;STL_T208;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;infans I;-27;37
+822;STL_T209;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte mature;14;37
+823;STL_T210;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;14;37
+824;STL_T211;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25;non;indéterminé;infans II;-27;70
+825;STL_T213;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;adulte;-27;70
+826;STL_T214;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88;non;indéterminé;adulte mature;-27;37
+827;STL_T215;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;1;0;67;non;indéterminé;adulte;-27;14
+828;STL_T216;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;-27;14
+829;STL_T217;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-27;37
+830;STL_T218;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;17;non;indéterminé;infans I;14;68
+831;STL_T219;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;4;non;indéterminé;adulte;-27;14
+832;STL_T22;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;41;68
+833;STL_T220;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;55;non;indéterminé;adulte;14;68
+834;STL_T221;STL;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+835;STL_T222;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;70
+836;STL_T228;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte ou adulte mature;-27;96
+837;STL_T229;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;1;0;9;non;indéterminé;infans I ou II;-27;14
+838;STL_T230;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;8;0;12;non;indéterminé;adulte mature;-27;14
+839;STL_T231;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-50;400
+840;STL_T232;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3;non;indéterminé;périnatal;-50;400
+841;STL_T233;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+842;STL_T237;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-27;96
+843;STL_T238;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-27;200
+844;STL_T241;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;non;indéterminé;adulte;-27;14
+845;STL_T243;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;1;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-27;96
+846;STL_T245;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;11;non;indéterminé;infans I;-27;14
+847;STL_T246;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-27;70
+848;STL_T247;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;adulte mature;14;37
+849;STL_T248;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;non étudié;non étudié;14;68
+850;STL_T250;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;47;non;indéterminé;adulte;14;37
+851;STL_T251;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;oui;indéterminé;juvenis ou jeune adulte + jeune adulte;-27;96
+852;STL_T253;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte;-27;96
+853;STL_T254;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte mature;-27;37
+854;STL_T255;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;41;68
+855;STL_T255B;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;41;68
+856;STL_T256;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;1;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;périnatal;-27;96
+857;STL_T257;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;300;400
+858;STL_T26;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;41;68
+859;STL_T260;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;1;0;0;0;16;non;indéterminé;infans I;-27;14
+860;STL_T262;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;oui;indéterminé;infans I + adulte;14;37
+861;STL_T262273;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;14;37
+862;STL_T263;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;37
+863;STL_T266;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-27;200
+864;STL_T267;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-50;400
+865;STL_T268;STL;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;9;oui;indéterminé;adulte + infans I;14;37
+866;STL_T269;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou jeune adulte;-27;37
+867;STL_T270;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-50;400
+868;STL_T271;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-50;400
+869;STL_T274;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;non;indéterminé;adulte mature;-27;14
+870;STL_T275;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+871;STL_T277;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;infans I ou II;-27;37
+872;STL_T27B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+873;STL_T281;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;non;indéterminé;infans II;-27;14
+874;STL_T282;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;6;non;indéterminé;adulte mature;-27;14
+875;STL_T283;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;indéterminé + adulte;-27;96
+876;STL_T285;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;21;non;indéterminé;infans II;14;68
+877;STL_t286;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-50;400
+878;STL_T292;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+879;STL_T293;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-50;400
+880;STL_T294;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;5;0;6;non;indéterminé;adulte;-50;400
+881;STL_T295;STL;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;14
+882;STL_T296;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+883;STL_T298;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-50;400
+884;STL_T299;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;1;0;0;0;0;3;non;masculin;adulte mature;69;96
+885;STL_T305;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-27;70
+886;STL_T307;STL;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;infans I;14;68
+887;STL_T308;STL;Gaule Narbonnaise;Gaule du sud;0;0;2;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;jeune adulte;41;68
+888;STL_T309;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;-27;70
+889;STL_T310;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+890;STL_T314;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;3;0;3;non;indéterminé;infans I ou II;-27;14
+891;STL_T315;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;non;indéterminé;infans I;-27;37
+892;STL_T316;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;oui;indéterminé;infans I + infans I ou II;-27;70
+893;STL_T4;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;69;192
+894;STL_T42;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;pas d'ossements;-27;96
+895;STL_T43;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;41;68
+896;STL_T46;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;infans I;14;68
+897;STL_T49;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62;oui;indéterminé;adulte mature + adulte mature;-27;14
+898;STL_T5;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;14
+899;STL_T50;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;pas d'ossements;69;96
+900;STL_T52;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-50;400
+901;STL_T56;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+902;STL_T57;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte sénile;-27;200
+903;STL_T58;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;200
+904;STL_T6;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;14;0;19;oui;indéterminé;adulte sénile + adulte;-27;37
+905;STL_T60;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;47;non;indéterminé;adulte mature;-27;96
+906;STL_T61;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;69;96
+907;STL_T62;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;24;non;indéterminé;adulte;69;96
+908;STL_T63;STL;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;14
+909;STL_T65;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I ou II;-27;70
+910;STL_T66;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;14
+911;STL_T67;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;69;192
+912;STL_T6B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;37
+913;STL_T71;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;14;68
+914;STL_T72B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;14;68
+915;STL_T73;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+916;STL_T74;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-27;70
+917;STL_T75;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;37
+918;STL_T76;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-50;400
+919;STL_T77;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;indéterminé;adulte;-27;14
+920;STL_T78;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;96;200
+921;STL_T8;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;3;0;5;non;indéterminé;adulte;-27;70
+922;STL_T80;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-27;70
+923;STL_T81;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-27;96
+924;STL_T82;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-27;96
+925;STL_T83;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;non;indéterminé;pas d'ossements;-27;70
+926;STL_T84;STL;Gaule Narbonnaise;Gaule du sud;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-27;37
+927;STL_T85;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;69;235
+928;STL_T86;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;pas d'ossements;-27;37
+929;STL_T87;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;1;0;9;non;indéterminé;adulte;-27;14
+930;STL_T88;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-50;400
+931;STL_T89;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;infans I;14;68
+932;STL_T92;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;2;0;7;non;indéterminé;adulte;-27;14
+933;STL_T94B;STL;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;adulte;14;68
+934;STL_T95;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-27;96
+935;STL_T97B;STL;Gaule Narbonnaise;Gaule du sud;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-27;70
+936;WED_grab 1;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+937;WED_grab 10;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+938;WED_grab 100;WED;Germanie;Gaule du nord;0;0;1;0;5;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte mature;-20;100
+939;WED_grab 1003;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin ?;adulte;-20;100
+940;WED_grab 1004;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+941;WED_grab 1006;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+942;WED_grab 1009;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;-20;100
+943;WED_grab 1015;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;-20;100
+944;WED_grab 1021;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+945;WED_grab 1022;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+946;WED_grab 1025;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+947;WED_grab 1026;WED;Germanie;Gaule du nord;0;0;0;0;0;0;1;1;0;0;0;0;0;0;10;non;indéterminé;adulte;-20;100
+948;WED_grab 1029;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+949;WED_grab 1030;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I ou infans II;-20;100
+950;WED_grab 1032;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+951;WED_grab 1033;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte mature;-20;100
+952;WED_grab 1037;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+953;WED_grab 1039;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte sénile;-20;100
+954;WED_grab 1040;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100
+955;WED_grab 1042;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+956;WED_grab 1045;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+957;WED_grab 1047;WED;Germanie;Gaule du nord;0;0;0;0;23;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+958;WED_grab 1049;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte sénile;-20;100
+959;WED_grab 105;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+960;WED_grab 1052;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100
+961;WED_grab 1054;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+962;WED_grab 1056;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+963;WED_grab 1058;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+964;WED_grab 1060;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;-20;100
+965;WED_grab 1068;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+966;WED_grab 1069;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+967;WED_grab 107;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;1;0;0;0;5;non;féminin ?;adulte mature;-20;100
+968;WED_grab 1072;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte;-20;100
+969;WED_grab 1073;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+970;WED_grab 1074;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+971;WED_grab 1078;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;-20;100
+972;WED_grab 1082;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte mature ou sénile;-20;100
+973;WED_grab 1085;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;non;indéterminé;indéterminé;-20;100
+974;WED_grab 1089;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+975;WED_grab 1096;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+976;WED_grab 1098;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+977;WED_grab 1112;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+978;WED_grab 1145;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;féminin ?;adulte;-20;100
+979;WED_grab 1146;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;1;0;0;0;0;0;0;3;non;féminin;adulte mature;-20;100
+980;WED_grab 115;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+981;WED_grab 1154;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+982;WED_grab 1155;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+983;WED_grab 1162;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;infans II;-20;100
+984;WED_grab 1167;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+985;WED_grab 1168;WED;Germanie;Gaule du nord;0;0;0;0;5;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte mature;-20;100
+986;WED_grab 1169;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+987;WED_grab 1171;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+988;WED_grab 1172;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;7;non;indéterminé;infans II;-20;100
+989;WED_grab 1183;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+990;WED_grab 1186;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+991;WED_grab 1187;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;1;8;non;indéterminé;infans I;-20;100
+992;WED_grab 1196;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+993;WED_grab 1199;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+994;WED_grab 1200;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;-20;100
+995;WED_grab 1201;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+996;WED_grab 1204;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+997;WED_grab 1213;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+998;WED_grab 1215;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte sénile;-20;100
+999;WED_grab 1217;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte mature;-20;100
+1000;WED_grab 1225;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1001;WED_grab 1227;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;11;non;indéterminé;adulte sénile;-20;100
+1002;WED_grab 1234;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;-20;100
+1003;WED_grab 1243;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1004;WED_grab 1244;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;-20;100
+1005;WED_grab 1245;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100
+1006;WED_grab 1260;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1007;WED_grab 1265;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1008;WED_grab 1266;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1009;WED_grab 1270;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte mature;-20;100
+1010;WED_grab 1273;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1011;WED_grab 1275;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1012;WED_grab 1278;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1013;WED_grab 1279;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1014;WED_grab 1285;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1015;WED_grab 1286;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1016;WED_grab 1290;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1017;WED_grab 1292;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1018;WED_grab 1295;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1019;WED_grab 1296;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1020;WED_grab 1297;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;5;non;indéterminé;infans II;-20;100
+1021;WED_grab 1298;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1022;WED_grab 1302;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1023;WED_grab 1305;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;3;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1024;WED_grab 1313;WED;Germanie;Gaule du nord;0;3;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1025;WED_grab 1321;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;9;non;féminin ?;adulte mature;-20;100
+1026;WED_grab 1322;WED;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1027;WED_grab 1324;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte;-20;100
+1028;WED_grab 1325;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1029;WED_grab 1329;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1030;WED_grab 1330;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1031;WED_grab 1331;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte mature;-20;100
+1032;WED_grab 1344;WED;Germanie;Gaule du nord;0;0;0;3;1;0;0;0;0;0;0;0;0;0;9;non;masculin;adulte mature;-20;100
+1033;WED_grab 1350;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I ou II;-20;100
+1034;WED_grab 1354;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;juvenis ou adulte;-20;100
+1035;WED_grab 1361;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;20;non;féminin;adulte;-20;100
+1036;WED_grab 1374;WED;Germanie;Gaule du nord;0;2;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1037;WED_grab 1383;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1038;WED_grab 1387;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1039;WED_grab 1390;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1040;WED_grab 1393;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1041;WED_grab 1394;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1042;WED_grab 1395;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1043;WED_grab 1404;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1044;WED_grab 1409;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1045;WED_grab 1410;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II ou juvenis;-20;100
+1046;WED_grab 1412;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1047;WED_grab 1413;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte mature ou sénile;-20;100
+1048;WED_grab 1423;WED;Germanie;Gaule du nord;0;3;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1049;WED_grab 1425;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1050;WED_grab 143;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;-20;100
+1051;WED_grab 1432;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1052;WED_grab 1434;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1053;WED_grab 144;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1054;WED_grab 1441;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1055;WED_grab 145;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1056;WED_grab 1455;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte sénile;-20;100
+1057;WED_grab 1456;WED;Germanie;Gaule du nord;0;2;0;0;4;0;0;0;0;0;0;0;0;0;7;non;féminin ?;adulte;-20;100
+1058;WED_grab 1465;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1059;WED_grab 147;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1060;WED_grab 1470;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1061;WED_grab 1473;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte sénile;-20;100
+1062;WED_grab 1477;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte mature;-20;100
+1063;WED_grab 1478;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+1064;WED_grab 148;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1065;WED_grab 1482;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte mature;-20;100
+1066;WED_grab 1483;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1067;WED_grab 1486;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1068;WED_grab 1495;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1069;WED_grab 1496;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;périnatal ou infans I;-20;100
+1070;WED_grab 1497;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte mature;-20;100
+1071;WED_grab 1500;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1072;WED_grab 1501;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1073;WED_grab 1502;WED;Germanie;Gaule du nord;0;4;0;0;3;0;0;0;0;0;0;0;0;0;17;non;masculin ?;adulte;-20;100
+1074;WED_grab 1504;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1075;WED_grab 1506;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1076;WED_grab 1511;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1077;WED_grab 1513;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature ou sénile;-20;100
+1078;WED_grab 1514;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1079;WED_grab 1520;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1080;WED_grab 1522;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;féminin ?;adulte mature;-20;100
+1081;WED_grab 1525;WED;Germanie;Gaule du nord;0;3;0;0;0;0;0;0;0;0;0;0;0;0;5;non;féminin;adulte;-20;100
+1082;WED_grab 1528;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1083;WED_grab 1529;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1084;WED_grab 1531;WED;Germanie;Gaule du nord;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1085;WED_grab 1533;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1086;WED_grab 1534;WED;Germanie;Gaule du nord;0;3;0;0;4;0;0;0;0;0;0;0;0;0;5;non;féminin ?;adulte;-20;100
+1087;WED_grab 1535;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;féminin ?;adulte;-20;100
+1088;WED_grab 1537;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1089;WED_grab 1539;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1090;WED_grab 1543;WED;Germanie;Gaule du nord;0;1;0;0;6;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;-20;100
+1091;WED_grab 1545;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;-20;100
+1092;WED_grab 1547;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;-20;100
+1093;WED_grab 1551;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin;adulte;-20;100
+1094;WED_grab 1554;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1095;WED_grab 1559;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100
+1096;WED_grab 1561;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1097;WED_grab 1562;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1098;WED_grab 1564;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal ou infans I;-20;100
+1099;WED_grab 1565;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;5;6;non;indéterminé;infans I;-20;100
+1100;WED_grab 1566;WED;Germanie;Gaule du nord;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1101;WED_grab 1567;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1102;WED_grab 1569;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;4;non;masculin ?;adulte sénile;-20;100
+1103;WED_grab 157;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte;-20;100
+1104;WED_grab 1571;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1105;WED_grab 1573;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1106;WED_grab 1575;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1107;WED_grab 1577;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte mature;-20;100
+1108;WED_grab 1579;WED;Germanie;Gaule du nord;0;3;0;0;0;0;0;0;0;0;1;0;0;0;1;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1109;WED_grab 158;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1110;WED_grab 1582;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;5;non;féminin ?;adulte;-20;100
+1111;WED_grab 1583;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin ?;adulte mature;-20;100
+1112;WED_grab 1585;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+1113;WED_grab 1586;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100
+1114;WED_grab 1587;WED;Germanie;Gaule du nord;0;4;0;0;4;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100
+1115;WED_grab 1592;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100
+1116;WED_grab 16;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1117;WED_grab 160;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1118;WED_grab 1600;WED;Germanie;Gaule du nord;0;1;0;0;2;0;2;0;0;0;0;0;0;0;8;oui;féminin ? + masculin;adulte;-20;100
+1119;WED_grab 1605;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1120;WED_grab 161;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100
+1121;WED_grab 1611;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;29;non;féminin ?;adulte;-20;100
+1122;WED_grab 1616;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1123;WED_grab 162;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1124;WED_grab 1625;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé + féminin ?;juvenis + jeune adulte;-20;100
+1125;WED_grab 163;WED;Germanie;Gaule du nord;0;0;0;2;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1126;WED_grab 1630;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1127;WED_grab 1632;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+1128;WED_grab 1639;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;1;0;0;0;0;0;0;4;non;indéterminé;infans I;-20;100
+1129;WED_grab 1641;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1130;WED_grab 166;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;féminin ?;jeune adulte;-20;100
+1131;WED_grab 167;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1132;WED_grab 169;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;juvenis ou jeune adulte;-20;100
+1133;WED_grab 1713;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte;-20;100
+1134;WED_grab 1717;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1135;WED_grab 1718;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1136;WED_grab 1719;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1137;WED_grab 172;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;féminin ?;jeune adulte;-20;100
+1138;WED_grab 1727;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1139;WED_grab 1730;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;2;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1140;WED_grab 1732;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100
+1141;WED_grab 1735;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1142;WED_grab 1736;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans II;-20;100
+1143;WED_grab 1742;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1144;WED_grab 1744;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1145;WED_grab 1745;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1146;WED_grab 1746;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1147;WED_grab 175;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte mature ou sénile;-20;100
+1148;WED_grab 1750;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte mature;-20;100
+1149;WED_grab 1751;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1150;WED_grab 1757;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou adulte;-20;100
+1151;WED_grab 1765;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1152;WED_grab 1766;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1153;WED_grab 1768;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;1;0;0;0;0;7;non;indéterminé;infans I;-20;100
+1154;WED_grab 1770;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1155;WED_grab 1771;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1156;WED_grab 1774;WED;Germanie;Gaule du nord;0;3;0;0;1;0;0;0;0;0;0;0;0;0;10;non;masculin ?;adulte;-20;100
+1157;WED_grab 178;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100
+1158;WED_grab 1786;WED;Germanie;Gaule du nord;0;3;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1159;WED_grab 1787;WED;Germanie;Gaule du nord;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1160;WED_grab 1788;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1161;WED_grab 1789;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;indéterminé;périnatal;-20;100
+1162;WED_grab 179;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1163;WED_grab 1794;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1164;WED_grab 1795;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1165;WED_grab 1796;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte sénile;-20;100
+1166;WED_grab 1797;WED;Germanie;Gaule du nord;0;0;0;0;5;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100
+1167;WED_grab 1798;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1168;WED_grab 1799;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;-20;100
+1169;WED_grab 1801;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;-20;100
+1170;WED_grab 1802;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1171;WED_grab 1805;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100
+1172;WED_grab 1807;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1173;WED_grab 1808;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;indéterminé;indéterminé;-20;100
+1174;WED_grab 1809;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1175;WED_grab 1810;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1176;WED_grab 1811;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1177;WED_grab 1812;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1178;WED_grab 1813;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1179;WED_grab 1815;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1180;WED_grab 1817;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1181;WED_grab 1818;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte mature;-20;100
+1182;WED_grab 1819;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte mature;-20;100
+1183;WED_grab 1821;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte sénile;-20;100
+1184;WED_grab 1824;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte sénile;-20;100
+1185;WED_grab 1826;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;5;non;masculin ?;adulte;-20;100
+1186;WED_grab 1830;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1187;WED_grab 1831;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1188;WED_grab 1836;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1189;WED_grab 184;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1190;WED_grab 1840;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1191;WED_grab 1842;WED;Germanie;Gaule du nord;0;3;0;0;3;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte;-20;100
+1192;WED_grab 1848;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1193;WED_grab 1849;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1194;WED_grab 185;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1195;WED_grab 1861;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I ou infans II;-20;100
+1196;WED_grab 1862;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1197;WED_grab 1863;WED;Germanie;Gaule du nord;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1198;WED_grab 1867;WED;Germanie;Gaule du nord;0;5;0;0;3;0;0;0;0;0;0;0;0;0;6;non;masculin;juvenis;-20;100
+1199;WED_grab 187;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1200;WED_grab 1873;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1201;WED_grab 1874;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1202;WED_grab 1877;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1203;WED_grab 1882;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1204;WED_grab 1884;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+1205;WED_grab 1889;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte;-20;100
+1206;WED_grab 1890;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1207;WED_grab 1892;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;jeune adulte;-20;100
+1208;WED_grab 1893;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1209;WED_grab 1895;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1210;WED_grab 1898;WED;Germanie;Gaule du nord;0;2;1;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte;-20;100
+1211;WED_grab 1900;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte mature;-20;100
+1212;WED_grab 1901;WED;Germanie;Gaule du nord;0;2;0;0;4;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte;-20;100
+1213;WED_grab 1902;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1214;WED_grab 1903;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;périnatal ou infans I;-20;100
+1215;WED_grab 1905;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte mature;-20;100
+1216;WED_grab 1910;WED;Germanie;Gaule du nord;0;4;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte mature;-20;100
+1217;WED_grab 1917;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature ou sénile;-20;100
+1218;WED_grab 1919;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1219;WED_grab 192;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II ou juvenis;-20;100
+1220;WED_grab 1922;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1221;WED_grab 1924;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;périnatal;-20;100
+1222;WED_grab 1926;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1223;WED_grab 1945;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou jeune adulte;-20;100
+1224;WED_grab 1950;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;1;0;0;0;0;4;non;féminin ?;adulte;-20;100
+1225;WED_grab 1951;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;34;non;féminin;adulte;-20;100
+1226;WED_grab 1952;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1227;WED_grab 1955;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1228;WED_grab 1959;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1229;WED_grab 1965;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1230;WED_grab 1968;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1231;WED_grab 1969;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;2;0;0;0;0;0;3;non;indéterminé;périnatal;-20;100
+1232;WED_grab 1971;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1233;WED_grab 1972;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1234;WED_grab 1981;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1235;WED_grab 1993;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;-20;100
+1236;WED_grab 1994;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1237;WED_grab 1996;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1238;WED_grab 1997;WED;Germanie;Gaule du nord;0;2;1;0;1;0;0;0;0;1;0;0;0;0;4;oui;indéterminé;périnatal ou infans I + infans I;-20;100
+1239;WED_grab 2003;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin ?;adulte;-20;100
+1240;WED_grab 2004;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;périnatal ou infans I;-20;100
+1241;WED_grab 2006;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1242;WED_grab 202;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1243;WED_grab 2023;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans II;-20;100
+1244;WED_grab 2034;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1245;WED_grab 2037;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature ou sénile;-20;100
+1246;WED_grab 204;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1247;WED_grab 2040;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1248;WED_grab 2046;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte mature;-20;100
+1249;WED_grab 205;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1250;WED_grab 2050;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;féminin;adulte;-20;100
+1251;WED_grab 2051;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1252;WED_grab 2052;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte sénile;-20;100
+1253;WED_grab 2060;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1254;WED_grab 2063;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;-20;100
+1255;WED_grab 2065;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;8;non;masculin ?;adulte mature;-20;100
+1256;WED_grab 2066;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1257;WED_grab 2071;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;1;0;0;0;0;0;9;non;féminin ?;adulte;-20;100
+1258;WED_grab 2072;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1259;WED_grab 2073;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1260;WED_grab 2076;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1261;WED_grab 2078;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;masculin;adulte mature ou sénile;-20;100
+1262;WED_grab 208;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte sénile;-20;100
+1263;WED_grab 2081;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1264;WED_grab 2083;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1265;WED_grab 2086;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal ou infans I;-20;100
+1266;WED_grab 2087;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1267;WED_grab 2089;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte;-20;100
+1268;WED_grab 209;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1269;WED_grab 2090;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte mature;-20;100
+1270;WED_grab 2091;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1271;WED_grab 2092;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1272;WED_grab 2095;WED;Germanie;Gaule du nord;0;0;0;1;2;0;0;0;0;0;0;0;0;0;16;non;indéterminé;indéterminé;-20;100
+1273;WED_grab 2096;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;-20;100
+1274;WED_grab 2097;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100
+1275;WED_grab 2098;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1276;WED_grab 2099;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1277;WED_grab 2101;WED;Germanie;Gaule du nord;0;2;0;0;4;0;0;0;0;0;0;0;0;0;11;non;féminin ?;adulte;-20;100
+1278;WED_grab 2104;WED;Germanie;Gaule du nord;0;0;1;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;infans I;-20;100
+1279;WED_grab 2106;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1280;WED_grab 2107;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte mature;-20;100
+1281;WED_grab 2108;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte sénile;-20;100
+1282;WED_grab 211;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1283;WED_grab 2113;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal ou infans I;-20;100
+1284;WED_grab 2117;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin ?;jeune adulte;-20;100
+1285;WED_grab 2119;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1286;WED_grab 2124;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1287;WED_grab 2125;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1288;WED_grab 2126;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;3;10;non;masculin ?;adulte;-20;100
+1289;WED_grab 2128;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1290;WED_grab 2129;WED;Germanie;Gaule du nord;0;9;0;0;2;0;0;0;0;0;0;0;0;0;9;non;indéterminé;indéterminé;-20;100
+1291;WED_grab 2131;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal ou infans I;-20;100
+1292;WED_grab 2136;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1293;WED_grab 2139;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte mature;-20;100
+1294;WED_grab 2141;WED;Germanie;Gaule du nord;0;1;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1295;WED_grab 2144;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1296;WED_grab 2145;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II ou juvenis;-20;100
+1297;WED_grab 2148;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1298;WED_grab 2150;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1299;WED_grab 2157;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1300;WED_grab 2158;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1301;WED_grab 216;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1302;WED_grab 2161;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1303;WED_grab 2164;WED;Germanie;Gaule du nord;0;0;0;0;5;0;0;0;0;0;0;0;0;0;12;non;indéterminé;adulte;-20;100
+1304;WED_grab 2165;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;masculin ?;adulte;-20;100
+1305;WED_grab 2168;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte mature;-20;100
+1306;WED_grab 2169;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1307;WED_grab 2171;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin ?;adulte mature;-20;100
+1308;WED_grab 2173;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1309;WED_grab 2178;WED;Germanie;Gaule du nord;0;2;0;0;3;0;0;0;0;0;1;0;0;0;4;non;féminin ?;adulte;-20;100
+1310;WED_grab 2183;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;jeune adulte;-20;100
+1311;WED_grab 2189;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1312;WED_grab 2196;WED;Germanie;Gaule du nord;0;15;0;0;3;0;0;0;0;0;0;0;0;0;13;non;indéterminé;indéterminé;-20;100
+1313;WED_grab 2200;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1314;WED_grab 2201;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1315;WED_grab 2205;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1316;WED_grab 2207;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1317;WED_grab 2212;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;10;non;indéterminé;infans II;-20;100
+1318;WED_grab 2215;WED;Germanie;Gaule du nord;0;2;0;2;2;0;0;0;0;0;0;0;0;0;7;non;masculin;adulte;-20;100
+1319;WED_grab 2218;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte mature;-20;100
+1320;WED_grab 2219;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1321;WED_grab 2226;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;périnatal;-20;100
+1322;WED_grab 2229;WED;Germanie;Gaule du nord;0;4;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin ?;adulte;-20;100
+1323;WED_grab 2230;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100
+1324;WED_grab 2232;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;1;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1325;WED_grab 2233;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1326;WED_grab 2235;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;10;non;féminin;adulte;-20;100
+1327;WED_grab 224;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;jeune adulte;-20;100
+1328;WED_grab 2240;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;2;5;non;masculin ?;adulte;-20;100
+1329;WED_grab 2242;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;-20;100
+1330;WED_grab 2245;WED;Germanie;Gaule du nord;0;0;1;0;2;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte mature;-20;100
+1331;WED_grab 2250;WED;Germanie;Gaule du nord;0;1;0;0;3;0;0;0;1;0;0;0;0;0;8;non;indéterminé;périnatal ou infans I;-20;100
+1332;WED_grab 2251;WED;Germanie;Gaule du nord;0;1;3;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;adulte mature;-20;100
+1333;WED_grab 2252;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou adulte;-20;100
+1334;WED_grab 2255;WED;Germanie;Gaule du nord;0;5;1;0;3;0;0;0;0;0;0;0;0;0;12;non;indéterminé;infans II;-20;100
+1335;WED_grab 2256;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1336;WED_grab 226;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte;-20;100
+1337;WED_grab 2265;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;non;indéterminé;adulte;-20;100
+1338;WED_grab 2267;WED;Germanie;Gaule du nord;0;6;0;0;1;0;0;0;0;1;0;0;0;0;11;non;féminin;adulte sénile;-20;100
+1339;WED_grab 227;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1340;WED_grab 2271;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1341;WED_grab 2272;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal;-20;100
+1342;WED_grab 2273;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1343;WED_grab 2274;WED;Germanie;Gaule du nord;0;1;0;0;2;0;0;0;0;1;0;0;0;0;3;non;masculin ?;juvenis;-20;100
+1344;WED_grab 2277;WED;Germanie;Gaule du nord;0;7;1;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte mature;-20;100
+1345;WED_grab 2278;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;2;2;non;masculin ?;adulte;-20;100
+1346;WED_grab 2283;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;2;0;0;0;0;0;24;non;indéterminé;indéterminé;-20;100
+1347;WED_grab 2286;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1348;WED_grab 2287;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1349;WED_grab 2289;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;non;féminin;adulte;-20;100
+1350;WED_grab 2293;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;-20;100
+1351;WED_grab 2294;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1352;WED_grab 2295;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1353;WED_grab 2297;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1354;WED_grab 2299;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte sénile;-20;100
+1355;WED_grab 230;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1356;WED_grab 2300;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1357;WED_grab 2303;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1358;WED_grab 2308;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin ?;adulte;-20;100
+1359;WED_grab 2309;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1360;WED_grab 2310;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1361;WED_grab 2312;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1362;WED_grab 2314;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+1363;WED_grab 2315;WED;Germanie;Gaule du nord;0;2;0;0;0;1;0;0;1;1;0;0;0;0;8;non;indéterminé;adulte;-20;100
+1364;WED_grab 2316;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;-20;100
+1365;WED_grab 2318;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte mature;-20;100
+1366;WED_grab 2323;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1367;WED_grab 2327;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1368;WED_grab 2349;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1369;WED_grab 2360;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;non;féminin;adulte mature;-20;100
+1370;WED_grab 2361;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;1;5;non;masculin;adulte mature ou sénile;-20;100
+1371;WED_grab 2362;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;13;non;indéterminé;infans II;-20;100
+1372;WED_grab 2363;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;non;masculin;adulte mature ou sénile;-20;100
+1373;WED_grab 2370;WED;Germanie;Gaule du nord;0;4;0;0;6;0;0;0;0;0;0;0;0;0;25;non;féminin ?;adulte;-20;100
+1374;WED_grab 2410;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1375;WED_grab 2411;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte sénile;-20;100
+1376;WED_grab 2418;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte mature;-20;100
+1377;WED_grab 2421;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1378;WED_grab 2424;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1379;WED_grab 2425;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1380;WED_grab 2431;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1381;WED_grab 2432;WED;Germanie;Gaule du nord;0;3;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte;-20;100
+1382;WED_grab 2447;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1383;WED_grab 2448;WED;Germanie;Gaule du nord;0;2;0;0;0;0;0;0;0;0;0;0;0;4;11;non;indéterminé;adulte;-20;100
+1384;WED_grab 2449;WED;Germanie;Gaule du nord;0;2;0;0;4;0;0;0;0;0;0;0;0;0;6;non;masculin ?;adulte;-20;100
+1385;WED_grab 2451;WED;Germanie;Gaule du nord;0;1;0;0;3;0;0;0;0;0;0;0;0;0;6;non;masculin ?;adulte mature;-20;100
+1386;WED_grab 2455;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;non;indéterminé;juvenis ou adulte;-20;100
+1387;WED_grab 2456;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1388;WED_grab 2459;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+1389;WED_grab 246;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte mature;-20;100
+1390;WED_grab 2460;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1391;WED_grab 2462;WED;Germanie;Gaule du nord;0;2;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1392;WED_grab 2463;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8;oui;indéterminé + masculin;infans I + adulte mature;-20;100
+1393;WED_grab 2469;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;masculin ?;adulte;-20;100
+1394;WED_grab 2472;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1395;WED_grab 248;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1396;WED_grab 254;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans II ou juvenis;-20;100
+1397;WED_grab 256;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1398;WED_grab 257;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1399;WED_grab 258;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1400;WED_grab 261;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1401;WED_grab 273;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1402;WED_grab 275;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1403;WED_grab 282;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou adulte;-20;100
+1404;WED_grab 289;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1405;WED_grab 291;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;juvenis ou adulte;-20;100
+1406;WED_grab 306;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1407;WED_grab 309;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1408;WED_grab 316;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal ou infans I;-20;100
+1409;WED_grab 318;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;1;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1410;WED_grab 325;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1411;WED_grab 337;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1412;WED_grab 338;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1413;WED_grab 34;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1414;WED_grab 35;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;-20;100
+1415;WED_grab 350;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;jeune adulte;-20;100
+1416;WED_grab 351;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1417;WED_grab 354;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;6;non;féminin ?;jeune adulte;-20;100
+1418;WED_grab 355;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+1419;WED_grab 359;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis;-20;100
+1420;WED_grab 360;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;-20;100
+1421;WED_grab 37;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14;non;indéterminé;indéterminé;-20;100
+1422;WED_grab 372;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1423;WED_grab 379;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1424;WED_grab 400;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte mature ou sénile;-20;100
+1425;WED_grab 403;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1426;WED_grab 405;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;-20;100
+1427;WED_grab 412;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II;-20;100
+1428;WED_grab 417;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I ou infans II;-20;100
+1429;WED_grab 419;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte sénile;-20;100
+1430;WED_grab 421;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1431;WED_grab 423;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;7;non;féminin;jeune adulte;-20;100
+1432;WED_grab 425;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte mature;-20;100
+1433;WED_grab 436;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou jeune adulte;-20;100
+1434;WED_grab 438;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1435;WED_grab 443;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou jeune adulte;-20;100
+1436;WED_grab 444;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1437;WED_grab 445;WED;Germanie;Gaule du nord;0;0;0;0;3;0;1;0;0;0;0;0;0;0;5;non;indéterminé;adulte mature;-20;100
+1438;WED_grab 446;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1439;WED_grab 45;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1440;WED_grab 450;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;jeune adulte ou adulte mature;-20;100
+1441;WED_grab 46;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;-20;100
+1442;WED_grab 474;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;-20;100
+1443;WED_grab 476;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1444;WED_grab 480;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1445;WED_grab 482;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1446;WED_grab 483;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;5;non;masculin ?;adulte;-20;100
+1447;WED_grab 489;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1448;WED_grab 49;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1449;WED_grab 490;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;périnatal ou infans I;-20;100
+1450;WED_grab 491;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1451;WED_grab 494;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1452;WED_grab 495;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1453;WED_grab 496;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1454;WED_grab 497;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1455;WED_grab 499;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1456;WED_grab 5;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1457;WED_grab 506;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1458;WED_grab 515;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans II ou juvenis;-20;100
+1459;WED_grab 519;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1460;WED_grab 521;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1461;WED_grab 522;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1462;WED_grab 524;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans II ou juvenis;-20;100
+1463;WED_grab 526;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1464;WED_grab 528;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;infans II ou juvenis;-20;100
+1465;WED_grab 531;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;infans I ou infans II;-20;100
+1466;WED_grab 540;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II ou juvenis;-20;100
+1467;WED_grab 541;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1468;WED_grab 542;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1469;WED_grab 543;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1470;WED_grab 546;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1471;WED_grab 55;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1472;WED_grab 563;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou adulte;-20;100
+1473;WED_grab 566;WED;Germanie;Gaule du nord;0;0;0;0;7;0;0;0;0;0;1;0;0;0;7;non;féminin ?;adulte;-20;100
+1474;WED_grab 568;WED;Germanie;Gaule du nord;0;0;1;0;4;0;0;0;0;0;0;0;0;0;6;non;indéterminé;juvenis ou jeune adulte;-20;100
+1475;WED_grab 572;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1476;WED_grab 576;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1477;WED_grab 578;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;juvenis ou jeune adulte;-20;100
+1478;WED_grab 58;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1479;WED_grab 580;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1480;WED_grab 584;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1481;WED_grab 591;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;juvenis ou jeune adulte;-20;100
+1482;WED_grab 593;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;juvenis;-20;100
+1483;WED_grab 595;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte mature;-20;100
+1484;WED_grab 597;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1485;WED_grab 60;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte;-20;100
+1486;WED_grab 600;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1487;WED_grab 602;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1488;WED_grab 603;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1489;WED_grab 606;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1490;WED_grab 610;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;infans I;-20;100
+1491;WED_grab 611;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;-20;100
+1492;WED_grab 617;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;juvenis ou jeune adulte;-20;100
+1493;WED_grab 619;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I ou II;-20;100
+1494;WED_grab 620;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou jeune adulte;-20;100
+1495;WED_grab 630;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1496;WED_grab 631;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte mature;-20;100
+1497;WED_grab 633;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1498;WED_grab 636;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1499;WED_grab 637;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte sénile;-20;100
+1500;WED_grab 639;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1501;WED_grab 645;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1502;WED_grab 648;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1503;WED_grab 650;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou adulte;-20;100
+1504;WED_grab 654;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte sénile;-20;100
+1505;WED_grab 655;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1506;WED_grab 656;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1507;WED_grab 659;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1508;WED_grab 665;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1509;WED_grab 666;WED;Germanie;Gaule du nord;0;0;0;1;4;0;0;0;0;0;0;0;0;0;6;non;masculin ?;adulte mature;-20;100
+1510;WED_grab 667;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1511;WED_grab 668;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1512;WED_grab 670;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II ou juvenis;-20;100
+1513;WED_grab 671;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;féminin ?;adulte mature;-20;100
+1514;WED_grab 673;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte sénile;-20;100
+1515;WED_grab 675;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1516;WED_grab 676;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100
+1517;WED_grab 678;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;infans II ou juvenis;-20;100
+1518;WED_grab 681;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;11;non;indéterminé;juvenis ou adulte;-20;100
+1519;WED_grab 685;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1520;WED_grab 690;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1521;WED_grab 691;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1522;WED_grab 692;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;juvenis ou jeune adulte;-20;100
+1523;WED_grab 693;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1524;WED_grab 695;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin ?;adulte;-20;100
+1525;WED_grab 696;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1526;WED_grab 697;WED;Germanie;Gaule du nord;0;0;0;3;1;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte mature;-20;100
+1527;WED_grab 698;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte mature;-20;100
+1528;WED_grab 700;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1529;WED_grab 702;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1530;WED_grab 703;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1531;WED_grab 714;WED;Germanie;Gaule du nord;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3;non;indéterminé;juvenis ou adulte;-20;100
+1532;WED_grab 725;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin;adulte mature ou sénile;-20;100
+1533;WED_grab 727;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1534;WED_grab 728;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin ?;adulte mature;-20;100
+1535;WED_grab 732;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1536;WED_grab 733;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1537;WED_grab 741;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1538;WED_grab 742;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;-20;100
+1539;WED_grab 743;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1540;WED_grab 746;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1541;WED_grab 749;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1542;WED_grab 750;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte mature;-20;100
+1543;WED_grab 756;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;non;indéterminé;adulte;-20;100
+1544;WED_grab 76;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1545;WED_grab 760;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte sénile;-20;100
+1546;WED_grab 763;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1547;WED_grab 768;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1548;WED_grab 775;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1549;WED_grab 779;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1550;WED_grab 781;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte mature;-20;100
+1551;WED_grab 8;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100
+1552;WED_grab 803;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin ?;adulte mature;-20;100
+1553;WED_grab 808;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1554;WED_grab 813;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100
+1555;WED_grab 821;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1556;WED_grab 825;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1557;WED_grab 839;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1558;WED_grab 844;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;jeune adulte;-20;100
+1559;WED_grab 849;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;féminin ?;adulte;-20;100
+1560;WED_grab 85;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1561;WED_grab 858;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1562;WED_grab 865;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100
+1563;WED_grab 874;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1564;WED_grab 882;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;jeune adulte;-20;100
+1565;WED_grab 887;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100
+1566;WED_grab 892;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100
+1567;WED_grab 894;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1568;WED_grab 898;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;adulte + infans I;-20;100
+1569;WED_grab 899;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte sénile;-20;100
+1570;WED_grab 9;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;2;0;0;0;0;3;oui;indéterminé;infans I + indéterminé;-20;100
+1571;WED_grab 901;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte mature;-20;100
+1572;WED_grab 906;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;non;masculin ?;juvenis;-20;100
+1573;WED_grab 909;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1574;WED_grab 914;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1575;WED_grab 917;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100
+1576;WED_grab 918;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1577;WED_grab 920;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1578;WED_grab 925;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1579;WED_grab 927;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100
+1580;WED_grab 929;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;jeune adulte;-20;100
+1581;WED_grab 934;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin ?;adulte;-20;100
+1582;WED_grab 936;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1583;WED_grab 937;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1584;WED_grab 940;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;oui;indéterminé;infans II ou juvenis + juvenis;-20;100
+1585;WED_grab 942;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans I;-20;100
+1586;WED_grab 943;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;1;3;non;indéterminé;juvenis ou adulte;-20;100
+1587;WED_grab 954;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;jeune adulte;-20;100
+1588;WED_grab 962;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1589;WED_grab 963;WED;Germanie;Gaule du nord;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;-20;100
+1590;WED_grab 964;WED;Germanie;Gaule du nord;0;0;0;0;4;0;0;0;0;0;0;0;0;0;4;non;féminin;adulte;-20;100
+1591;WED_grab 966;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100
+1592;WED_grab 967;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte sénile;-20;100
+1593;WED_grab 969;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1594;WED_grab 978;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1595;WED_grab 98;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;juvenis;-20;100
+1596;WED_grab 982;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte mature;-20;100
+1597;WED_grab 983;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;périnatal;-20;100
+1598;WED_grab 984;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;infans II;-20;100
+1599;WED_grab 985;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;infans I;-20;100
+1600;WED_grab 992;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2;non;féminin ?;adulte;-20;100
+1601;WED_grab 999;WED;Germanie;Gaule du nord;0;0;0;0;2;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100
+1602;FLR;FLR;Aquitaine;Gaule du centre-est;13;1;0;5;1;0;4;0;7;0;1;0;0;0;20;non;indéterminé;indéterminé;-25;10
+1603;CST;CST;Aquitaine;Gaule du centre-est;7;0;0;2;0;0;2;0;1;0;0;0;0;0;5;non;indéterminé;indéterminé;-75;-25
+1604;DSA;DSA;Aquitaine;Gaule du centre-est;0;0;0;7;1;0;0;0;3;0;0;0;0;0;11;non;indéterminé;indéterminé;-50;-20
+1605;BBF;BBF;Aquitaine;Gaule du centre-est;10;2;0;3;0;0;2;0;6;0;0;0;0;0;11;non;indéterminé;adulte;-20;1
+1606;MVC;MVC;Aquitaine;Gaule du centre-est;1;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;1;25
+1607;PGM;PGM;Aquitaine;Gaule du centre-est;4;3;0;0;2;0;0;1;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-10;10
+1608;NPV;NPV;Aquitaine;Gaule du centre-est;57;0;1;2;3;1;2;0;4;1;1;1;0;0;15;non;indéterminé;indéterminé;40;50
+1609;PIG;PIG;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;0;11;0;1;72;0;0;0;0;85;non;indéterminé;indéterminé;1;100
+1610;STN_tombe 1;STN;Gaule Belgique;Gaule du centre-est;2;1;0;0;1;0;0;1;3;0;0;0;0;0;5;non;indéterminé;indéterminé;1;300
+1611;STN_tombe 2;STN;Gaule Belgique;Gaule du centre-est;5;0;0;0;0;0;0;0;2;2;2;2;0;0;2;non;indéterminé;indéterminé;1;300
+1612;STN_tombe 3;STN;Gaule Belgique;Gaule du centre-est;4;3;0;0;0;0;0;0;2;0;0;0;0;0;2;non;indéterminé;indéterminé;1;300
+1613;MLM;MLM;Gaule Narbonnaise;Gaule du sud;0;0;1;0;0;2;10;0;1;0;1;0;0;0;15;non;indéterminé;indéterminé;1;100
