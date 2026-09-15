@@ -1,0 +1,597 @@
+"ID";"tombe";"site";"province";"zone_geo";"amphore";"monnaie";"lampe";"armement";"parure";"strigile";"instrument.de.toilette";"miroir";"vaisselle.métallique";"vaisselle.en.verre";"matériaux.précieux";"char";"lit.funéraire";"instrument.écriture";"quantité.objet";"tombe_multiple";"sexe.defunt";"classe.age.defunt";"date_debut";"date_fin";"centre_chrono";"intervalle_personnalise";"groupe_cah";"diversite"
+"1";"AIXZAC_sépulture  38";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";150;200;175;"100 - 300";"1";0
+"2";"AIXZAC_sépulture 10";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;1;1;0;0;0;9;"non";"indéterminé";"indéterminé";40;60;50;"1 - 100";"1";3
+"3";"AIXZAC_sépulture 21";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";60;90;75;"1 - 100";"1";1
+"4";"AIXZAC_sépulture 22";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;5;"non";"indéterminé";"indéterminé";100;130;115;"100 - 300";"1";1
+"5";"AIXZAC_sépulture 30";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";60;150;105;"100 - 300";"1";0
+"6";"AIXZAC_sépulture 32";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";150;200;175;"100 - 300";"1";1
+"7";"AIXZAC_sépulture 41";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"indéterminé";60;120;90;"1 - 100";"1";1
+"8";"AIXZAC_sépulture 43";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";150;200;175;"100 - 300";"1";1
+"9";"AIXZAC_sépulture 46";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"indéterminé";70;130;100;"100 - 300";"1";0
+"10";"AIXZAC_sépulture 47";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";50;150;100;"100 - 300";"1";0
+"11";"AIXZAC_sépulture 48";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;90;75;"1 - 100";"1";0
+"12";"AIXZAC_sépulture double 27/28";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";150;200;175;"100 - 300";"1";1
+"13";"AIXZAC_tombe-bûcher 12";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;90;75;"1 - 100";"1";0
+"14";"AIXZAC_tombe-bûcher 13";"AIXZAC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";60;90;75;"1 - 100";"1";0
+"15";"CAB_tombe 1";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";50;100;75;"1 - 100";"1";1
+"16";"CAB_tombe 10";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"indéterminé";90;100;95;"1 - 100";"1";1
+"17";"CAB_tombe 11";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;"non";"indéterminé";"indéterminé";50;70;60;"1 - 100";"1";1
+"18";"CAB_tombe 13";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;109;"non";"indéterminé";"indéterminé";101;200;150,5;"100 - 300";"1";1
+"19";"CAB_tombe 14";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"indéterminé";170;170;170;"100 - 300";"1";2
+"20";"CAB_tombe 15";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;68;"non";"indéterminé";"indéterminé";50;100;75;"1 - 100";"1";2
+"21";"CAB_tombe 2";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";50;70;60;"1 - 100";"1";0
+"22";"CAB_tombe 20";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";170;170;170;"100 - 300";"1";0
+"23";"CAB_tombe 21";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;130;100;"100 - 300";"1";0
+"24";"CAB_tombe 22";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;"non";"indéterminé";"indéterminé";150;200;175;"100 - 300";"1";1
+"25";"CAB_tombe 26";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"adulte";370;400;385;NA;"2";1
+"26";"CAB_tombe 27";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"féminin";"adulte";370;400;385;NA;"2";1
+"27";"CAB_tombe 31";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";50;70;60;"1 - 100";"1";1
+"28";"CAB_tombe 4";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"indéterminé";170;170;170;"100 - 300";"1";2
+"29";"CAB_tombe 5";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;1;22;"non";"indéterminé";"indéterminé";70;130;100;"100 - 300";"1";2
+"30";"CAB_tombe 7";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;22;"non";"indéterminé";"indéterminé";90;100;95;"1 - 100";"1";1
+"31";"CAB_tombe 8";"CAB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;98;"non";"indéterminé";"indéterminé";50;70;60;"1 - 100";"1";1
+"32";"MSB_tombe 107";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";50;150;100;"100 - 300";"1";2
+"33";"MSB_tombe 113";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"34";"MSB_tombe 125";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";1
+"35";"MSB_tombe 126";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";100;150;125;"100 - 300";"1";1
+"36";"MSB_tombe 148";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;200;175;"100 - 300";"1";2
+"37";"MSB_tombe 149";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-30;200;85;"1 - 100";"1";0
+"38";"MSB_tombe 15";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";50;150;100;"100 - 300";"1";1
+"39";"MSB_tombe 151";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"adulte";50;200;125;"100 - 300";"1";2
+"40";"MSB_tombe 158";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;200;85;"1 - 100";"1";1
+"41";"MSB_tombe 160";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"42";"MSB_tombe 163";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;200;175;"100 - 300";"1";1
+"43";"MSB_tombe 166";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";50;150;100;"100 - 300";"1";0
+"44";"MSB_tombe 169";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;1;0;0;0;11;"non";"indéterminé";"enfant";100;150;125;"100 - 300";"1";3
+"45";"MSB_tombe 170";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;1;0;0;0;5;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";2
+"46";"MSB_tombe 175";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";100;150;125;"100 - 300";"1";2
+"47";"MSB_tombe 179";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";100;150;125;"100 - 300";"1";1
+"48";"MSB_tombe 180";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";100;150;125;"100 - 300";"1";2
+"49";"MSB_tombe 184";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;"oui";"indéterminé";"mixte (indéterminé)";100;150;125;"100 - 300";"1";1
+"50";"MSB_tombe 186";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";100;150;125;"100 - 300";"1";1
+"51";"MSB_tombe 187";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"52";"MSB_tombe 195";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";0
+"53";"MSB_tombe 196";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";0
+"54";"MSB_tombe 199";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";100;150;125;"100 - 300";"1";1
+"55";"MSB_tombe 200";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";0
+"56";"MSB_tombe 202";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;100;35;"1 - 100";"1";1
+"57";"MSB_tombe 206";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";0
+"58";"MSB_tombe 207";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"59";"MSB_tombe 208";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";50;150;100;"100 - 300";"1";0
+"60";"MSB_tombe 209";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";1
+"61";"MSB_tombe 219";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";0
+"62";"MSB_tombe 223";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;200;150;"100 - 300";"1";0
+"63";"MSB_tombe 234";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"64";"MSB_tombe 236";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;150;125;"100 - 300";"1";1
+"65";"MSB_tombe 248";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";1
+"66";"MSB_tombe 263";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"67";"MSB_tombe 27";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";100;200;150;"100 - 300";"1";1
+"68";"MSB_tombe 298";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"69";"MSB_tombe 3";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";0
+"70";"MSB_tombe 300";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;3;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"71";"MSB_tombe 308";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;1;0;0;0;2;"non";"indéterminé";"enfant";-30;200;85;"1 - 100";"1";2
+"72";"MSB_tombe 311";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"73";"MSB_tombe 312";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-30;50;10;"1 - 100";"1";0
+"74";"MSB_tombe 317";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-30;200;85;"1 - 100";"1";1
+"75";"MSB_tombe 322";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";1
+"76";"MSB_tombe 328";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";150;200;175;"100 - 300";"1";2
+"77";"MSB_tombe 330";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";3
+"78";"MSB_tombe 331";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";1
+"79";"MSB_tombe 332";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"bébé";100;200;150;"100 - 300";"1";0
+"80";"MSB_tombe 348";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";1
+"81";"MSB_tombe 349";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";100;150;125;"100 - 300";"1";1
+"82";"MSB_tombe 356";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";50;150;100;"100 - 300";"1";1
+"83";"MSB_tombe 362";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"84";"MSB_tombe 381";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-30;200;85;"1 - 100";"1";1
+"85";"MSB_tombe 385";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"mixte (adulte + enfant)";50;150;100;"100 - 300";"1";2
+"86";"MSB_tombe 386";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-30;50;10;"1 - 100";"1";0
+"87";"MSB_tombe 46";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;"non";"féminin";"adulte";100;200;150;"100 - 300";"1";1
+"88";"MSB_tombe 69";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";100;200;150;"100 - 300";"1";1
+"89";"MSB_tombe 7";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";100;200;150;"100 - 300";"1";1
+"90";"MSB_tombe 80";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"91";"MSB_tombe 82";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";150;200;175;"100 - 300";"1";2
+"92";"MSB_tombe 86";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-30;50;10;"1 - 100";"1";1
+"93";"MSB_tombe 89";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";1
+"94";"MSB_tombe 92";"MSB";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-30;200;85;"1 - 100";"1";1
+"95";"NIMJJ_FS1069";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;14;"non";"indéterminé";"adulte";75;200;137,5;"100 - 300";"1";2
+"96";"NIMJJ_FS1133";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";1;50;25,5;"1 - 100";"1";1
+"97";"NIMJJ_FS1194";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;1;1;0;0;0;1;0;0;0;0;7;"non";"indéterminé";"adulte";70;170;120;"100 - 300";"1";4
+"98";"NIMJJ_SP1001";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";70;170;120;"100 - 300";"1";1
+"99";"NIMJJ_SP1004";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;1;0;0;0;0;1;0;0;0;0;162;"non";"indéterminé";"adulte";75;170;122,5;"100 - 300";"1";3
+"100";"NIMJJ_SP1055";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;54;"non";"indéterminé";"adulte";90;125;107,5;"100 - 300";"1";3
+"101";"NIMJJ_SP1062";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"bébé";1;200;100,5;"100 - 300";"1";1
+"102";"NIMJJ_SP1067";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"enfant";1;200;100,5;"100 - 300";"1";0
+"103";"NIMJJ_SP1081";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"bébé";130;170;150;"100 - 300";"1";2
+"104";"NIMJJ_SP1113";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;1;1;0;0;0;25;"non";"masculin";"adulte";25;75;50;"1 - 100";"1";3
+"105";"NIMJJ_SP1154";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"106";"NIMJJ_SP1157";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";1;200;100,5;"100 - 300";"1";1
+"107";"NIMJJ_SP1180";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;25;"non";"indéterminé";"enfant";50;100;75;"1 - 100";"1";2
+"108";"NIMJJ_SP1185";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;1;0;0;0;0;1;0;0;0;0;6;"non";"masculin";"adulte";50;170;110;"100 - 300";"1";3
+"109";"NIMJJ_SP1197";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"enfant";70;170;120;"100 - 300";"1";0
+"110";"NIMJJ_SP1205";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;24;"non";"indéterminé";"adulte";125;170;147,5;"100 - 300";"1";3
+"111";"NIMJJ_SP1223";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;1;0;0;0;0;7;"non";"indéterminé";"adulte";125;175;150;"100 - 300";"1";2
+"112";"NIMJJ_SP1226";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;11;"non";"indéterminé";"indéterminé";75;150;112,5;"100 - 300";"1";1
+"113";"NIMJJ_SP1270";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";130;170;150;"100 - 300";"1";1
+"114";"NIMJJ_SP1292";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";50;170;110;"100 - 300";"1";1
+"115";"NIMJJ_SP1294";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;16;"non";"féminin";"adulte";70;170;120;"100 - 300";"1";2
+"116";"NIMJJ_SP1295";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";140;170;155;"100 - 300";"1";1
+"117";"NIMJJ_SP1296";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"adulte";130;170;150;"100 - 300";"1";2
+"118";"NIMJJ_SP1320";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;5;"non";"indéterminé";"enfant";70;170;120;"100 - 300";"1";1
+"119";"NIMJJ_SP1324";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;10;"non";"indéterminé";"adulte";70;170;120;"100 - 300";"1";1
+"120";"NIMJJ_SP1332";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;15;"non";"indéterminé";"adulte";50;130;90;"1 - 100";"1";1
+"121";"NIMJJ_SP1345";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;1;0;0;1;0;1;0;0;0;0;18;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";4
+"122";"NIMJJ_SP1348";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";1;200;100,5;"100 - 300";"1";0
+"123";"NIMJJ_SP1349";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";15;200;107,5;"100 - 300";"1";0
+"124";"NIMJJ_SP1351";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";1;200;100,5;"100 - 300";"1";0
+"125";"NIMJJ_SP1357";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";15;200;107,5;"100 - 300";"1";0
+"126";"NIMJJ_SP1362";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;1;0;0;0;0;18;"non";"indéterminé";"enfant";100;170;135;"100 - 300";"1";2
+"127";"NIMJJ_SP1363";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"enfant";100;170;135;"100 - 300";"1";0
+"128";"NIMJJ_SP1380";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";25;75;50;"1 - 100";"1";0
+"129";"NIMJJ_SP1381";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"enfant";25;75;50;"1 - 100";"1";0
+"130";"NIMJJ_SP1393";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"bébé";50;300;175;"100 - 300";"1";0
+"131";"NIMJJ_SP1394";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;0;0;0;1;8;"non";"indéterminé";"enfant";125;170;147,5;"100 - 300";"1";2
+"132";"NIMJJ_SP1395";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";1;200;100,5;"100 - 300";"1";1
+"133";"NIMJJ_SP2002";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"enfant";75;150;112,5;"100 - 300";"1";0
+"134";"NIMJJ_SP2010";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"féminin";"adulte";100;175;137,5;"100 - 300";"1";0
+"135";"NIMJJ_SP2014";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;97;"non";"indéterminé";"adulte";100;175;137,5;"100 - 300";"1";2
+"136";"NIMJJ_SP2024";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"adulte";125;175;150;"100 - 300";"1";2
+"137";"NIMJJ_SP2031";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;45;"non";"indéterminé";"adulte";100;175;137,5;"100 - 300";"1";3
+"138";"NIMJJ_SP2034";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;11;"non";"indéterminé";"enfant";100;175;137,5;"100 - 300";"1";2
+"139";"NIMJJ_SP2037";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;1;0;0;0;0;0;0;0;0;0;62;"non";"indéterminé";"adulte";75;150;112,5;"100 - 300";"1";2
+"140";"NIMJJ_SP2039";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";50;100;75;"1 - 100";"1";0
+"141";"NIMJJ_SP2046";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"bébé";100;175;137,5;"100 - 300";"1";1
+"142";"NIMJJ_SP2057";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"bébé";50;100;75;"1 - 100";"1";1
+"143";"NIMJJ_SP2069";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;1;1;0;0;0;0;0;1;0;0;0;0;39;"non";"masculin";"adulte";50;100;75;"1 - 100";"1";3
+"144";"NIMJJ_Structure 38";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"féminin probable";"adulte";70;170;120;"100 - 300";"1";1
+"145";"NIMJJ_VP1258";"NIMJJ";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;284;128,5;"100 - 300";"1";0
+"146";"PAU_T1";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";0
+"147";"PAU_T101";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"148";"PAU_T102";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;"non";"indéterminé";"adulte";96;400;248;"100 - 300";"2";2
+"149";"PAU_T103";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";-27;300;136,5;"100 - 300";"1";1
+"150";"PAU_T105";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";193;235;214;"100 - 300";"1";1
+"151";"PAU_T11";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"152";"PAU_T110";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"153";"PAU_T111";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";50;400;225;"100 - 300";"2";0
+"154";"PAU_T113";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";1
+"155";"PAU_T116";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";0
+"156";"PAU_T117";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";2
+"157";"PAU_T119A";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"oui";"indéterminé";"adulte";50;400;225;"100 - 300";"2";1
+"158";"PAU_T12";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"enfant";41;68;54,5;"1 - 100";"1";1
+"159";"PAU_T121";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"indéterminé";"mixte (indéterminé)";-27;96;34,5;"1 - 100";"1";0
+"160";"PAU_T122";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;400;225;"100 - 300";"2";1
+"161";"PAU_T123";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"162";"PAU_T124";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";-27;96;34,5;"1 - 100";"1";1
+"163";"PAU_T125";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";96;200;148;"100 - 300";"1";1
+"164";"PAU_T127";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";2
+"165";"PAU_T128";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";193;235;214;"100 - 300";"1";1
+"166";"PAU_T13";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"indéterminé";-27;96;34,5;"1 - 100";"1";1
+"167";"PAU_T133";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";96;200;148;"100 - 300";"1";1
+"168";"PAU_T134";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";193;235;214;"100 - 300";"1";2
+"169";"PAU_T135";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";69;235;152;"100 - 300";"1";1
+"170";"PAU_T136";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";50;400;225;"100 - 300";"2";1
+"171";"PAU_T138";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";50;400;225;"100 - 300";"2";0
+"172";"PAU_T141";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";96;200;148;"100 - 300";"1";2
+"173";"PAU_T144";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";200;300;250;"100 - 300";"2";1
+"174";"PAU_T145";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";193;235;214;"100 - 300";"1";1
+"175";"PAU_T146";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";193;300;246,5;"100 - 300";"2";1
+"176";"PAU_T149";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;400;225;"100 - 300";"2";1
+"177";"PAU_T15";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"178";"PAU_T151";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"179";"PAU_T152";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";96;200;148;"100 - 300";"1";1
+"180";"PAU_T153";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";69;235;152;"100 - 300";"1";1
+"181";"PAU_T156";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"mixte (adulte + enfant)";69;192;130,5;"100 - 300";"1";1
+"182";"PAU_T159";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;"non";"indéterminé";"indéterminé";96;200;148;"100 - 300";"1";1
+"183";"PAU_T161";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"184";"PAU_T162";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";69;96;82,5;"1 - 100";"1";2
+"185";"PAU_T163";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"mixte";"mixte (adulte + enfant)";96;200;148;"100 - 300";"1";1
+"186";"PAU_T164";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"187";"PAU_T165";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";1
+"188";"PAU_T167";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";-27;200;86,5;"1 - 100";"1";1
+"189";"PAU_T168";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";193;300;246,5;"100 - 300";"2";1
+"190";"PAU_T171";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"191";"PAU_T19B";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";1
+"192";"PAU_T2";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;400;225;"100 - 300";"2";1
+"193";"PAU_T24";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"bébé";69;96;82,5;"1 - 100";"1";0
+"194";"PAU_T26B";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"195";"PAU_T26E";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";1
+"196";"PAU_T29";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";69;192;130,5;"100 - 300";"1";1
+"197";"PAU_T30";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"198";"PAU_T31";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";69;192;130,5;"100 - 300";"1";0
+"199";"PAU_T32";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"mixte (adulte + enfant)";69;96;82,5;"1 - 100";"1";1
+"200";"PAU_T36";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"201";"PAU_T37";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"202";"PAU_T38";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"203";"PAU_T39";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"204";"PAU_T4";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;"oui";"indéterminé";"mixte (adulte + enfant)";69;192;130,5;"100 - 300";"1";1
+"205";"PAU_T41";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";200;400;300;"100 - 300";"2";0
+"206";"PAU_T43";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-27;200;86,5;"1 - 100";"1";0
+"207";"PAU_T44";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";193;300;246,5;"100 - 300";"2";1
+"208";"PAU_T47";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"209";"PAU_T48";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"210";"PAU_T49";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"211";"PAU_T5";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;400;225;"100 - 300";"2";1
+"212";"PAU_T50";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";69;96;82,5;"1 - 100";"1";1
+"213";"PAU_T54";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"214";"PAU_T55";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";41;68;54,5;"1 - 100";"1";0
+"215";"PAU_T56";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";0
+"216";"PAU_T58";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";69;300;184,5;"100 - 300";"1";1
+"217";"PAU_T62";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";-27;200;86,5;"1 - 100";"1";0
+"218";"PAU_T63";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;"non";"indéterminé";"enfant";-27;200;86,5;"1 - 100";"1";0
+"219";"PAU_T64";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;79;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"220";"PAU_T66";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";69;235;152;"100 - 300";"1";1
+"221";"PAU_T67";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-27;300;136,5;"100 - 300";"1";0
+"222";"PAU_T68";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"223";"PAU_T70A";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"224";"PAU_T70B";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"225";"PAU_T71A";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"226";"PAU_T71B";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"227";"PAU_T71C";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"228";"PAU_T71D";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"229";"PAU_T72";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"230";"PAU_T75";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";96;200;148;"100 - 300";"1";0
+"231";"PAU_T77";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";1
+"232";"PAU_T78";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";-27;235;104;"100 - 300";"1";1
+"233";"PAU_T8";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"oui";"indéterminé";"adulte";96;200;148;"100 - 300";"1";1
+"234";"PAU_T80";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"235";"PAU_T81";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";69;192;130,5;"100 - 300";"1";0
+"236";"PAU_T84";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";1
+"237";"PAU_T85";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"238";"PAU_T87";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";96;200;148;"100 - 300";"1";1
+"239";"PAU_T89";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";0
+"240";"PAU_T91A";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";96;200;148;"100 - 300";"1";0
+"241";"PAU_T92";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";193;235;214;"100 - 300";"1";1
+"242";"PAU_T93";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";69;192;130,5;"100 - 300";"1";0
+"243";"PAU_T95";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"244";"PAU_T96";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";96;200;148;"100 - 300";"1";0
+"245";"PAU_T98";"PAU";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"246";"RICH_INC 1";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";130;199;164,5;"100 - 300";"1";0
+"247";"RICH_INC 10";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";150;250;200;"100 - 300";"1";1
+"248";"RICH_INC 13";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";130;199;164,5;"100 - 300";"1";0
+"249";"RICH_INC 16";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"oui";"indéterminé";"adulte";50;130;90;"1 - 100";"1";0
+"250";"RICH_INC 17";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;1;0;0;0;0;0;1;0;1;1;197;"oui";"féminin";"adulte";50;130;90;"1 - 100";"1";4
+"251";"RICH_SP 2";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";270;800;535;NA;"2";0
+"252";"RICH_SP 20";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";270;800;535;NA;"2";0
+"253";"RICH_INC 14";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;"non";"indéterminé";"adulte";50;130;90;"1 - 100";"1";0
+"254";"RICH_INC 7";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;21;"non";"indéterminé";"adulte";150;250;200;"100 - 300";"1";1
+"255";"RICH_FS 5107";"RICH";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"féminin";"adulte";50;130;90;"1 - 100";"1";0
+"256";"SPTC_fosse B";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"257";"SPTC_tombe 1";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;1;0;0;0;0;7;"non";"féminin";"adulte";70;150;110;"100 - 300";"1";2
+"258";"SPTC_tombe 100";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";15;100;57,5;"1 - 100";"1";0
+"259";"SPTC_tombe 102";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";60;100;80;"1 - 100";"1";1
+"260";"SPTC_tombe 104";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;1;0;1;0;0;0;0;8;"non";"masculin";"adulte";70;150;110;"100 - 300";"1";2
+"261";"SPTC_tombe 105";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;0;0;0;0;0;21;"non";"indéterminé";"indéterminé";140;200;170;"100 - 300";"1";2
+"262";"SPTC_tombe 107";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;9;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";2
+"263";"SPTC_tombe 108";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"indéterminé";"mixte (adulte + enfant)";70;150;110;"100 - 300";"1";1
+"264";"SPTC_tombe 11";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";15;100;57,5;"1 - 100";"1";1
+"265";"SPTC_tombe 114";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;17;"non";"masculin";"adulte";70;150;110;"100 - 300";"1";1
+"266";"SPTC_tombe 116";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";70;200;135;"100 - 300";"1";0
+"267";"SPTC_tombe 117";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;6;"non";"masculin";"adulte";70;200;135;"100 - 300";"1";1
+"268";"SPTC_tombe 121";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";1;199;100;"100 - 300";"1";0
+"269";"SPTC_tombe 123";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;1;17;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";2
+"270";"SPTC_tombe 125";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;1;25;"non";"féminin";"adulte";70;150;110;"100 - 300";"1";3
+"271";"SPTC_tombe 127";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;1;0;0;0;12;"oui";"mixte";"mixte (indéterminé)";60;100;80;"1 - 100";"1";3
+"272";"SPTC_tombe 13";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";0
+"273";"SPTC_tombe 132";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";70;200;135;"100 - 300";"1";0
+"274";"SPTC_tombe 133";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;17;"non";"féminin";"adulte";60;100;80;"1 - 100";"1";2
+"275";"SPTC_tombe 135 I, II, III";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";70;200;135;"100 - 300";"1";0
+"276";"SPTC_tombe 136";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;1;0;0;0;16;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";3
+"277";"SPTC_tombe 136bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;36;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"278";"SPTC_tombe 137";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;24;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";2
+"279";"SPTC_tombe 138";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";140;200;170;"100 - 300";"1";1
+"280";"SPTC_tombe 139";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";70;200;135;"100 - 300";"1";1
+"281";"SPTC_tombe 14";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;17;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";0
+"282";"SPTC_tombe 140";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";2
+"283";"SPTC_tombe 141";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"284";"SPTC_tombe 145";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;26;"non";"indéterminé";"enfant";60;100;80;"1 - 100";"1";1
+"285";"SPTC_tombe 146";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;1;0;0;0;1;19;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";4
+"286";"SPTC_tombe 15";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;1;0;0;0;0;16;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";3
+"287";"SPTC_tombe 150";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;55;"non";"indéterminé";"indéterminé";140;200;170;"100 - 300";"1";1
+"288";"SPTC_tombe 151";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;10;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"289";"SPTC_tombe 155";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"290";"SPTC_tombe 159";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";140;200;170;"100 - 300";"1";0
+"291";"SPTC_tombe 16";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;6;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"292";"SPTC_tombe 163";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";100;200;150;"100 - 300";"1";1
+"293";"SPTC_tombe 164";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;1;0;1;0;0;0;0;32;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";2
+"294";"SPTC_tombe 165";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;0;0;0;0;0;10;"non";"indéterminé";"indéterminé";100;200;150;"100 - 300";"1";2
+"295";"SPTC_tombe 166";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;12;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";1
+"296";"SPTC_tombe 17";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;8;"oui";"indéterminé";"mixte (adulte + enfant)";60;100;80;"1 - 100";"1";3
+"297";"SPTC_tombe 170";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";140;200;170;"100 - 300";"1";0
+"298";"SPTC_tombe 173";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"299";"SPTC_tombe 174";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";1;199;100;"100 - 300";"1";1
+"300";"SPTC_tombe 175";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";70;200;135;"100 - 300";"1";1
+"301";"SPTC_tombe 176";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;21;"oui";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";3
+"302";"SPTC_tombe 177";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"303";"SPTC_tombe 180";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"masculin";"adulte";70;150;110;"100 - 300";"1";1
+"304";"SPTC_tombe 182";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";140;200;170;"100 - 300";"1";0
+"305";"SPTC_tombe 184";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;52;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";0
+"306";"SPTC_tombe 186";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";0
+"307";"SPTC_tombe 19";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;1;0;14;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";2
+"308";"SPTC_tombe 193";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;19;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"309";"SPTC_tombe 194";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"310";"SPTC_tombe 195";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";0
+"311";"SPTC_tombe 197";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;1;0;0;0;0;12;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";2
+"312";"SPTC_tombe 20";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";0
+"313";"SPTC_tombe 207";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;33;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";1
+"314";"SPTC_tombe 209";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;85;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";3
+"315";"SPTC_tombe 21";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;1;0;5;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";2
+"316";"SPTC_tombe 210";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;200;135;"100 - 300";"1";0
+"317";"SPTC_tombe 211";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;15;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"318";"SPTC_tombe 213";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"féminin";"adulte";100;150;125;"100 - 300";"1";1
+"319";"SPTC_tombe 215";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;17;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";3
+"320";"SPTC_tombe 216";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"321";"SPTC_tombe 218";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";1
+"322";"SPTC_tombe 22";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;11;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"323";"SPTC_tombe 228";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";2
+"324";"SPTC_tombe 231";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";0
+"325";"SPTC_tombe 240";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"326";"SPTC_tombe 243";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;1;0;0;0;18;"non";"indéterminé";"indéterminé";100;200;150;"100 - 300";"1";2
+"327";"SPTC_tombe 244";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;20;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"328";"SPTC_tombe 245";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";140;200;170;"100 - 300";"1";1
+"329";"SPTC_tombe 246";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;8;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"330";"SPTC_tombe 247";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;12;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"331";"SPTC_tombe 25";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";0
+"332";"SPTC_tombe 252";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;"non";"indéterminé";"indéterminé";15;100;57,5;"1 - 100";"1";0
+"333";"SPTC_tombe 257";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";140;200;170;"100 - 300";"1";1
+"334";"SPTC_tombe 258";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;1;0;0;0;1;0;0;0;1;26;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";4
+"335";"SPTC_tombe 259";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";2
+"336";"SPTC_tombe 260";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;21;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"337";"SPTC_tombe 262";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"338";"SPTC_tombe 268";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;30;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"339";"SPTC_tombe 269";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;1;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"340";"SPTC_tombe 27";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;25;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";1
+"341";"SPTC_tombe 270";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;17;"non";"indéterminé";"adulte";70;150;110;"100 - 300";"1";1
+"342";"SPTC_tombe 272";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";100;150;125;"100 - 300";"1";1
+"343";"SPTC_tombe 275";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;146;"non";"masculin";"adulte";70;150;110;"100 - 300";"1";1
+"344";"SPTC_tombe 276";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;32;"non";"indéterminé";"indéterminé";70;200;135;"100 - 300";"1";1
+"345";"SPTC_tombe 277";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;29;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"346";"SPTC_tombe 277bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;20;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"347";"SPTC_tombe 278";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;11;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";1
+"348";"SPTC_tombe 280";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;1;39;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";3
+"349";"SPTC_tombe 281";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"350";"SPTC_tombe 283";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;200;135;"100 - 300";"1";1
+"351";"SPTC_tombe 285";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;9;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";2
+"352";"SPTC_tombe 286";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;22;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";0
+"353";"SPTC_tombe 29";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";15;100;57,5;"1 - 100";"1";1
+"354";"SPTC_tombe 3";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";70;150;110;"100 - 300";"1";1
+"355";"SPTC_tombe 31";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;10;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"356";"SPTC_tombe 32";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;30;"oui";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"357";"SPTC_tombe 35";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"enfant";15;100;57,5;"1 - 100";"1";0
+"358";"SPTC_tombe 39";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";1
+"359";"SPTC_tombe 39bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";70;150;110;"100 - 300";"1";0
+"360";"SPTC_tombe 4";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;4;"non";"indéterminé";"indéterminé";15;100;57,5;"1 - 100";"1";1
+"361";"SPTC_tombe 40";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;23;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";2
+"362";"SPTC_tombe 42";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;1;0;1;0;0;0;0;17;"non";"indéterminé";"adulte";15;100;57,5;"1 - 100";"1";2
+"363";"SPTC_tombe 43";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;1;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"364";"SPTC_tombe 44";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";2
+"365";"SPTC_tombe 45";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;1;23;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";3
+"366";"SPTC_tombe 46bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"adulte";70;200;135;"100 - 300";"1";1
+"367";"SPTC_tombe 47";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"indéterminé";"adulte";15;100;57,5;"1 - 100";"1";1
+"368";"SPTC_tombe 51";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";1
+"369";"SPTC_tombe 53";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;"non";"indéterminé";"enfant";70;200;135;"100 - 300";"1";1
+"370";"SPTC_tombe 53bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";0
+"371";"SPTC_tombe 55";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";70;150;110;"100 - 300";"1";1
+"372";"SPTC_tombe 56";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";70;150;110;"100 - 300";"1";1
+"373";"SPTC_tombe 56bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;"non";"indéterminé";"indéterminé";70;200;135;"100 - 300";"1";1
+"374";"SPTC_tombe 58 I";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;112;"non";"masculin";"adulte";140;200;170;"100 - 300";"1";0
+"375";"SPTC_tombe 59";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"376";"SPTC_tombe 61";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";1
+"377";"SPTC_tombe 62";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"378";"SPTC_tombe 63bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";100;150;125;"100 - 300";"1";1
+"379";"SPTC_tombe 64";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";70;150;110;"100 - 300";"1";1
+"380";"SPTC_tombe 65";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";70;200;135;"100 - 300";"1";1
+"381";"SPTC_tombe 66";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";1
+"382";"SPTC_tombe 68";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;21;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";1
+"383";"SPTC_tombe 69";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"masculin";"adulte";70;200;135;"100 - 300";"1";1
+"384";"SPTC_tombe 7";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;1;1;0;0;0;39;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";2
+"385";"SPTC_tombe 70";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";0
+"386";"SPTC_tombe 75";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";70;200;135;"100 - 300";"1";0
+"387";"SPTC_tombe 76";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;8;"non";"indéterminé";"adulte";60;100;80;"1 - 100";"1";2
+"388";"SPTC_tombe 77";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";15;100;57,5;"1 - 100";"1";0
+"389";"SPTC_tombe 78";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";70;200;135;"100 - 300";"1";1
+"390";"SPTC_tombe 79";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;3;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";2
+"391";"SPTC_tombe 81";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"masculin";"adulte";60;100;80;"1 - 100";"1";1
+"392";"SPTC_tombe 82";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"enfant";60;100;80;"1 - 100";"1";1
+"393";"SPTC_tombe 84 bis";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";0
+"394";"SPTC_tombe 85";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";15;100;57,5;"1 - 100";"1";0
+"395";"SPTC_tombe 88";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"masculin";"adulte";15;70;42,5;"1 - 100";"1";1
+"396";"SPTC_tombe 9";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";15;70;42,5;"1 - 100";"1";1
+"397";"SPTC_tombe 90 I";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"masculin";"adulte";140;200;170;"100 - 300";"1";0
+"398";"SPTC_tombe 90 II";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"féminin";"adulte";140;200;170;"100 - 300";"1";0
+"399";"SPTC_tombe 93";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;1;1;0;0;0;0;0;0;1;0;0;0;0;5;"non";"indéterminé";"adulte";140;200;170;"100 - 300";"1";3
+"400";"SPTC_tombe 97";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"féminin";"adulte";100;200;150;"100 - 300";"1";1
+"401";"SPTC_tombe 98";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;7;"non";"indéterminé";"indéterminé";70;150;110;"100 - 300";"1";2
+"402";"SPTC_tombe 99";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";15;70;42,5;"1 - 100";"1";1
+"403";"SPTC_tombe C3";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";15;100;57,5;"1 - 100";"1";0
+"404";"SPTC_tombe C5";"SPTC";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"indéterminé";60;100;80;"1 - 100";"1";2
+"405";"STL_sans US";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"406";"STL_T102";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";96;400;248;"100 - 300";"2";0
+"407";"STL_T103";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-27;300;136,5;"100 - 300";"1";0
+"408";"STL_T104";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";1
+"409";"STL_T105";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";193;235;214;"100 - 300";"1";0
+"410";"STL_T107";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"411";"STL_T108";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"412";"STL_T109";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"413";"STL_T109/110";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"414";"STL_T111A";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"415";"STL_T111B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"416";"STL_T112";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";96;235;165,5;"100 - 300";"1";0
+"417";"STL_T113";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"418";"STL_T114";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"419";"STL_T115";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"420";"STL_T116";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"421";"STL_T11A";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"422";"STL_T11B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"423";"STL_T13";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";69;96;82,5;"1 - 100";"1";1
+"424";"STL_T130";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";0
+"425";"STL_T131";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"enfant";69;96;82,5;"1 - 100";"1";1
+"426";"STL_T136";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"427";"STL_T137";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"indéterminé";-27;70;21,5;"1 - 100";"1";0
+"428";"STL_T138";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"429";"STL_T140A";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"430";"STL_T140B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";-50;400;175;"100 - 300";"2";0
+"431";"STL_T141";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"oui";"indéterminé";"mixte (adulte + enfant)";-50;400;175;"100 - 300";"2";0
+"432";"STL_T143";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"433";"STL_T144";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";200;300;250;"100 - 300";"2";0
+"434";"STL_T145";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"435";"STL_T148";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"436";"STL_T149";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"437";"STL_T15";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"438";"STL_T152";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"439";"STL_T153";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;43;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"440";"STL_T153B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"441";"STL_T154A";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"442";"STL_T154B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;18;"oui";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"443";"STL_T155";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;1;45;"non";"féminin";"adulte";14;68;41;"1 - 100";"1";1
+"444";"STL_T157";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"445";"STL_T158B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;1;0;0;0;0;0;0;0;0;0;11;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";2
+"446";"STL_T16";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"447";"STL_T160";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;"non";"indéterminé";"indéterminé";-27;14;-6,5;"-75 - 1";"1";1
+"448";"STL_T161B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";-27;200;86,5;"1 - 100";"1";0
+"449";"STL_T162";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"450";"STL_T165";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-50;-25;-37,5;"-75 - 1";"1";0
+"451";"STL_T166";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"452";"STL_T167";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"453";"STL_T17";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"454";"STL_T173";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";14;68;41;"1 - 100";"1";0
+"455";"STL_T174";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;37;"non";"indéterminé";"enfant";-27;96;34,5;"1 - 100";"1";1
+"456";"STL_T175";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";0
+"457";"STL_T176/177";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"indéterminé";-27;70;21,5;"1 - 100";"1";0
+"458";"STL_T178";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"459";"STL_T179A";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"460";"STL_T179B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"461";"STL_T181";"STL";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;11;"non";"indéterminé";"enfant";-50;400;175;"100 - 300";"2";1
+"462";"STL_T182";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"463";"STL_T183";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"464";"STL_T185";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"mixte (indéterminé)";41;68;54,5;"1 - 100";"1";0
+"465";"STL_T186";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;1;0;2;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";2
+"466";"STL_T188";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";1
+"467";"STL_T19";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"468";"STL_T190";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"469";"STL_T192";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"470";"STL_T195";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";1
+"471";"STL_T198";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"472";"STL_T199";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";1
+"473";"STL_T20";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";1
+"474";"STL_T202";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";0
+"475";"STL_T203";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;300;136,5;"100 - 300";"1";0
+"476";"STL_T204";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;1;0;0;0;16;"non";"indéterminé";"enfant";-27;37;5;"1 - 100";"1";2
+"477";"STL_T205";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;1;9;"non";"indéterminé";"adulte";14;37;25,5;"1 - 100";"1";2
+"478";"STL_T206";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;14;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";1
+"479";"STL_T207";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-50;400;175;"100 - 300";"2";0
+"480";"STL_T208";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"enfant";-27;37;5;"1 - 100";"1";1
+"481";"STL_T209";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"adulte";14;37;25,5;"1 - 100";"1";1
+"482";"STL_T210";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";14;37;25,5;"1 - 100";"1";0
+"483";"STL_T211";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;25;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"484";"STL_T213";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"485";"STL_T214";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;88;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"486";"STL_T215";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;1;0;67;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";2
+"487";"STL_T216";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"indéterminé";-27;14;-6,5;"-75 - 1";"1";1
+"488";"STL_T217";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"489";"STL_T218";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;17;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";1
+"490";"STL_T219";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;4;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"491";"STL_T22";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"492";"STL_T220";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;55;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"493";"STL_T221";"STL";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";1
+"494";"STL_T222";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";1
+"495";"STL_T228";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"496";"STL_T229";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;1;0;9;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";2
+"497";"STL_T230";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;12;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"498";"STL_T231";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"499";"STL_T232";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;3;"non";"indéterminé";"bébé";-50;400;175;"100 - 300";"2";1
+"500";"STL_T233";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"501";"STL_T237";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-27;96;34,5;"1 - 100";"1";0
+"502";"STL_T238";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";1
+"503";"STL_T241";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"504";"STL_T243";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;1;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"505";"STL_T245";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;11;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";1
+"506";"STL_T246";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"507";"STL_T247";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"adulte";14;37;25,5;"1 - 100";"1";0
+"508";"STL_T248";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";14;68;41;"1 - 100";"1";0
+"509";"STL_T250";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;47;"non";"indéterminé";"adulte";14;37;25,5;"1 - 100";"1";1
+"510";"STL_T251";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;11;"oui";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"511";"STL_T253";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"512";"STL_T254";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"513";"STL_T255";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";0
+"514";"STL_T255B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"515";"STL_T256";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;1;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"bébé";-27;96;34,5;"1 - 100";"1";1
+"516";"STL_T257";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"bébé";300;400;350;NA;"2";0
+"517";"STL_T26";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";0
+"518";"STL_T260";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;1;0;0;0;16;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";1
+"519";"STL_T262";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;"oui";"indéterminé";"mixte (adulte + enfant)";14;37;25,5;"1 - 100";"1";0
+"520";"STL_T262273";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";14;37;25,5;"1 - 100";"1";0
+"521";"STL_T263";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";1
+"522";"STL_T266";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"bébé";-27;200;86,5;"1 - 100";"1";1
+"523";"STL_T267";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"524";"STL_T268";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;9;"oui";"indéterminé";"mixte (adulte + enfant)";14;37;25,5;"1 - 100";"1";1
+"525";"STL_T269";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"526";"STL_T270";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"527";"STL_T271";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"bébé";-50;400;175;"100 - 300";"2";0
+"528";"STL_T274";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;12;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"529";"STL_T275";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"530";"STL_T277";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"enfant";-27;37;5;"1 - 100";"1";0
+"531";"STL_T27B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"532";"STL_T281";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";1
+"533";"STL_T282";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;6;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"534";"STL_T283";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"oui";"indéterminé";"mixte (indéterminé)";-27;96;34,5;"1 - 100";"1";0
+"535";"STL_T285";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;21;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";1
+"536";"STL_t286";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";-50;400;175;"100 - 300";"2";0
+"537";"STL_T292";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"538";"STL_T293";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"539";"STL_T294";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;6;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";1
+"540";"STL_T295";"STL";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"541";"STL_T296";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"542";"STL_T298";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"543";"STL_T299";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;1;0;0;0;0;3;"non";"masculin";"adulte";69;96;82,5;"1 - 100";"1";2
+"544";"STL_T305";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-27;70;21,5;"1 - 100";"1";0
+"545";"STL_T307";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";1
+"546";"STL_T308";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";41;68;54,5;"1 - 100";"1";1
+"547";"STL_T309";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";1
+"548";"STL_T310";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"549";"STL_T314";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;"non";"indéterminé";"enfant";-27;14;-6,5;"-75 - 1";"1";1
+"550";"STL_T315";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"enfant";-27;37;5;"1 - 100";"1";0
+"551";"STL_T316";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;"oui";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"552";"STL_T4";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";69;192;130,5;"100 - 300";"1";0
+"553";"STL_T42";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";-27;96;34,5;"1 - 100";"1";0
+"554";"STL_T43";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";41;68;54,5;"1 - 100";"1";0
+"555";"STL_T46";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";1
+"556";"STL_T49";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;62;"oui";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"557";"STL_T5";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"558";"STL_T50";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"indéterminé";69;96;82,5;"1 - 100";"1";0
+"559";"STL_T52";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-50;400;175;"100 - 300";"2";0
+"560";"STL_T56";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"561";"STL_T57";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"562";"STL_T58";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;200;86,5;"1 - 100";"1";0
+"563";"STL_T6";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;19;"oui";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";1
+"564";"STL_T60";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;47;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";1
+"565";"STL_T61";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";0
+"566";"STL_T62";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;24;"non";"indéterminé";"adulte";69;96;82,5;"1 - 100";"1";1
+"567";"STL_T63";"STL";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"568";"STL_T65";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"569";"STL_T66";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"570";"STL_T67";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";69;192;130,5;"100 - 300";"1";0
+"571";"STL_T6B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";0
+"572";"STL_T71";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"573";"STL_T72B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";0
+"574";"STL_T73";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"575";"STL_T74";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"576";"STL_T75";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;37;5;"1 - 100";"1";1
+"577";"STL_T76";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"578";"STL_T77";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";0
+"579";"STL_T78";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";96;200;148;"100 - 300";"1";0
+"580";"STL_T8";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";1
+"581";"STL_T80";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;70;21,5;"1 - 100";"1";0
+"582";"STL_T81";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"583";"STL_T82";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"584";"STL_T83";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;"non";"indéterminé";"indéterminé";-27;70;21,5;"1 - 100";"1";0
+"585";"STL_T84";"STL";"Gaule Narbonnaise";"Gaule du sud";0;1;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"indéterminé";-27;37;5;"1 - 100";"1";1
+"586";"STL_T85";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"enfant";69;235;152;"100 - 300";"1";0
+"587";"STL_T86";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";-27;37;5;"1 - 100";"1";0
+"588";"STL_T87";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;9;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"589";"STL_T88";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";-50;400;175;"100 - 300";"2";0
+"590";"STL_T89";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"indéterminé";"enfant";14;68;41;"1 - 100";"1";0
+"591";"STL_T92";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;1;0;7;"non";"indéterminé";"adulte";-27;14;-6,5;"-75 - 1";"1";1
+"592";"STL_T94B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;0;0;0;0;0;0;0;0;16;"non";"indéterminé";"adulte";14;68;41;"1 - 100";"1";1
+"593";"STL_T95";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";-27;96;34,5;"1 - 100";"1";0
+"594";"STL_T97B";"STL";"Gaule Narbonnaise";"Gaule du sud";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";-27;70;21,5;"1 - 100";"1";0
+"595";"PIG";"PIG";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;0;1;0;1;1;0;0;0;0;85;"non";"indéterminé";"indéterminé";1;100;50,5;"1 - 100";"1";4
+"596";"MLM";"MLM";"Gaule Narbonnaise";"Gaule du sud";0;0;1;0;0;1;1;0;1;0;1;0;0;0;15;"non";"indéterminé";"indéterminé";1;100;50,5;"1 - 100";"1";5

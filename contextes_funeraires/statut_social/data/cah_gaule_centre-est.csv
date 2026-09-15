@@ -1,0 +1,199 @@
+ID"";"tombe";"site";"province";"zone_geo";"amphore";"monnaie";"lampe";"armement";"parure";"strigile";"instrument.de.toilette";"miroir";"vaisselle.métallique";"vaisselle.en.verre";"matériaux.précieux";"char";"lit.funéraire";"instrument.écriture";"quantité.objet";"tombe_multiple";"sexe.defunt";"classe.age.defunt";"date_debut";"date_fin";"intervalle_personnalise";"groupe_cah";"diversite"
+"1";"AVAM_St 101";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";50;100;"1-100";"1";0
+"2";"AVAM_St 102";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"indéterminé";"adulte";31;70;"1-100";"1";1
+"3";"AVAM_St 104";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";50;100;"1-100";"1";0
+"4";"AVAM_St 107";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";31;70;"1-100";"1";0
+"5";"AVAM_St 118";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";31;70;"1-100";"1";0
+"6";"AVAM_St 119";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;13;"non";"indéterminé";"adulte";50;75;"1-100";"1";0
+"7";"AVAM_St 123";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";50;75;"1-100";"1";0
+"8";"AVAM_St 124";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;"oui";"indéterminé";"mixte (adulte + enfant)";50;75;"1-100";"1";1
+"9";"AVAM_St 128";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";31;70;"1-100";"1";1
+"10";"AVAM_St 134";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;75;"1-100";"1";0
+"11";"AVAM_St 139";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;100;"1-100";"1";0
+"12";"AVAM_St 140";"AVAM";"Germanie";"Gaule du centre-est";1;1;0;0;1;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";30;70;"1-100";"1";3
+"13";"AVAM_St 145/113";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;"non";"indéterminé";"adulte";31;70;"1-100";"1";1
+"14";"AVAM_St 148";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"féminin";"adulte";50;75;"1-100";"1";0
+"15";"AVAM_St 159";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";40;80;"1-100";"1";0
+"16";"AVAM_St 163";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";40;70;"1-100";"1";0
+"17";"AVAM_St 172";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";50;75;"1-100";"1";0
+"18";"AVAM_St 179";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;"non";"masculin";"adulte";1;50;"1-100";"1";0
+"19";"AVAM_St 184";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;1;0;0;0;0;0;0;0;0;0;78;"oui";"masculin +  féminin";"adulte";40;70;"1-100";"2";1
+"20";"AVAM_St 34";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;45;"non";"masculin";"adulte";30;80;"1-100";"2";0
+"21";"AVAM_St 35";"AVAM";"Germanie";"Gaule du centre-est";1;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"masculin";"adulte";30;80;"1-100";"1";1
+"22";"AVAM_St 36";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";40;70;"1-100";"1";0
+"23";"AVAM_St 38";"AVAM";"Germanie";"Gaule du centre-est";1;0;0;0;0;0;0;0;0;0;0;0;0;0;9;"non";"indéterminé";"adulte";50;75;"1-100";"1";1
+"24";"AVAM_St 41";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;"non";"indéterminé";"adulte";40;80;"1-100";"2";0
+"25";"AVAM_St 42";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;47;"non";"indéterminé";"adulte";50;75;"1-100";"2";0
+"26";"AVAM_St 43";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;1;0;0;0;0;1;0;0;0;0;140;"non";"indéterminé";"adulte";50;75;"1-100";"3";3
+"27";"AVAM_St 45";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;26;"non";"indéterminé";"adulte";50;75;"1-100";"2";0
+"28";"AVAM_St 49";"AVAM";"Germanie";"Gaule du centre-est";1;0;0;0;0;0;0;0;0;0;0;0;0;1;13;"non";"masculin";"adulte";50;75;"1-100";"1";2
+"29";"AVAM_St 50";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;75;"1-100";"1";0
+"30";"AVAM_St 55";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;38;"non";"masculin";"adulte";30;80;"1-100";"2";0
+"31";"AVAM_St 56";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";1;100;"1-100";"1";0
+"32";"AVAM_St 59";"AVAM";"Germanie";"Gaule du centre-est";1;0;0;0;0;0;0;0;0;0;0;0;0;0;42;"non";"masculin";"adulte";70;80;"1-100";"2";1
+"33";"AVAM_St 61";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;74;"non";"indéterminé";"enfant";50;75;"1-100";"2";0
+"34";"AVAM_St 63/69";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"indéterminé";"mixte (adulte + enfant)";40;80;"1-100";"1";1
+"35";"AVAM_St 65";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";40;70;"1-100";"1";0
+"36";"AVAM_St 72";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;68;"non";"masculin";"adulte";40;80;"1-100";"2";0
+"37";"AVAM_St 74";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;90;"oui";"mixte";"mixte (adulte + enfant)";50;75;"1-100";"2";1
+"38";"AVAM_St 78";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"enfant";40;70;"1-100";"1";0
+"39";"AVAM_St 80";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;75;"1-100";"1";2
+"40";"AVAM_St 81";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;42;"non";"masculin";"adulte";50;75;"1-100";"2";1
+"41";"AVAM_St 83/90";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;136;"oui";"mixte";"mixte (adulte + enfant)";60;80;"1-100";"3";2
+"42";"AVAM_St 84";"AVAM";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"masculin";"adulte";50;75;"1-100";"1";1
+"43";"AVAM_St 91";"AVAM";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;33;"non";"indéterminé";"adulte";31;70;"1-100";"2";1
+"44";"AVEC_Structure 1/48";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"enfant";150;230;"100-300";"4";1
+"45";"AVEC_Structure 106";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;8;"non";"indéterminé";"enfant";130;160;"100-300";"5";2
+"46";"AVEC_Structure 107";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;16;"non";"masculin";"adulte";50;130;"1-100";"6";2
+"47";"AVEC_Structure 109";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"48";"AVEC_Structure 110 (a ?)";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"49";"AVEC_Structure 110a";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"50";"AVEC_Structure 110a ou b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;"oui";"mixte";"mixte (adulte + enfant)";130;160;"100-300";"5";1
+"51";"AVEC_Structure 111";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin probable";"adulte";150;230;"100-300";"4";0
+"52";"AVEC_Structure 112";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"53";"AVEC_Structure 116";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;1;0;0;0;13;"non";"indéterminé";"enfant";50;130;"1-100";"6";3
+"54";"AVEC_Structure 119";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"enfant";130;160;"100-300";"5";1
+"55";"AVEC_Structure 121";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;1;0;0;0;0;1;0;0;0;0;14;"oui";"féminin";"adulte";150;230;"100-300";"4";2
+"56";"AVEC_Structure 122";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"enfant";130;160;"100-300";"5";2
+"57";"AVEC_Structure 125";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"enfant";100;150;"100-300";"7";0
+"58";"AVEC_Structure 126";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;1;6;"non";"masculin";"adulte";50;130;"1-100";"6";1
+"59";"AVEC_Structure 127";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin probable";"adulte";130;160;"100-300";"5";0
+"60";"AVEC_Structure 128";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";100;150;"100-300";"7";0
+"61";"AVEC_Structure 13";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";50;130;"1-100";"6";0
+"62";"AVEC_Structure 131";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"63";"AVEC_Structure 132";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"64";"AVEC_Structure 133";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin";"adulte";130;160;"100-300";"5";1
+"65";"AVEC_Structure 135";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;6;"non";"féminin";"adulte";130;160;"100-300";"5";1
+"66";"AVEC_Structure 136";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"67";"AVEC_Structure 137b";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"68";"AVEC_Structure 138";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"69";"AVEC_Structure 140/141";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;1;0;0;0;0;6;"non";"masculin";"adulte";50;130;"1-100";"6";2
+"70";"AVEC_Structure 142";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;11;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"71";"AVEC_Structure 144";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"72";"AVEC_Structure 147";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"73";"AVEC_Structure 156b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";100;150;"100-300";"7";0
+"74";"AVEC_Structure 158";"AVEC";"Germanie";"Gaule du centre-est";0;1;1;0;0;0;0;0;0;1;0;0;0;0;9;"non";"masculin";"adulte";130;160;"100-300";"5";3
+"75";"AVEC_Structure 159";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin probable";"adulte";150;230;"100-300";"4";0
+"76";"AVEC_Structure 16/60/114";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";130;160;"100-300";"5";2
+"77";"AVEC_Structure 160";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"78";"AVEC_Structure 161";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;150;"100-300";"7";0
+"79";"AVEC_Structure 162";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;1;0;0;0;0;0;0;0;1;10;"non";"féminin";"adulte";130;160;"100-300";"5";3
+"80";"AVEC_Structure 164";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";150;230;"100-300";"4";0
+"81";"AVEC_Structure 165a ou b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";130;160;"100-300";"5";0
+"82";"AVEC_Structure 165b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin probable";"adulte";130;160;"100-300";"5";0
+"83";"AVEC_Structure 167";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"indéterminé";"enfant";150;230;"100-300";"4";1
+"84";"AVEC_Structure 17";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"féminin";"adulte";100;150;"100-300";"7";1
+"85";"AVEC_Structure 17 ?";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";100;150;"100-300";"7";1
+"86";"AVEC_Structure 174";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"indéterminé";"adulte";150;230;"100-300";"4";1
+"87";"AVEC_Structure 175a";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"féminin";"adulte";130;160;"100-300";"5";2
+"88";"AVEC_Structure 175a ou b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"oui";"mixte";"mixte (adulte + enfant)";130;160;"100-300";"5";0
+"89";"AVEC_Structure 175b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";130;160;"100-300";"5";0
+"90";"AVEC_Structure 177/178";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"91";"AVEC_Structure 179";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"masculin";"adulte";50;130;"1-100";"6";1
+"92";"AVEC_Structure 181";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";150;230;"100-300";"4";0
+"93";"AVEC_Structure 183";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin";"adulte";130;160;"100-300";"5";0
+"94";"AVEC_Structure 185";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;150;"100-300";"7";0
+"95";"AVEC_Structure 187";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;1;0;0;0;7;"non";"féminin probable";"adulte";150;230;"100-300";"4";1
+"96";"AVEC_Structure 19/148";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";150;230;"100-300";"4";1
+"97";"AVEC_Structure 191";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";120;250;"100-300";"4";1
+"98";"AVEC_Structure 192";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;10;"non";"indéterminé";"enfant";120;250;"100-300";"4";2
+"99";"AVEC_Structure 194";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;"non";"masculin probable";"adulte";150;230;"100-300";"4";2
+"100";"AVEC_Structure 195";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin probable";"adulte";150;230;"100-300";"4";1
+"101";"AVEC_Structure 196";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"féminin";"adulte";100;150;"100-300";"7";1
+"102";"AVEC_Structure 202";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";100;150;"100-300";"7";0
+"103";"AVEC_Structure 203";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"104";"AVEC_Structure 206";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"indéterminé";"mixte (adulte + enfant)";50;130;"1-100";"6";0
+"105";"AVEC_Structure 216/217";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin probable";"adulte";130;160;"100-300";"5";2
+"106";"AVEC_Structure 220";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;5;"non";"indéterminé";"adulte";130;160;"100-300";"5";2
+"107";"AVEC_Structure 223";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;"non";"masculin";"adulte";100;150;"100-300";"7";1
+"108";"AVEC_Structure 224";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;"non";"féminin";"adulte";130;160;"100-300";"5";1
+"109";"AVEC_Structure 227";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;1;0;0;0;0;1;0;0;0;0;4;"non";"féminin";"adulte";150;230;"100-300";"4";3
+"110";"AVEC_Structure 229";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"111";"AVEC_Structure 23";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;9;"non";"masculin probable";"adulte";100;150;"100-300";"7";1
+"112";"AVEC_Structure 230";"AVEC";"Germanie";"Gaule du centre-est";0;1;1;0;1;0;0;0;0;1;0;0;0;0;13;"non";"féminin";"adulte";150;230;"100-300";"4";4
+"113";"AVEC_Structure 236";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;18;"non";"féminin";"adulte";150;230;"100-300";"4";1
+"114";"AVEC_Structure 25";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";120;250;"100-300";"4";0
+"115";"AVEC_Structure 264";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"oui";"mixte";"adulte";100;200;"100-300";"8";0
+"116";"AVEC_Structure 277";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"féminin probable";"adulte";150;230;"100-300";"4";1
+"117";"AVEC_Structure 285";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin probable";"adulte";150;230;"100-300";"4";0
+"118";"AVEC_Structure 292";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin probable";"adulte";150;230;"100-300";"4";0
+"119";"AVEC_Structure 294";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin probable";"adulte";150;230;"100-300";"4";0
+"120";"AVEC_Structure 295";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin";"adulte";150;230;"100-300";"4";1
+"121";"AVEC_Structure 296";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;1;0;0;0;6;"non";"indéterminé";"enfant";150;230;"100-300";"4";1
+"122";"AVEC_Structure 299";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";160;250;"100-300";"4";0
+"123";"AVEC_Structure 301";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";130;160;"100-300";"5";0
+"124";"AVEC_Structure 302";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;"oui";"masculin probable";"adulte";140;250;"100-300";"4";1
+"125";"AVEC_Structure 310";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;1;3;"non";"féminin";"adulte";150;230;"100-300";"4";2
+"126";"AVEC_Structure 313";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"féminin";"adulte";100;200;"100-300";"8";1
+"127";"AVEC_Structure 314";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin probable";"adulte";130;160;"100-300";"5";0
+"128";"AVEC_Structure 315";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin probable";"adulte";150;230;"100-300";"4";0
+"129";"AVEC_Structure 316";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"masculin probable";"adulte";150;230;"100-300";"4";1
+"130";"AVEC_Structure 317";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin probable";"adulte";150;230;"100-300";"4";0
+"131";"AVEC_Structure 318";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"enfant";130;160;"100-300";"5";0
+"132";"AVEC_Structure 319";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"enfant";150;230;"100-300";"4";0
+"133";"AVEC_Structure 323";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"masculin probable";"adulte";100;200;"100-300";"8";1
+"134";"AVEC_Structure 327";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";0
+"135";"AVEC_Structure 328";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin probable";"adulte";100;150;"100-300";"7";1
+"136";"AVEC_Structure 334";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"137";"AVEC_Structure 335";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"138";"AVEC_Structure 336";"AVEC";"Germanie";"Gaule du centre-est";0;1;1;0;1;0;0;0;0;0;0;0;0;0;9;"non";"féminin probable";"adulte";150;230;"100-300";"4";3
+"139";"AVEC_Structure 339";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin";"adulte";150;230;"100-300";"4";1
+"140";"AVEC_Structure 340";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";130;160;"100-300";"5";0
+"141";"AVEC_Structure 342";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;1;0;1;0;0;0;0;7;"non";"féminin";"adulte";130;160;"100-300";"5";2
+"142";"AVEC_Structure 343";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";150;230;"100-300";"4";0
+"143";"AVEC_Structure 347";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";140;250;"100-300";"4";0
+"144";"AVEC_Structure 348";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";150;230;"100-300";"4";0
+"145";"AVEC_Structure 35/100";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin probable";"enfant";140;250;"100-300";"4";1
+"146";"AVEC_Structure 353";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;1;0;0;0;4;"non";"féminin";"adulte";120;250;"100-300";"4";2
+"147";"AVEC_Structure 355";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";130;200;"100-300";"8";0
+"148";"AVEC_Structure 358";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;"non";"féminin probable";"adulte";50;130;"1-100";"6";1
+"149";"AVEC_Structure 364";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"indéterminé";"adulte";50;130;"1-100";"6";1
+"150";"AVEC_Structure 365";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;"non";"masculin";"adulte";50;130;"1-100";"6";2
+"151";"AVEC_Structure 36c";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";50;130;"1-100";"6";1
+"152";"AVEC_Structure 370";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"enfant";50;130;"1-100";"6";0
+"153";"AVEC_Structure 375";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin probable";"adulte";50;130;"1-100";"6";0
+"154";"AVEC_Structure 379";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";50;130;"1-100";"6";1
+"155";"AVEC_Structure 41/137a";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;10;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"156";"AVEC_Structure 42/62";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin probable";"adulte";50;130;"1-100";"6";0
+"157";"AVEC_Structure 45";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin probable";"adulte";150;230;"100-300";"4";0
+"158";"AVEC_Structure 47";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;18;"non";"masculin";"adulte";100;150;"100-300";"7";2
+"159";"AVEC_Structure 50";"AVEC";"Germanie";"Gaule du centre-est";0;1;1;0;1;0;0;0;0;1;0;0;0;0;44;"non";"indéterminé";"enfant";150;230;"100-300";"4";4
+"160";"AVEC_Structure 51/52";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";200;250;"100-300";"4";0
+"161";"AVEC_Structure 53";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;150;"100-300";"7";0
+"162";"AVEC_Structure 54";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;14;"oui";"indéterminé";"mixte (adulte + enfant)";100;150;"100-300";"7";1
+"163";"AVEC_Structure 55";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;"non";"féminin";"adulte";150;230;"100-300";"4";0
+"164";"AVEC_Structure 59";"AVEC";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;3;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"165";"AVEC_Structure 61";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;1;0;0;0;0;0;1;0;0;0;4;"non";"féminin";"enfant";100;150;"100-300";"7";2
+"166";"AVEC_Structure 63";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"indéterminé";"bébé";100;150;"100-300";"7";1
+"167";"AVEC_Structure 64a";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;"oui";"masculin ? Et féminin ?";"adulte";100;150;"100-300";"7";0
+"168";"AVEC_Structure 64a ou b";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;18;"oui";"mixte";"mixte (adulte + enfant)";140;250;"100-300";"4";1
+"169";"AVEC_Structure 69";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"masculin";"adulte";100;200;"100-300";"8";0
+"170";"AVEC_Structure 70";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"indéterminé";"adulte";150;230;"100-300";"4";0
+"171";"AVEC_Structure 72";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"féminin probable";"adulte";150;230;"100-300";"4";0
+"172";"AVEC_Structure 78/152/308";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin";"adulte";130;160;"100-300";"5";1
+"173";"AVEC_Structure 79";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;"non";"indéterminé";"enfant";150;230;"100-300";"4";0
+"174";"AVEC_Structure 83";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"adulte";150;230;"100-300";"4";0
+"175";"AVEC_Structure 85/86";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin";"adulte";150;230;"100-300";"4";1
+"176";"AVEC_Structure 92";"AVEC";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"adulte";130;160;"100-300";"5";2
+"177";"AVEC_Structure 98";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;"non";"masculin probable";"adulte";140;250;"100-300";"4";1
+"178";"AVEC_Structure 99";"AVEC";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;"non";"masculin probable";"enfant";150;230;"100-300";"4";0
+"179";"AVP_tombe 0";"AVP";"Germanie";"Gaule du centre-est";0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;"non";"féminin probable";"adulte";100;120;"100-300";"7";1
+"180";"AVP_tombe 1";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"masculin probable";"adulte";80;120;"1-100";"7";1
+"181";"AVP_tombe 10";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;"non";"masculin probable";"adulte";100;150;"100-300";"7";0
+"182";"AVP_tombe 12";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;"non";"indéterminé";"adulte";70;192;"1-100";"8";1
+"183";"AVP_tombe 2";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;"non";"masculin probable";"adulte";80;120;"1-100";"7";0
+"184";"AVP_tombe 20";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;"non";"indéterminé";"adulte";98;138;"1-100";"7";1
+"185";"AVP_tombe 26";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;29;"non";"masculin";"adulte";96;192;"1-100";"8";1
+"186";"AVP_tombe 3";"AVP";"Germanie";"Gaule du centre-est";0;1;0;0;0;0;0;0;0;1;0;0;0;0;15;"non";"masculin";"adulte";100;120;"100-300";"7";2
+"187";"AVP_tombe 35";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;"non";"masculin";"adulte";81;117;"1-100";"7";0
+"188";"AVP_tombe 5";"AVP";"Germanie";"Gaule du centre-est";0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;"non";"indéterminé";"enfant";100;150;"100-300";"7";1
+"189";"FLR";"FLR";"Aquitaine";"Gaule du centre-est";1;1;0;1;1;0;1;0;1;0;1;0;0;0;20;"non";"indéterminé";"indéterminé";-25;10;"-75-1";"9";7
+"190";"CST";"CST";"Aquitaine";"Gaule du centre-est";1;0;0;1;0;0;1;0;1;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";-75;-25;"-75-1";"9";4
+"191";"DSA";"DSA";"Aquitaine";"Gaule du centre-est";0;0;0;1;1;0;0;0;1;0;0;0;0;0;11;"non";"indéterminé";"indéterminé";-50;-20;"-75-1";"9";3
+"192";"BBF";"BBF";"Aquitaine";"Gaule du centre-est";1;1;0;1;0;0;1;0;1;0;0;0;0;0;11;"non";"indéterminé";"adulte";-20;1;"-75-1";"9";5
+"193";"MVC";"MVC";"Aquitaine";"Gaule du centre-est";1;0;0;1;0;0;0;0;0;0;0;0;0;0;1;"non";"indéterminé";"indéterminé";1;25;"1-100";"9";2
+"194";"PGM";"PGM";"Aquitaine";"Gaule du centre-est";1;1;0;0;1;0;0;1;0;0;0;0;0;0;3;"non";"indéterminé";"indéterminé";-10;10;"-75-1";"9";4
+"195";"NPV";"NPV";"Aquitaine";"Gaule du centre-est";1;0;1;1;1;1;1;0;1;1;1;1;0;0;15;"non";"indéterminé";"indéterminé";40;50;"1-100";"1";10
+"196";"STN_tombe 1";"STN";"Gaule Belgique";"Gaule du centre-est";1;1;0;0;1;0;0;1;1;0;0;0;0;0;5;"non";"indéterminé";"indéterminé";1;300;"1-100";"10";5
+"197";"STN_tombe 2";"STN";"Gaule Belgique";"Gaule du centre-est";1;0;0;0;0;0;0;0;1;1;1;1;0;0;2;"non";"indéterminé";"indéterminé";1;300;"1-100";"10";5
+"198";"STN_tombe 3";"STN";"Gaule Belgique";"Gaule du centre-est";1;1;0;0;0;0;0;0;1;0;0;0;0;0;2;"non";"indéterminé";"indéterminé";1;300;"1-100";"10";3

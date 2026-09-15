@@ -1,0 +1,808 @@
+ID;tombe;site;province;zone_geo;amphore;monnaie;lampe;armement;parure;strigile;instrument.de.toilette;miroir;vaisselle.métallique;vaisselle.en.verre;matériaux.précieux;char;lit.funéraire;instrument.écriture;quantité.objet;tombe_multiple;sexe.defunt;classe.age.defunt;date_debut;date_fin;intervalle_personnalise;groupe_cah;x;y
+1;FEU_tombe 1;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-30;-15;-75-1;1;49.85;6.01667
+2;FEU_tombe 100;FEU;Germanie;Gaule du nord;0;0;0;1;0;0;0;1;0;0;0;0;0;0;16;non;indéterminé;enfant;-15;20;-75-1;2;49.85;6.01667
+3;FEU_tombe 101;FEU;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-30;20;-75-1;2;49.85;6.01667
+4;FEU_tombe 107;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;20;45;1-100;3;49.85;6.01667
+5;FEU_tombe 108;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;5;non;féminin;adulte;20;45;1-100;3;49.85;6.01667
+6;FEU_tombe 110;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;20;45;1-100;3;49.85;6.01667
+7;FEU_tombe 113;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;45;90;1-100;4;49.85;6.01667
+8;FEU_tombe 115;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;20;45;1-100;3;49.85;6.01667
+9;FEU_tombe 117;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;19;non;indéterminé;indéterminé;-15;20;-75-1;2;49.85;6.01667
+10;FEU_tombe 118;FEU;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;20;45;1-100;3;49.85;6.01667
+11;FEU_tombe 120;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-30;20;-75-1;2;49.85;6.01667
+12;FEU_tombe 122;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-30;-15;-75-1;1;49.85;6.01667
+13;FEU_tombe 128;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;45;90;1-100;4;49.85;6.01667
+14;FEU_tombe 130;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;20;45;1-100;3;49.85;6.01667
+15;FEU_tombe 134;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;mixte;adulte;-30;-15;-75-1;1;49.85;6.01667
+16;FEU_tombe 145;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;20;90;1-100;4;49.85;6.01667
+17;FEU_tombe 147;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;20;45;1-100;3;49.85;6.01667
+18;FEU_tombe 150;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;20;45;1-100;3;49.85;6.01667
+19;FEU_tombe 151;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;45;90;1-100;4;49.85;6.01667
+20;FEU_tombe 159;FEU;Germanie;Gaule du nord;0;1;0;0;1;0;0;1;0;0;0;0;0;0;4;non;indéterminé;adulte;20;45;1-100;3;49.85;6.01667
+21;FEU_tombe 163;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;20;-75-1;2;49.85;6.01667
+22;FEU_tombe 171;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-50;-15;-75-1;1;49.85;6.01667
+23;FEU_tombe 179;FEU;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-30;20;-75-1;2;49.85;6.01667
+24;FEU_tombe 18;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-30;-15;-75-1;1;49.85;6.01667
+25;FEU_tombe 180;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15;-75-1;1;49.85;6.01667
+26;FEU_tombe 182;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-50;-15;-75-1;1;49.85;6.01667
+27;FEU_tombe 183;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;féminin;adulte;-15;20;-75-1;2;49.85;6.01667
+28;FEU_tombe 193;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;20;90;1-100;4;49.85;6.01667
+29;FEU_tombe 194;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;20;45;1-100;3;49.85;6.01667
+30;FEU_tombe 197;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;non;indéterminé;indéterminé;20;45;1-100;3;49.85;6.01667
+31;FEU_tombe 198;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;8;non;masculin probable;adulte;20;45;1-100;3;49.85;6.01667
+32;FEU_tombe 32;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-50;-30;-75-1;1;49.85;6.01667
+33;FEU_tombe 33;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;oui;indéterminé;mixte (adulte + enfant);-50;-30;-75-1;1;49.85;6.01667
+34;FEU_tombe 4;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15;-75-1;1;49.85;6.01667
+35;FEU_tombe 40;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-50;-30;-75-1;1;49.85;6.01667
+36;FEU_tombe 41;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-15;20;-75-1;2;49.85;6.01667
+37;FEU_tombe 51;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-30;-15;-75-1;1;49.85;6.01667
+38;FEU_tombe 55;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20;-75-1;2;49.85;6.01667
+39;FEU_tombe 64;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80;non;indéterminé;adulte;-30;20;-75-1;2;49.85;6.01667
+40;FEU_tombe 65;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;1;0;0;0;0;0;0;5;non;féminin probable;adulte;-15;20;-75-1;2;49.85;6.01667
+41;FEU_tombe 68;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-15;20;-75-1;2;49.85;6.01667
+42;FEU_tombe 73;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-30;-15;-75-1;1;49.85;6.01667
+43;FEU_tombe 76;FEU;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;enfant;-15;20;-75-1;2;49.85;6.01667
+44;FEU_tombe 78;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;45;90;1-100;4;49.85;6.01667
+45;FEU_tombe 8;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20;-75-1;2;49.85;6.01667
+46;FEU_tombe 80;FEU;Germanie;Gaule du nord;0;0;0;1;1;0;0;1;1;0;1;0;0;0;42;oui;mixte;adulte;-15;20;-75-1;2;49.85;6.01667
+47;FEU_tombe 82;FEU;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;14;oui;mixte;mixte (adulte + enfant);-15;20;-75-1;2;49.85;6.01667
+48;FEU_tombe 85;FEU;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;45;90;1-100;4;49.85;6.01667
+49;FEU_tombe 87;FEU;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;1;0;0;0;0;0;14;non;féminin probable;adulte;45;90;1-100;4;49.85;6.01667
+50;FEU_tombe 96;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20;-75-1;2;49.85;6.01667
+51;FEU_tombe 98;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;45;90;1-100;4;49.85;6.01667
+52;FEU_tombr 178;FEU;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;45;90;1-100;4;49.85;6.01667
+53;GON_tombe 14;GON;Gaule Belgique;Gaule du nord;1;1;0;0;1;0;0;1;1;0;1;0;0;0;22;non;féminin;adulte;-30;-15;-75-1;1;49.6743;6.0018
+54;GON_tombe 17;GON;Gaule Belgique;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;indéterminé;adulte;-55;-30;-75-1;1;49.6743;6.0018
+55;GON_tombe A;GON;Gaule Belgique;Gaule du nord;0;0;0;1;1;0;0;0;1;0;0;0;0;0;21;non;indéterminé;adulte;-30;-15;-75-1;1;49.6743;6.0018
+56;GON_tombe B;GON;Gaule Belgique;Gaule du nord;1;0;1;1;1;0;0;0;1;0;0;0;0;0;27;non;indéterminé;adulte;-30;-15;-75-1;1;49.6743;6.0018
+57;LAM_tombe 15;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-15;20;-75-1;2;49.54639;5.85639
+58;LAM_tombe 33;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-15;20;-75-1;2;49.54639;5.85639
+59;LAM_tombe 38;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20;-75-1;2;49.54639;5.85639
+60;LAM_tombe 4;LAM;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-15;20;-75-1;2;49.54639;5.85639
+61;LAM_tombe 42;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-15;20;-75-1;2;49.54639;5.85639
+62;LAM_tombe 43;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+63;LAM_tombe 45;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;-30;20;-75-1;2;49.54639;5.85639
+64;LAM_tombe 47;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+65;LAM_tombe 48;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+66;LAM_tombe 52;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-30;-15;-75-1;1;49.54639;5.85639
+67;LAM_tombe 53;LAM;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+68;LAM_tombe 56;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+69;LAM_tombe 72;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-30;-15;-75-1;1;49.54639;5.85639
+70;LAM_tombe 73;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-30;-15;-75-1;1;49.54639;5.85639
+71;LAM_tombe 75;LAM;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-30;-15;-75-1;1;49.54639;5.85639
+72;LAM_tombe 80;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-30;-15;-75-1;1;49.54639;5.85639
+73;LAM_tombe 83;LAM;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-15;20;-75-1;2;49.54639;5.85639
+74;SEPTD_grab 1;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;non;masculin;adulte;135;175;100-300;5;49.70111;5.96722
+75;SEPTD_grab 10;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;135;175;100-300;5;49.70111;5.96722
+76;SEPTD_grab 101;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+77;SEPTD_grab 106;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;135;175;100-300;5;49.70111;5.96722
+78;SEPTD_grab 111;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;70;100;1-100;7;49.70111;5.96722
+79;SEPTD_grab 118;SEPTD;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;100;135;100-300;6;49.70111;5.96722
+80;SEPTD_grab 119;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;70;100;1-100;7;49.70111;5.96722
+81;SEPTD_grab 121;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;70;100;1-100;7;49.70111;5.96722
+82;SEPTD_grab 122;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;70;100;1-100;7;49.70111;5.96722
+83;SEPTD_grab 124;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;70;100;1-100;7;49.70111;5.96722
+84;SEPTD_grab 129;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;70;100;1-100;7;49.70111;5.96722
+85;SEPTD_grab 132;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;70;100;1-100;7;49.70111;5.96722
+86;SEPTD_grab 136;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;135;175;100-300;5;49.70111;5.96722
+87;SEPTD_grab 140;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3;non;féminin probable;adulte;15;70;1-100;4;49.70111;5.96722
+88;SEPTD_grab 149;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+89;SEPTD_grab 153;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;70;135;1-100;6;49.70111;5.96722
+90;SEPTD_grab 165;SEPTD;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;70;100;1-100;7;49.70111;5.96722
+91;SEPTD_grab 167;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+92;SEPTD_grab 174;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+93;SEPTD_grab 179;SEPTD;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+94;SEPTD_grab 182;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135;100-300;6;49.70111;5.96722
+95;SEPTD_grab 19;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;70;100;1-100;7;49.70111;5.96722
+96;SEPTD_grab 191;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+97;SEPTD_grab 192;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+98;SEPTD_grab 194;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;175;100-300;5;49.70111;5.96722
+99;SEPTD_grab 199;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;100;135;100-300;6;49.70111;5.96722
+100;SEPTD_grab 2;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135;100-300;6;49.70111;5.96722
+101;SEPTD_grab 20;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte;100;135;100-300;6;49.70111;5.96722
+102;SEPTD_grab 211;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+103;SEPTD_grab 22;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;indéterminé;70;100;1-100;7;49.70111;5.96722
+104;SEPTD_grab 33;SEPTD;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+105;SEPTD_grab 39;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;10;oui;mixte;adulte;100;135;100-300;6;49.70111;5.96722
+106;SEPTD_grab 45;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;100;135;100-300;6;49.70111;5.96722
+107;SEPTD_grab 46;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+108;SEPTD_grab 48;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;100;135;100-300;6;49.70111;5.96722
+109;SEPTD_grab 5;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;135;175;100-300;5;49.70111;5.96722
+110;SEPTD_grab 54;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;100;135;100-300;6;49.70111;5.96722
+111;SEPTD_grab 60;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;100;135;100-300;6;49.70111;5.96722
+112;SEPTD_grab 62;SEPTD;Germanie;Gaule du nord;0;0;1;1;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+113;SEPTD_grab 69;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;70;100;1-100;7;49.70111;5.96722
+114;SEPTD_grab 7;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;135;175;100-300;5;49.70111;5.96722
+115;SEPTD_grab 70;SEPTD;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+116;SEPTD_grab 77;SEPTD;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+117;SEPTD_grab 8;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;135;175;100-300;5;49.70111;5.96722
+118;SEPTD_grab 83;SEPTD;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+119;SEPTD_grab 84;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;13;non;masculin;adulte;70;100;1-100;7;49.70111;5.96722
+120;SEPTD_grab 88;SEPTD;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;100;135;100-300;6;49.70111;5.96722
+121;SEPTD_grab 90;SEPTD;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;135;175;100-300;5;49.70111;5.96722
+122;STGRRFUN_F. 21288;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;indéterminé;1;130;1-100;8;48.5846;7.7507
+123;STGRRFUN_F. 21307;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31;oui;masculin + masculin;adulte;1;130;1-100;8;48.5846;7.7507
+124;STGRRFUN_F. 21308;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+125;STGRRFUN_F. 21309;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;oui;indéterminé;indéterminé;1;130;1-100;8;48.5846;7.7507
+126;STGRRFUN_F. 21361;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;1;130;1-100;8;48.5846;7.7507
+127;STGRRFUN_F. 20295;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99;non;masculin;adulte;1;130;1-100;9;48.5846;7.7507
+128;STGRRFUN_F. 20341;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+129;STGRRFUN_F. 20342;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+130;STGRRFUN_F. 20345;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93;non;masculin;adulte;1;130;1-100;9;48.5846;7.7507
+131;STGRRFUN_F. 20515;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;1;130;1-100;8;48.5846;7.7507
+132;STGRRFUN_F. 20473;STGRRFUN;Germanie;Gaule du nord;0;1;1;0;1;0;0;0;0;0;0;0;0;0;32;oui;masculin + masculin;adulte;1;130;1-100;8;48.5846;7.7507
+133;STGRRFUN_F. 20682;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;1;130;1-100;8;48.5846;7.7507
+134;STGRRFUN_F. 20780;STGRRFUN;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;1;0;0;0;0;11;non;indéterminé;enfant;1;130;1-100;8;48.5846;7.7507
+135;STGRRFUN_F. 20771;STGRRFUN;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;1;0;0;0;0;46;non;indéterminé;indéterminé;1;130;1-100;8;48.5846;7.7507
+136;STGRRFUN_F. 20802;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;117;non;masculin;adulte;1;130;1-100;9;48.5846;7.7507
+137;STGRRFUN_F. 20750;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+138;STGRRFUN_F. 21079;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+139;STGRRFUN_F. 21289;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;1;130;1-100;8;48.5846;7.7507
+140;STGRRFUN_F. 21301;STGRRFUN;Germanie;Gaule du nord;1;0;1;0;0;0;0;0;0;0;0;0;0;0;193;non;masculin;adulte;1;130;1-100;9;48.5846;7.7507
+141;STGRRFUN_F. 21363;STGRRFUN;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;1;130;1-100;8;48.5846;7.7507
+142;WED_grab 1;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+143;WED_grab 10;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+144;WED_grab 100;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+145;WED_grab 1003;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+146;WED_grab 1004;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+147;WED_grab 1006;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+148;WED_grab 1009;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+149;WED_grab 1015;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+150;WED_grab 1021;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+151;WED_grab 1022;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+152;WED_grab 1025;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+153;WED_grab 1026;WED;Germanie;Gaule du nord;0;0;0;0;0;0;1;1;0;0;0;0;0;0;10;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+154;WED_grab 1029;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+155;WED_grab 1030;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+156;WED_grab 1032;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+157;WED_grab 1033;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+158;WED_grab 1037;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+159;WED_grab 1039;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+160;WED_grab 1040;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+161;WED_grab 1042;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+162;WED_grab 1045;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+163;WED_grab 1047;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+164;WED_grab 1049;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+165;WED_grab 105;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+166;WED_grab 1052;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+167;WED_grab 1054;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+168;WED_grab 1056;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+169;WED_grab 1058;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+170;WED_grab 1060;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+171;WED_grab 1068;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+172;WED_grab 1069;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+173;WED_grab 107;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;1;0;0;0;5;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+174;WED_grab 1072;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+175;WED_grab 1073;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+176;WED_grab 1074;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+177;WED_grab 1078;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+178;WED_grab 1082;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+179;WED_grab 1085;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+180;WED_grab 1089;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+181;WED_grab 1096;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+182;WED_grab 1098;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+183;WED_grab 1112;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+184;WED_grab 1145;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+185;WED_grab 1146;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;3;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+186;WED_grab 115;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+187;WED_grab 1154;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+188;WED_grab 1155;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+189;WED_grab 1162;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+190;WED_grab 1167;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+191;WED_grab 1168;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+192;WED_grab 1169;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+193;WED_grab 1171;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+194;WED_grab 1172;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+195;WED_grab 1183;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+196;WED_grab 1186;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+197;WED_grab 1187;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;1;8;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+198;WED_grab 1196;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+199;WED_grab 1199;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+200;WED_grab 1200;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+201;WED_grab 1201;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+202;WED_grab 1204;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+203;WED_grab 1213;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+204;WED_grab 1215;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+205;WED_grab 1217;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+206;WED_grab 1225;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+207;WED_grab 1227;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;11;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+208;WED_grab 1234;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+209;WED_grab 1243;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+210;WED_grab 1244;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+211;WED_grab 1245;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+212;WED_grab 1260;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+213;WED_grab 1265;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+214;WED_grab 1266;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+215;WED_grab 1270;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+216;WED_grab 1273;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+217;WED_grab 1275;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+218;WED_grab 1278;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+219;WED_grab 1279;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+220;WED_grab 1285;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+221;WED_grab 1286;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+222;WED_grab 1290;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+223;WED_grab 1292;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+224;WED_grab 1295;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+225;WED_grab 1296;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+226;WED_grab 1297;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+227;WED_grab 1298;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+228;WED_grab 1302;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+229;WED_grab 1305;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+230;WED_grab 1313;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+231;WED_grab 1321;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+232;WED_grab 1322;WED;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+233;WED_grab 1324;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+234;WED_grab 1325;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+235;WED_grab 1329;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+236;WED_grab 1330;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+237;WED_grab 1331;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+238;WED_grab 1344;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;9;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+239;WED_grab 1350;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+240;WED_grab 1354;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+241;WED_grab 1361;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;20;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+242;WED_grab 1374;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+243;WED_grab 1383;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+244;WED_grab 1387;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+245;WED_grab 1390;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+246;WED_grab 1393;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+247;WED_grab 1394;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+248;WED_grab 1395;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+249;WED_grab 1404;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+250;WED_grab 1409;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+251;WED_grab 1410;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+252;WED_grab 1412;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+253;WED_grab 1413;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+254;WED_grab 1423;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+255;WED_grab 1425;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+256;WED_grab 143;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+257;WED_grab 1432;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+258;WED_grab 1434;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+259;WED_grab 144;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+260;WED_grab 1441;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+261;WED_grab 145;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+262;WED_grab 1455;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+263;WED_grab 1456;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;7;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+264;WED_grab 1465;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+265;WED_grab 147;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+266;WED_grab 1470;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+267;WED_grab 1473;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+268;WED_grab 1477;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+269;WED_grab 1478;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+270;WED_grab 148;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+271;WED_grab 1482;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+272;WED_grab 1483;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+273;WED_grab 1486;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+274;WED_grab 1495;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+275;WED_grab 1496;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+276;WED_grab 1497;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+277;WED_grab 1500;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+278;WED_grab 1501;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+279;WED_grab 1502;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;17;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+280;WED_grab 1504;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+281;WED_grab 1506;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+282;WED_grab 1511;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+283;WED_grab 1513;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+284;WED_grab 1514;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+285;WED_grab 1520;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+286;WED_grab 1522;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+287;WED_grab 1525;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+288;WED_grab 1528;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+289;WED_grab 1529;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+290;WED_grab 1531;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+291;WED_grab 1533;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+292;WED_grab 1534;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;5;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+293;WED_grab 1535;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+294;WED_grab 1537;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+295;WED_grab 1539;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+296;WED_grab 1543;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+297;WED_grab 1545;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+298;WED_grab 1547;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+299;WED_grab 1551;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+300;WED_grab 1554;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+301;WED_grab 1559;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+302;WED_grab 1561;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+303;WED_grab 1562;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+304;WED_grab 1564;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+305;WED_grab 1565;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;1;6;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+306;WED_grab 1566;WED;Germanie;Gaule du nord;0;0;0;0;0;0;1;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+307;WED_grab 1567;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+308;WED_grab 1569;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+309;WED_grab 157;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+310;WED_grab 1571;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+311;WED_grab 1573;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+312;WED_grab 1575;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+313;WED_grab 1577;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+314;WED_grab 1579;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+315;WED_grab 158;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+316;WED_grab 1582;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;5;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+317;WED_grab 1583;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+318;WED_grab 1585;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+319;WED_grab 1586;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+320;WED_grab 1587;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+321;WED_grab 1592;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+322;WED_grab 16;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+323;WED_grab 160;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+324;WED_grab 1600;WED;Germanie;Gaule du nord;0;1;0;0;1;0;1;0;0;0;0;0;0;0;8;oui;mixte;adulte;-20;100;-75-1;10;49.86499;7.16444
+325;WED_grab 1605;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+326;WED_grab 161;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+327;WED_grab 1611;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;29;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+328;WED_grab 1616;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+329;WED_grab 162;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+330;WED_grab 1625;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;oui;mixte;mixte (indéterminé);-20;100;-75-1;10;49.86499;7.16444
+331;WED_grab 163;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+332;WED_grab 1630;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+333;WED_grab 1632;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+334;WED_grab 1639;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;1;0;0;0;0;0;0;4;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+335;WED_grab 1641;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+336;WED_grab 166;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+337;WED_grab 167;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+338;WED_grab 169;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+339;WED_grab 1713;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+340;WED_grab 1717;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+341;WED_grab 1718;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+342;WED_grab 1719;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+343;WED_grab 172;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+344;WED_grab 1727;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;1;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+345;WED_grab 1730;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+346;WED_grab 1732;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+347;WED_grab 1735;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+348;WED_grab 1736;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+349;WED_grab 1742;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+350;WED_grab 1744;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+351;WED_grab 1745;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+352;WED_grab 1746;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+353;WED_grab 175;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+354;WED_grab 1750;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+355;WED_grab 1751;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+356;WED_grab 1757;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+357;WED_grab 1765;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+358;WED_grab 1766;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+359;WED_grab 1768;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;7;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+360;WED_grab 1770;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+361;WED_grab 1771;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+362;WED_grab 1774;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;10;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+363;WED_grab 178;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+364;WED_grab 1786;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+365;WED_grab 1787;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+366;WED_grab 1788;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+367;WED_grab 1789;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+368;WED_grab 179;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+369;WED_grab 1794;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+370;WED_grab 1795;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+371;WED_grab 1796;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+372;WED_grab 1797;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+373;WED_grab 1798;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+374;WED_grab 1799;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+375;WED_grab 1801;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+376;WED_grab 1802;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+377;WED_grab 1805;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+378;WED_grab 1807;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+379;WED_grab 1808;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+380;WED_grab 1809;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+381;WED_grab 1810;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+382;WED_grab 1811;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+383;WED_grab 1812;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+384;WED_grab 1813;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+385;WED_grab 1815;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+386;WED_grab 1817;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+387;WED_grab 1818;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+388;WED_grab 1819;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+389;WED_grab 1821;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+390;WED_grab 1824;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+391;WED_grab 1826;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+392;WED_grab 1830;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+393;WED_grab 1831;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+394;WED_grab 1836;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+395;WED_grab 184;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+396;WED_grab 1840;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+397;WED_grab 1842;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+398;WED_grab 1848;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+399;WED_grab 1849;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+400;WED_grab 185;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+401;WED_grab 1861;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+402;WED_grab 1862;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+403;WED_grab 1863;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+404;WED_grab 1867;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;6;non;masculin;enfant;-20;100;-75-1;10;49.86499;7.16444
+405;WED_grab 187;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+406;WED_grab 1873;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+407;WED_grab 1874;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+408;WED_grab 1877;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+409;WED_grab 1882;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+410;WED_grab 1884;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+411;WED_grab 1889;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+412;WED_grab 1890;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+413;WED_grab 1892;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+414;WED_grab 1893;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+415;WED_grab 1895;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+416;WED_grab 1898;WED;Germanie;Gaule du nord;0;1;1;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+417;WED_grab 1900;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+418;WED_grab 1901;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+419;WED_grab 1902;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+420;WED_grab 1903;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+421;WED_grab 1905;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+422;WED_grab 1910;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+423;WED_grab 1917;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+424;WED_grab 1919;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+425;WED_grab 192;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+426;WED_grab 1922;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+427;WED_grab 1924;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+428;WED_grab 1926;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+429;WED_grab 1945;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+430;WED_grab 1950;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+431;WED_grab 1951;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;34;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+432;WED_grab 1952;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+433;WED_grab 1955;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+434;WED_grab 1959;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+435;WED_grab 1965;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+436;WED_grab 1968;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+437;WED_grab 1969;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;1;0;0;0;0;0;3;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+438;WED_grab 1971;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+439;WED_grab 1972;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+440;WED_grab 1981;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+441;WED_grab 1993;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+442;WED_grab 1994;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+443;WED_grab 1996;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+444;WED_grab 1997;WED;Germanie;Gaule du nord;0;1;1;0;1;0;0;0;0;1;0;0;0;0;4;oui;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+445;WED_grab 2003;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+446;WED_grab 2004;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+447;WED_grab 2006;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+448;WED_grab 202;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+449;WED_grab 2023;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+450;WED_grab 2034;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+451;WED_grab 2037;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+452;WED_grab 204;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+453;WED_grab 2040;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+454;WED_grab 2046;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+455;WED_grab 205;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+456;WED_grab 2050;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+457;WED_grab 2051;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+458;WED_grab 2052;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+459;WED_grab 2060;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+460;WED_grab 2063;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+461;WED_grab 2065;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+462;WED_grab 2066;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+463;WED_grab 2071;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;1;0;0;0;0;0;9;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+464;WED_grab 2072;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+465;WED_grab 2073;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+466;WED_grab 2076;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+467;WED_grab 2078;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+468;WED_grab 208;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+469;WED_grab 2081;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+470;WED_grab 2083;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+471;WED_grab 2086;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+472;WED_grab 2087;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+473;WED_grab 2089;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+474;WED_grab 209;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+475;WED_grab 2090;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+476;WED_grab 2091;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+477;WED_grab 2092;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+478;WED_grab 2095;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;16;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+479;WED_grab 2096;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+480;WED_grab 2097;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+481;WED_grab 2098;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+482;WED_grab 2099;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+483;WED_grab 2101;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;11;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+484;WED_grab 2104;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+485;WED_grab 2106;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+486;WED_grab 2107;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+487;WED_grab 2108;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+488;WED_grab 211;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+489;WED_grab 2113;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+490;WED_grab 2117;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+491;WED_grab 2119;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+492;WED_grab 2124;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+493;WED_grab 2125;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+494;WED_grab 2126;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;1;10;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+495;WED_grab 2128;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+496;WED_grab 2129;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;9;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+497;WED_grab 2131;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+498;WED_grab 2136;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+499;WED_grab 2139;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+500;WED_grab 2141;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+501;WED_grab 2144;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+502;WED_grab 2145;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+503;WED_grab 2148;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+504;WED_grab 2150;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+505;WED_grab 2157;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+506;WED_grab 2158;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+507;WED_grab 216;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+508;WED_grab 2161;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+509;WED_grab 2164;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;12;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+510;WED_grab 2165;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+511;WED_grab 2168;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+512;WED_grab 2169;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+513;WED_grab 2171;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+514;WED_grab 2173;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+515;WED_grab 2178;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;1;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+516;WED_grab 2183;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+517;WED_grab 2189;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+518;WED_grab 2196;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;13;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+519;WED_grab 2200;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+520;WED_grab 2201;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+521;WED_grab 2205;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+522;WED_grab 2207;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+523;WED_grab 2212;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;10;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+524;WED_grab 2215;WED;Germanie;Gaule du nord;0;1;0;1;1;0;0;0;0;0;0;0;0;0;7;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+525;WED_grab 2218;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+526;WED_grab 2219;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+527;WED_grab 2226;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+528;WED_grab 2229;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+529;WED_grab 2230;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+530;WED_grab 2232;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+531;WED_grab 2233;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+532;WED_grab 2235;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;10;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+533;WED_grab 224;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+534;WED_grab 2240;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;1;5;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+535;WED_grab 2242;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+536;WED_grab 2245;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+537;WED_grab 2250;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;1;0;0;0;0;0;8;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+538;WED_grab 2251;WED;Germanie;Gaule du nord;0;1;1;0;0;0;0;0;0;0;0;0;0;0;16;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+539;WED_grab 2252;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+540;WED_grab 2255;WED;Germanie;Gaule du nord;0;1;1;0;1;0;0;0;0;0;0;0;0;0;12;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+541;WED_grab 2256;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+542;WED_grab 226;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+543;WED_grab 2265;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+544;WED_grab 2267;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;1;0;0;0;0;11;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+545;WED_grab 227;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+546;WED_grab 2271;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+547;WED_grab 2272;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+548;WED_grab 2273;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+549;WED_grab 2274;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;1;0;0;0;0;3;non;masculin probable;enfant;-20;100;-75-1;10;49.86499;7.16444
+550;WED_grab 2277;WED;Germanie;Gaule du nord;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+551;WED_grab 2278;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;1;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+552;WED_grab 2283;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;1;0;0;0;0;0;24;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+553;WED_grab 2286;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+554;WED_grab 2287;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+555;WED_grab 2289;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+556;WED_grab 2293;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+557;WED_grab 2294;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+558;WED_grab 2295;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+559;WED_grab 2297;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+560;WED_grab 2299;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+561;WED_grab 230;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+562;WED_grab 2300;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+563;WED_grab 2303;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+564;WED_grab 2308;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+565;WED_grab 2309;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+566;WED_grab 2310;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+567;WED_grab 2312;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+568;WED_grab 2314;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+569;WED_grab 2315;WED;Germanie;Gaule du nord;0;1;0;0;0;1;0;0;1;1;0;0;0;0;8;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+570;WED_grab 2316;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+571;WED_grab 2318;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+572;WED_grab 2323;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+573;WED_grab 2327;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+574;WED_grab 2349;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+575;WED_grab 2360;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+576;WED_grab 2361;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;1;5;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+577;WED_grab 2362;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;13;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+578;WED_grab 2363;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+579;WED_grab 2370;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;25;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+580;WED_grab 2410;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+581;WED_grab 2411;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+582;WED_grab 2418;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+583;WED_grab 2421;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+584;WED_grab 2424;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+585;WED_grab 2425;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+586;WED_grab 2431;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+587;WED_grab 2432;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+588;WED_grab 2447;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+589;WED_grab 2448;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;1;11;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+590;WED_grab 2449;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;6;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+591;WED_grab 2451;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;6;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+592;WED_grab 2455;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+593;WED_grab 2456;WED;Germanie;Gaule du nord;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+594;WED_grab 2459;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+595;WED_grab 246;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+596;WED_grab 2460;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+597;WED_grab 2462;WED;Germanie;Gaule du nord;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+598;WED_grab 2463;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8;oui;mixte;mixte (adulte + enfant);-20;100;-75-1;10;49.86499;7.16444
+599;WED_grab 2469;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+600;WED_grab 2472;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+601;WED_grab 248;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+602;WED_grab 254;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+603;WED_grab 256;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+604;WED_grab 257;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+605;WED_grab 258;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+606;WED_grab 261;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+607;WED_grab 273;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+608;WED_grab 275;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+609;WED_grab 282;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+610;WED_grab 289;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+611;WED_grab 291;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+612;WED_grab 306;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+613;WED_grab 309;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+614;WED_grab 316;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+615;WED_grab 318;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;1;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+616;WED_grab 325;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+617;WED_grab 337;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+618;WED_grab 338;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+619;WED_grab 34;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+620;WED_grab 35;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+621;WED_grab 350;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+622;WED_grab 351;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+623;WED_grab 354;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+624;WED_grab 355;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+625;WED_grab 359;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+626;WED_grab 360;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+627;WED_grab 37;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+628;WED_grab 372;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+629;WED_grab 379;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+630;WED_grab 400;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;3;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+631;WED_grab 403;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+632;WED_grab 405;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+633;WED_grab 412;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+634;WED_grab 417;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+635;WED_grab 419;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+636;WED_grab 421;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+637;WED_grab 423;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;7;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+638;WED_grab 425;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+639;WED_grab 436;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+640;WED_grab 438;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+641;WED_grab 443;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+642;WED_grab 444;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+643;WED_grab 445;WED;Germanie;Gaule du nord;0;0;0;0;1;0;1;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+644;WED_grab 446;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+645;WED_grab 45;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+646;WED_grab 450;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+647;WED_grab 46;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+648;WED_grab 474;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+649;WED_grab 476;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+650;WED_grab 480;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+651;WED_grab 482;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+652;WED_grab 483;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+653;WED_grab 489;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+654;WED_grab 49;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+655;WED_grab 490;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+656;WED_grab 491;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+657;WED_grab 494;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+658;WED_grab 495;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+659;WED_grab 496;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+660;WED_grab 497;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+661;WED_grab 499;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+662;WED_grab 5;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+663;WED_grab 506;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+664;WED_grab 515;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+665;WED_grab 519;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+666;WED_grab 521;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+667;WED_grab 522;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+668;WED_grab 524;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+669;WED_grab 526;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+670;WED_grab 528;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;7;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+671;WED_grab 531;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+672;WED_grab 540;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+673;WED_grab 541;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+674;WED_grab 542;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+675;WED_grab 543;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+676;WED_grab 546;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+677;WED_grab 55;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+678;WED_grab 563;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+679;WED_grab 566;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;1;0;0;0;7;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+680;WED_grab 568;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+681;WED_grab 572;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+682;WED_grab 576;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+683;WED_grab 578;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+684;WED_grab 58;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+685;WED_grab 580;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+686;WED_grab 584;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+687;WED_grab 591;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+688;WED_grab 593;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+689;WED_grab 595;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+690;WED_grab 597;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+691;WED_grab 60;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+692;WED_grab 600;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+693;WED_grab 602;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+694;WED_grab 603;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+695;WED_grab 606;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+696;WED_grab 610;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+697;WED_grab 611;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+698;WED_grab 617;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+699;WED_grab 619;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+700;WED_grab 620;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+701;WED_grab 630;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+702;WED_grab 631;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+703;WED_grab 633;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+704;WED_grab 636;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+705;WED_grab 637;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+706;WED_grab 639;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+707;WED_grab 645;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+708;WED_grab 648;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+709;WED_grab 650;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+710;WED_grab 654;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+711;WED_grab 655;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+712;WED_grab 656;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+713;WED_grab 659;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+714;WED_grab 665;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+715;WED_grab 666;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;6;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+716;WED_grab 667;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+717;WED_grab 668;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+718;WED_grab 670;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+719;WED_grab 671;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+720;WED_grab 673;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+721;WED_grab 675;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+722;WED_grab 676;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+723;WED_grab 678;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+724;WED_grab 681;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;11;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+725;WED_grab 685;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+726;WED_grab 690;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+727;WED_grab 691;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+728;WED_grab 692;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+729;WED_grab 693;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+730;WED_grab 695;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+731;WED_grab 696;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+732;WED_grab 697;WED;Germanie;Gaule du nord;0;0;0;1;1;0;0;0;0;0;0;0;0;0;15;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+733;WED_grab 698;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+734;WED_grab 700;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+735;WED_grab 702;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+736;WED_grab 703;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+737;WED_grab 714;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+738;WED_grab 725;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+739;WED_grab 727;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+740;WED_grab 728;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;masculin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+741;WED_grab 732;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+742;WED_grab 733;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+743;WED_grab 741;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+744;WED_grab 742;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+745;WED_grab 743;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+746;WED_grab 746;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+747;WED_grab 749;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+748;WED_grab 750;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+749;WED_grab 756;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+750;WED_grab 76;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+751;WED_grab 760;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+752;WED_grab 763;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+753;WED_grab 768;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+754;WED_grab 775;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+755;WED_grab 779;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+756;WED_grab 781;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;6;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+757;WED_grab 8;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+758;WED_grab 803;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+759;WED_grab 808;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+760;WED_grab 813;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+761;WED_grab 821;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+762;WED_grab 825;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+763;WED_grab 839;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+764;WED_grab 844;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+765;WED_grab 849;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+766;WED_grab 85;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+767;WED_grab 858;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+768;WED_grab 865;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+769;WED_grab 874;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+770;WED_grab 882;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+771;WED_grab 887;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+772;WED_grab 892;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+773;WED_grab 894;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+774;WED_grab 898;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;oui;indéterminé;mixte (adulte + enfant);-20;100;-75-1;10;49.86499;7.16444
+775;WED_grab 899;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+776;WED_grab 9;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;1;0;0;0;0;3;oui;indéterminé;mixte (indéterminé);-20;100;-75-1;10;49.86499;7.16444
+777;WED_grab 901;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+778;WED_grab 906;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;non;masculin probable;enfant;-20;100;-75-1;10;49.86499;7.16444
+779;WED_grab 909;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+780;WED_grab 914;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+781;WED_grab 917;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;indéterminé;-20;100;-75-1;10;49.86499;7.16444
+782;WED_grab 918;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+783;WED_grab 920;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+784;WED_grab 925;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+785;WED_grab 927;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+786;WED_grab 929;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+787;WED_grab 934;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+788;WED_grab 936;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+789;WED_grab 937;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+790;WED_grab 940;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;oui;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+791;WED_grab 942;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+792;WED_grab 943;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;1;3;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+793;WED_grab 954;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+794;WED_grab 962;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+795;WED_grab 963;WED;Germanie;Gaule du nord;0;0;1;0;1;0;0;0;0;0;0;0;0;0;3;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+796;WED_grab 964;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;féminin;adulte;-20;100;-75-1;10;49.86499;7.16444
+797;WED_grab 966;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+798;WED_grab 967;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;non;masculin;adulte;-20;100;-75-1;10;49.86499;7.16444
+799;WED_grab 969;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+800;WED_grab 978;WED;Germanie;Gaule du nord;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+801;WED_grab 98;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;3;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+802;WED_grab 982;WED;Germanie;Gaule du nord;0;0;0;1;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
+803;WED_grab 983;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;bébé;-20;100;-75-1;10;49.86499;7.16444
+804;WED_grab 984;WED;Germanie;Gaule du nord;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+805;WED_grab 985;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;non;indéterminé;enfant;-20;100;-75-1;10;49.86499;7.16444
+806;WED_grab 992;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;non;féminin probable;adulte;-20;100;-75-1;10;49.86499;7.16444
+807;WED_grab 999;WED;Germanie;Gaule du nord;0;0;0;0;1;0;0;0;0;0;0;0;0;0;4;non;indéterminé;adulte;-20;100;-75-1;10;49.86499;7.16444
