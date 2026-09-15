@@ -108,23 +108,11 @@ plot.CA(afc_gaule_nord_deuxieme_sup, autoLab = "yes")
 # ============================================================
 # 5. EXTRACTION DES COORDONNÉES, COS2 ET CONTRIBUTIONS (axes 1 et 2)
 # ============================================================
-# CORRECTION : le script original référençait ici "afc_gaule_nord_premier_sup",
-# un objet qui n'est jamais créé dans ce script (seul "afc_gaule_nord_deuxieme_sup"
-# est calculé ci-dessus, à l'étape 4). Il s'agissait probablement d'un reliquat
-# de copier-coller depuis un script pour le premier intervalle. La ligne a été
-# corrigée pour pointer vers l'objet réellement calculé ici.
-
 # --- Modalités lignes (catégories d'objets) ---
 coord_lignes <- afc_gaule_nord_deuxieme_sup$row$coord
 cos2_lignes <- afc_gaule_nord_deuxieme_sup$row$cos2
 contrib_lignes <- afc_gaule_nord_deuxieme_sup$row$contrib
 
-# NB : les colonnes "Coordonnées", "Cosinus2" et "Contribution" sont chacune
-# répétées deux fois (une fois par axe). R renomme automatiquement les
-# doublons en ajoutant le suffixe ".1" (ex. "Coordonnées" et "Coordonnées.1"),
-# donc aucune donnée n'est perdue, mais l'intitulé de colonne reste ambigu à
-# la lecture du CSV exporté (on ne sait pas directement lequel est l'axe 1 et
-# lequel est l'axe 2 sans se référer à l'ordre des colonnes).
 df_lignes_axe1 <- data.frame(
   Coordonnées = coord_lignes[, 1],    # Coordonnées pour l'axe 1
   Coordonnées = coord_lignes[, 2],    # Coordonnées pour l'axe 2
@@ -157,11 +145,6 @@ write.csv2(df_colonnes_axe1, "resultats/axe1_colonnes.csv", row.names = TRUE)
 # ============================================================
 # 6. TEST DU CHI² ET RÉSIDUS DE PEARSON
 # ============================================================
-# CORRECTION : le script original référençait ici "contingence_gaule_nord_premier",
-# un objet jamais créé dans ce script (même type de reliquat de copier-coller
-# qu'à l'étape 5). La ligne a été corrigée pour utiliser
-# "contingence_gaule_nord_deuxieme", le tableau de contingence effectivement
-# construit à l'étape 3.
 chisq <- chisq.test(contingence_gaule_nord_deuxieme)
 
 # Résidus de Pearson (contribution de chaque cellule à l'écart entre effectifs
