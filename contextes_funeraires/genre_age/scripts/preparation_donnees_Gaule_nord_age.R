@@ -24,8 +24,6 @@ d <- read.csv2("data/contextes_funeraires_v6.csv", header = TRUE, encoding = "ut
 # ============================================================
 # 2. CONVERSION DES VARIABLES EN FACTEURS
 # ============================================================
-# Contrairement au script équivalent pour l'analyse par sexe, zone_geo est
-# converti en facteur dès cette étape (utilisé plus loin pour l'agrégat final).
 d$obj_nom             <- as.factor(d$obj_nom)
 d$nouvelle_categorie  <- as.factor(d$nouvelle_categorie)
 d$materiau_nom        <- as.factor(d$materiau_nom)
