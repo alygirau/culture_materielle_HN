@@ -100,7 +100,7 @@ df_col <- data.frame(
   Cos2_Dim2 = cos2_col[, 2]
 )
 
-# Export désactivé par défaut (chemin déjà corrigé si tu veux le réactiver)
+# Export désactivé par défaut
 #write.csv2(df_col, "resultats/contrib_col_age_gaule_nord_deuxieme.csv", row.names = TRUE)
 
 # --- 2.5 Test du chi² et résidus de Pearson ---
@@ -117,7 +117,7 @@ corrplot(res_ordered, is.cor = FALSE, tl.cex = 0.8, order = "original")
 contrib <- 100 * chisq$residuals^2 / chisq$statistic
 round(contrib, 3)
 
-# Export désactivé par défaut (chemin déjà corrigé si tu veux le réactiver)
+# Export désactivé par défaut
 #write.csv2(contrib, "resultats/contrib_pourcentage_gaule_nord_deuxieme.csv", row.names = TRUE)
 
 corrplot(contrib, is.cor = FALSE)
@@ -136,8 +136,7 @@ d_intervalle_troisieme$defunt_age <- as.factor(d_intervalle_troisieme$defunt_age
 
 contingence_gaule_nord_troisieme <- table(d_intervalle_troisieme$nouvelle_categorie, d_intervalle_troisieme$defunt_classe_age)
 
-# Export désactivé par défaut dans le script d'origine (chemin déjà corrigé
-# si tu veux le réactiver) — NB : contrairement aux autres exports de ce
+# Export désactivé par défaut dans le script d'origine (NB : contrairement aux autres exports de ce
 # script, celui-ci est fait avant le nettoyage des lignes/colonnes à zéro
 # juste en dessous, donc le fichier obtenu si réactivé inclurait ces lignes vides
 #write.csv2(contingence_gaule_nord_troisieme, "resultats/contingence_gaule_nord_troisieme_age.csv", row.names = TRUE)
