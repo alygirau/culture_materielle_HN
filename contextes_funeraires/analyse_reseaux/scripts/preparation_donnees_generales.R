@@ -63,7 +63,7 @@ d_filtered <- d %>%
 # ============================================================
 # 4. FUSION DES GENRES (désactivée)
 # ============================================================
-# Ce bloc, désactivé par défaut, fusionnerait les déterminations incertaines
+# Ce bloc, désactivé par défaut, fusionne les déterminations incertaines
 # ("féminin ?", "masculin ?") avec leur catégorie certaine correspondante.
 # Il est laissé en commentaire pour ne pas mélanger sexe certain et probable
 # dans les analyses par défaut de ce script (voir script AFC sexe, qui suit
@@ -79,12 +79,6 @@ d_filtered <- d %>%
 # ============================================================
 # 5. FUSION DES CLASSES D'ÂGE EN GRANDES CATÉGORIES (active)
 # ============================================================
-# Contrairement aux scripts de préparation par zone géographique (nord/sud,
-# analyse par âge), où ce regroupement était désactivé pour garder les classes
-# d'âge détaillées, il est ACTIF ici : les classes d'âge détaillées sont
-# fusionnées en 3 grandes catégories (adulte / enfant / bébé), adaptées à une
-# analyse par sexe qui n'a pas besoin de la granularité fine des classes d'âge.
-
 # --- Fusion des adultes ---
 d_filtered <- d_filtered %>%
   mutate(defunt_classe_age = case_when(defunt_classe_age == "adulte ?" ~ as.character("adulte"),TRUE ~ as.character(defunt_classe_age)))
@@ -128,8 +122,7 @@ d_filtered <- d_filtered %>%
 # --- Fusion des bébés ---
 # NB : contrairement aux catégories ci-dessus, "bébé" n'existe pas comme
 # modalité brute dans les données ; elle est créée ici à partir de "périnatal"
-# et "prématuré", d'où l'ordre des opérations (ces valeurs auraient pu être
-# absorbées par erreur dans "enfant" si ce bloc avait été placé avant).
+# et "prématuré", d'où l'ordre des opérations
 d_filtered <- d_filtered %>%
   mutate(defunt_classe_age = case_when(defunt_classe_age == "périnatal" ~ as.character("bébé"),TRUE ~ as.character(defunt_classe_age)))
 d_filtered <- d_filtered %>%
@@ -141,8 +134,7 @@ d_filtered <- d_filtered %>%
 # ============================================================
 # 6. REGROUPEMENT DE L'ÂGE RÉEL EN TRANCHES (désactivé)
 # ============================================================
-# Bloc désactivé, plus sommaire que celui des scripts de préparation par zone
-# (moins de correspondances couvertes) : à ne réactiver que si ce script est
+# Bloc désactivé : à ne réactiver que si ce script est
 # un jour utilisé pour une analyse sur l'âge exact plutôt que sur le sexe.
 
 # d_filtered <- d_filtered %>%
