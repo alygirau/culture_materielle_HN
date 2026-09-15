@@ -41,12 +41,6 @@ premier_intervalle <- levels(d_intervalle$intervalle_personnalise)[1]
 d_intervalle_premier <- d_intervalle %>%
   filter(intervalle_personnalise == premier_intervalle)
 
-# NB : cette ligne écrase la colonne defunt_age avec le contenu de
-# defunt_classe_age (probablement un reliquat de copier-coller depuis un
-# script équivalent sur le sexe). Sans conséquence ici puisque c'est bien
-# defunt_classe_age (et non defunt_age) qui est utilisé juste en dessous pour
-# construire le tableau de contingence, mais à corriger si defunt_age est
-# réutilisé ailleurs dans une future version de ce script.
 d_intervalle_premier$defunt_age <- as.factor(d_intervalle_premier$defunt_classe_age)
 
 contingence_gaule_sud_premier <- table(d_intervalle_premier$nouvelle_categorie, d_intervalle_premier$defunt_classe_age)
@@ -150,13 +144,7 @@ contrib_lignes <- afc_gaule_sud_deuxieme$row$contrib
 coord_lignes <- afc_gaule_sud_deuxieme$row$coord
 cos2_lignes <- afc_gaule_sud_deuxieme$row$cos2
 
-# NB : contrairement au premier intervalle, ce tableau inclut la dimension 3
-# en plus des dimensions 1 et 2. Les colonnes "Contrib_Dim2", "Coord_Dim2" et
-# "Cos2_Dim2" apparaissent ici deux fois (une fois pour l'axe 2, une fois pour
-# l'axe 3 — la deuxième occurrence concerne en réalité la dimension 3, malgré
-# son nom). R renomme automatiquement les doublons en ajoutant le suffixe
-# ".1" (aucune donnée perdue), mais l'intitulé de colonne reste trompeur à la
-# lecture du CSV exporté.
+
 df_lignes <- data.frame(
   Modalité = rownames(contrib_lignes),
   Contrib_Dim1 = contrib_lignes[, 1],
@@ -165,9 +153,9 @@ df_lignes <- data.frame(
   Contrib_Dim2 = contrib_lignes[, 2],
   Coord_Dim2 = coord_lignes[, 2],
   Cos2_Dim2 = cos2_lignes[, 2],
-  Contrib_Dim2 = contrib_lignes[, 3],   # NB : il s'agit en réalité de la dimension 3
-  Coord_Dim2 = coord_lignes[, 3],       # idem
-  Cos2_Dim2 = cos2_lignes[, 3]          # idem
+  Contrib_Dim3 = contrib_lignes[, 3],   
+  Coord_Dim3 = coord_lignes[, 3],       
+  Cos2_Dim3 = cos2_lignes[, 3]          
 )
 
 write.csv2(df_lignes, "resultats/contrib_lignes_age_gaule_sud_deuxieme.csv", row.names = TRUE)
@@ -177,8 +165,6 @@ contrib_col <- afc_gaule_sud_deuxieme$col$contrib
 coord_col <- afc_gaule_sud_deuxieme$col$coord
 cos2_col <- afc_gaule_sud_deuxieme$col$cos2
 
-# Même remarque que ci-dessus concernant le nommage des colonnes (dimension 3
-# étiquetée "Dim2")
 df_col <- data.frame(
   Modalité = rownames(contrib_col),
   Contrib_Dim1 = contrib_col[, 1],
@@ -187,9 +173,9 @@ df_col <- data.frame(
   Contrib_Dim2 = contrib_col[, 2],
   Coord_Dim2 = coord_col[, 2],
   Cos2_Dim2 = cos2_col[, 2],
-  Contrib_Dim2 = contrib_col[, 3],
-  Coord_Dim2 = coord_col[, 3],
-  Cos2_Dim2 = cos2_col[, 3]
+  Contrib_Dim3 = contrib_col[, 3],
+  Coord_Dim3 = coord_col[, 3],
+  Cos2_Dim3 = cos2_col[, 3]
 )
 
 write.csv2(df_col, "resultats/contrib_col_age_gaule_sud_deuxieme.csv", row.names = TRUE)
@@ -243,8 +229,6 @@ contrib_lignes <- afc_gaule_sud_troisieme$row$contrib
 coord_lignes <- afc_gaule_sud_troisieme$row$coord
 cos2_lignes <- afc_gaule_sud_troisieme$row$cos2
 
-# Même remarque que pour le deuxième intervalle concernant le nommage des
-# colonnes de dimension 3 (étiquetées "Dim2")
 df_lignes <- data.frame(
   Modalité = rownames(contrib_lignes),
   Contrib_Dim1 = contrib_lignes[, 1],
@@ -253,9 +237,9 @@ df_lignes <- data.frame(
   Contrib_Dim2 = contrib_lignes[, 2],
   Coord_Dim2 = coord_lignes[, 2],
   Cos2_Dim2 = cos2_lignes[, 2],
-  Contrib_Dim2 = contrib_lignes[, 3],   # NB : il s'agit en réalité de la dimension 3
-  Coord_Dim2 = coord_lignes[, 3],       # idem
-  Cos2_Dim2 = cos2_lignes[, 3]          # idem
+  Contrib_Dim3 = contrib_lignes[, 3], 
+  Coord_Dim3 = coord_lignes[, 3],   
+  Cos2_Dim3 = cos2_lignes[, 3]        
 )
 
 write.csv2(df_lignes, "resultats/contrib_lignes_age_gaule_sud_troisieme.csv", row.names = TRUE)
@@ -273,9 +257,9 @@ df_col <- data.frame(
   Contrib_Dim2 = contrib_col[, 2],
   Coord_Dim2 = coord_col[, 2],
   Cos2_Dim2 = cos2_col[, 2],
-  Contrib_Dim2 = contrib_col[, 3],
-  Coord_Dim2 = coord_col[, 3],
-  Cos2_Dim2 = cos2_col[, 3]
+  Contrib_Dim3 = contrib_col[, 3],
+  Coord_Dim3 = coord_col[, 3],
+  Cos2_Dim3 = cos2_col[, 3]
 )
 
 write.csv2(df_col, "resultats/contrib_col_age_gaule_sud_troisieme.csv", row.names = TRUE)
