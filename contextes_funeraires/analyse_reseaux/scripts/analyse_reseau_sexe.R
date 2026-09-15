@@ -464,7 +464,7 @@ synthese_gaule_nord <- analyser_province(d_intervalle_gaule_nord,
                                          min_weight = min_weight,
                                          alpha = alpha)
 
-# --- Analyse Gaule du sud (désactivée par défaut dans le script d'origine) ---
+# --- Analyse Gaule du sud ---
 # Si vous voulez comparer les deux zones, décommentez ce bloc ainsi que la
 # synthèse globale ci-dessous.
 
