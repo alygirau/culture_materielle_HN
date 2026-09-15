@@ -174,10 +174,8 @@ d_filtered <- d_filtered %>%
 # 5. FUSION DES CLASSES D'ÂGE (regroupement grossier optionnel, désactivé)
 # ============================================================
 # Comme dans le script équivalent pour la Gaule du nord, ce bloc désactivé
-# fusionnerait les classes d'âge détaillées en 2 grandes catégories (adulte /
-# enfant). NB : contrairement à la version nord, ce script ne comporte pas de
-# bloc "Fusion des bébés" séparé (qui, dans la version nord, était de toute
-# façon redondant avec le bloc "Fusion des enfants").
+# fusionne les classes d'âge détaillées en 2 grandes catégories (adulte /
+# enfant).
 
 # # Fusion des adultes (à commenter pour AFC)
 # d_filtered <- d_filtered %>%
@@ -229,15 +227,10 @@ d_filtered <- d_filtered %>%
 # ============================================================
 # 6. NETTOYAGE DES CLASSES D'ÂGE DÉTAILLÉES (actif)
 # ============================================================
-# NOTE (indiquée par l'auteur du script d'origine) : pour une analyse en AFC
-# sur les classes d'âge, garder ce bloc actif ; pour une analyse sur l'âge réel
+# NOTE : pour une analyse en AFC sur les classes d'âge, garder ce bloc actif ; pour une analyse sur l'âge réel
 # (defunt_age, en années), le commenter et activer à la place le bloc de la
 # section 7 ci-dessous (actuellement désactivé).
-#
-# NB : cette liste de correspondances diffère légèrement de celle du script
-# équivalent pour la Gaule du nord — elle ne comporte pas de correction pour
-# "infantile"/"infantile ?" (absents ici du jeu de données sud, ou traités
-# différemment).
+
 d_filtered <- d_filtered %>%
   mutate(defunt_classe_age = case_when(
     defunt_classe_age == "prématuré" ~ "périnatal",
