@@ -189,3 +189,5 @@ lancer un script, celui-ci ne trouvera pas les fichiers de données et
 affichera une erreur du type `cannot open file`. Il suffit de reprendre
 l'étape 3, en veillant à bien sélectionner le sous-dossier du contexte
 concerné (et non la racine du dépôt).
+
+*les commentaires des scripts ont été harmonisé par Claude.ai pour le dépôt sur Github. Seuls ces commentaires ont été corrigés par ia générative : l'entièreté des scripts ont été écrit par l'autrice.
